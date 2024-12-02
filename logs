@@ -1,468 +1,1403 @@
 Cloud logs
-Dec 3, 2024, 7:50:05 AM	Info	--- Starting Sheet Optimization ---
-Dec 3, 2024, 7:50:07 AM	Info	Row 6: Type=island
-Dec 3, 2024, 7:50:07 AM	Info	Row 7: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0088401A at column 15
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 7, Value=GL Pu Tube, RefValue: C0088401A
-Dec 3, 2024, 7:50:07 AM	Info	Row 8: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 9: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 10: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 11: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119501A at column 15
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 11, Value=Cut attach.Buckle FAST Sternal (x2), RefValue: C0119501A
-Dec 3, 2024, 7:50:07 AM	Info	Row 12: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 13: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0086001A at column 15
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 13, Value=Cut bottom seat webbing C73, RefValue: C0086001A
-Dec 3, 2024, 7:50:07 AM	Info	Row 14: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 15: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0086101A at column 15
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 15, Value=Cut passing elastic 20mm C73  (x4), RefValue: C0086101A
-Dec 3, 2024, 7:50:07 AM	Info	Row 16: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 17: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119600A at column 15
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 17, Value=Cut webb Rear Attach, RefValue: C0119600A
-Dec 3, 2024, 7:50:07 AM	Info	Row 18: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 19: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119001A at column 15
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 19, Value=Cut web shoulder C73 , RefValue: C0119001A
-Dec 3, 2024, 7:50:07 AM	Info	Row 20: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 21: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119200A at column 15
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 21, Value=Cut webb adjust shoulder s0/1 (x2), RefValue: C0119200A
-Dec 3, 2024, 7:50:07 AM	Info	Row 22: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 23: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119301A at column 15
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 23, Value=Cut Webb Leg LEFT s1, RefValue: C0119301A
-Dec 3, 2024, 7:50:07 AM	Info	Row 24: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 25: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119404A at column 15
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 25, Value=Cut Webb Leg RIGHT UL s1, RefValue: C0119404A
-Dec 3, 2024, 7:50:07 AM	Info	Row 26: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 27: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0089302A at column 15
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 27, Value=Cut renforce.webb magic ring (x2), RefValue: C0089302A
-Dec 3, 2024, 7:50:07 AM	Info	Row 28: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 29: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0118900A at column 15
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 29, Value=Cut Webbing PL (x2), RefValue: C0118900A
-Dec 3, 2024, 7:50:07 AM	Info	Row 30: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 31: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119103A at column 15
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 31, Value=Cut webbing back support 44mm INT s1, RefValue: C0119103A
-Dec 3, 2024, 7:50:07 AM	Info	Row 32: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 33: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0088401A at column 20
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 33, Value=GL Pu Tube, RefValue: C0088401A
-Dec 3, 2024, 7:50:07 AM	Info	Row 34: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 35: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 36: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 37: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119500A at column 20
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 37, Value=Cut attach.Buckle FAST Sternal (x2), RefValue: C0119500A
-Dec 3, 2024, 7:50:07 AM	Info	Row 38: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 39: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0086001A at column 20
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 39, Value=Cut bottom seat webbing C73, RefValue: C0086001A
-Dec 3, 2024, 7:50:07 AM	Info	Row 40: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 41: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0086101A at column 20
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 41, Value=Cut passing elastic 20mm C73  (x4), RefValue: C0086101A
-Dec 3, 2024, 7:50:07 AM	Info	Row 42: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 43: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119000A at column 20
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 43, Value=Cut web shoulder C73 , RefValue: C0119000A
-Dec 3, 2024, 7:50:07 AM	Info	Row 44: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 45: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119200A at column 20
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 45, Value=Cut webb adjust shoulder s0/1 (x2), RefValue: C0119200A
-Dec 3, 2024, 7:50:07 AM	Info	Row 46: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 47: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119301A at column 20
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 47, Value=Cut Webb Leg LEFT s1, RefValue: C0119301A
-Dec 3, 2024, 7:50:07 AM	Info	Row 48: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 49: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119401A at column 20
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 49, Value=Cut Webb Leg RIGHT CE s1, RefValue: C0119401A
-Dec 3, 2024, 7:50:07 AM	Info	Row 50: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 51: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0089302A at column 20
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 51, Value=Cut renforce.webb magic ring (x2), RefValue: C0089302A
-Dec 3, 2024, 7:50:07 AM	Info	Row 52: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 53: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0118900A at column 20
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 53, Value=Cut Webbing PL, RefValue: C0118900A
-Dec 3, 2024, 7:50:07 AM	Info	Row 54: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 55: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119100A at column 20
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 55, Value=Cut webbing back support 44mm CE s1, RefValue: C0119100A
-Dec 3, 2024, 7:50:07 AM	Info	Row 56: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 57: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0088401A at column 25
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 57, Value=GL Pu Tube, RefValue: C0088401A
-Dec 3, 2024, 7:50:07 AM	Info	Row 58: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 59: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 60: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 61: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119501A at column 25
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 61, Value=Cut attach.Buckle FAST Sternal (x2), RefValue: C0119501A
-Dec 3, 2024, 7:50:07 AM	Info	Row 62: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 63: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0086001A at column 25
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 63, Value=Cut bottom seat webbing C73, RefValue: C0086001A
-Dec 3, 2024, 7:50:07 AM	Info	Row 64: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 65: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0086101A at column 25
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 65, Value=Cut passing elastic 20mm C73  (x4), RefValue: C0086101A
-Dec 3, 2024, 7:50:07 AM	Info	Row 66: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 67: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119600A at column 25
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 67, Value=Cut webb Rear Attach, RefValue: C0119600A
-Dec 3, 2024, 7:50:07 AM	Info	Row 68: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 69: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119000A at column 25
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 69, Value=Cut web shoulder C73 , RefValue: C0119000A
-Dec 3, 2024, 7:50:07 AM	Info	Row 70: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 71: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119200A at column 25
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 71, Value=Cut webb adjust shoulder s0/1 (x2), RefValue: C0119200A
-Dec 3, 2024, 7:50:07 AM	Info	Row 72: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 73: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119301A at column 25
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 73, Value=Cut Webb Leg LEFT s1, RefValue: C0119301A
-Dec 3, 2024, 7:50:07 AM	Info	Row 74: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 75: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119404A at column 25
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 75, Value=Cut Webb Leg RIGHT UL s1, RefValue: C0119404A
-Dec 3, 2024, 7:50:07 AM	Info	Row 76: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 77: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0089302A at column 25
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 77, Value=Cut renforce.webb magic ring (x2), RefValue: C0089302A
-Dec 3, 2024, 7:50:07 AM	Info	Row 78: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 79: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0118900A at column 25
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 79, Value=Cut Webbing PL (x2), RefValue: C0118900A
-Dec 3, 2024, 7:50:07 AM	Info	Row 80: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 81: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119103A at column 25
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 81, Value=Cut webbing back support 44mm INT s1, RefValue: C0119103A
-Dec 3, 2024, 7:50:07 AM	Info	Row 82: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 83: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0088401A at column 30
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 83, Value=GL Pu Tube, RefValue: C0088401A
-Dec 3, 2024, 7:50:07 AM	Info	Row 84: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 85: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 86: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 87: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119500A at column 30
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 87, Value=Cut attach.Buckle FAST Sternal (x2), RefValue: C0119500A
-Dec 3, 2024, 7:50:07 AM	Info	Row 88: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 89: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0086001A at column 30
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 89, Value=Cut bottom seat webbing C73, RefValue: C0086001A
-Dec 3, 2024, 7:50:07 AM	Info	Row 90: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 91: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0086101A at column 30
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 91, Value=Cut passing elastic 20mm C73  (x4), RefValue: C0086101A
-Dec 3, 2024, 7:50:07 AM	Info	Row 92: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 93: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119001A at column 30
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 93, Value=Cut web shoulder C73 , RefValue: C0119001A
-Dec 3, 2024, 7:50:07 AM	Info	Row 94: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 95: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119200A at column 30
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 95, Value=Cut webb adjust shoulder s0/1 (x2), RefValue: C0119200A
-Dec 3, 2024, 7:50:07 AM	Info	Row 96: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 97: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119301A at column 30
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 97, Value=Cut Webb Leg LEFT s1, RefValue: C0119301A
-Dec 3, 2024, 7:50:07 AM	Info	Row 98: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 99: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119401A at column 30
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 99, Value=Cut Webb Leg RIGHT CE s1, RefValue: C0119401A
-Dec 3, 2024, 7:50:07 AM	Info	Row 100: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 101: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0089302A at column 30
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 101, Value=Cut renforce.webb magic ring (x2), RefValue: C0089302A
-Dec 3, 2024, 7:50:07 AM	Info	Row 102: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 103: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0118900A at column 30
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 103, Value=Cut Webbing PL, RefValue: C0118900A
-Dec 3, 2024, 7:50:07 AM	Info	Row 104: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 105: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0088401A at column 35
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 105, Value=GL Pu Tube, RefValue: C0088401A
-Dec 3, 2024, 7:50:07 AM	Info	Row 106: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 107: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 108: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 109: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119501A at column 35
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 109, Value=Cut attach.Buckle FAST Sternal (x2), RefValue: C0119501A
-Dec 3, 2024, 7:50:07 AM	Info	Row 110: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 111: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0086001A at column 35
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 111, Value=Cut bottom seat webbing C73, RefValue: C0086001A
-Dec 3, 2024, 7:50:07 AM	Info	Row 112: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 113: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0086101A at column 35
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 113, Value=Cut passing elastic 20mm C73  (x4), RefValue: C0086101A
-Dec 3, 2024, 7:50:07 AM	Info	Row 114: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 115: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119600A at column 35
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 115, Value=Cut webb Rear Attach, RefValue: C0119600A
-Dec 3, 2024, 7:50:07 AM	Info	Row 116: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 117: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119001A at column 35
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 117, Value=Cut web shoulder C73 , RefValue: C0119001A
-Dec 3, 2024, 7:50:07 AM	Info	Row 118: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 119: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119200A at column 35
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 119, Value=Cut webb adjust shoulder s0/1 (x2), RefValue: C0119200A
-Dec 3, 2024, 7:50:07 AM	Info	Row 120: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 121: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119301A at column 35
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 121, Value=Cut Webb Leg LEFT s1, RefValue: C0119301A
-Dec 3, 2024, 7:50:07 AM	Info	Row 122: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 123: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119404A at column 35
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 123, Value=Cut Webb Leg RIGHT UL s1, RefValue: C0119404A
-Dec 3, 2024, 7:50:07 AM	Info	Row 124: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 125: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0089302A at column 35
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 125, Value=Cut renforce.webb magic ring (x2), RefValue: C0089302A
-Dec 3, 2024, 7:50:07 AM	Info	Row 126: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 127: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0118900A at column 35
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 127, Value=Cut Webbing PL (x2), RefValue: C0118900A
-Dec 3, 2024, 7:50:07 AM	Info	Row 128: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 129: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119103A at column 35
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 129, Value=Cut webbing back support 44mm INT s1, RefValue: C0119103A
-Dec 3, 2024, 7:50:07 AM	Info	Row 130: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 131: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0088401A at column 40
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 131, Value=GL Pu Tube, RefValue: C0088401A
-Dec 3, 2024, 7:50:07 AM	Info	Row 132: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 133: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 134: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 135: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119501A at column 40
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 135, Value=Cut attach.Buckle FAST Sternal (x2), RefValue: C0119501A
-Dec 3, 2024, 7:50:07 AM	Info	Row 136: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 137: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0086001A at column 40
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 137, Value=Cut bottom seat webbing C73, RefValue: C0086001A
-Dec 3, 2024, 7:50:07 AM	Info	Row 138: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 139: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0086101A at column 40
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 139, Value=Cut passing elastic 20mm C73  (x4), RefValue: C0086101A
-Dec 3, 2024, 7:50:07 AM	Info	Row 140: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 141: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119600A at column 40
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 141, Value=Cut webb Rear Attach, RefValue: C0119600A
-Dec 3, 2024, 7:50:07 AM	Info	Row 142: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 143: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119001A at column 40
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 143, Value=Cut web shoulder C73 , RefValue: C0119001A
-Dec 3, 2024, 7:50:07 AM	Info	Row 144: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 145: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119200A at column 40
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 145, Value=Cut webb adjust shoulder s0/1 (x2), RefValue: C0119200A
-Dec 3, 2024, 7:50:07 AM	Info	Row 146: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 147: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119301A at column 40
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 147, Value=Cut Webb Leg LEFT s1, RefValue: C0119301A
-Dec 3, 2024, 7:50:07 AM	Info	Row 148: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 149: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119404A at column 40
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 149, Value=Cut Webb Leg RIGHT UL s1, RefValue: C0119404A
-Dec 3, 2024, 7:50:07 AM	Info	Row 150: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 151: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0089302A at column 40
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 151, Value=Cut renforce.webb magic ring (x2), RefValue: C0089302A
-Dec 3, 2024, 7:50:07 AM	Info	Row 152: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 153: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0118900A at column 40
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 153, Value=Cut Webbing PL (x2), RefValue: C0118900A
-Dec 3, 2024, 7:50:07 AM	Info	Row 154: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 155: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119103A at column 40
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 155, Value=Cut webbing back support 44mm INT s1, RefValue: C0119103A
-Dec 3, 2024, 7:50:07 AM	Info	Row 156: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 157: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0088401A at column 45
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 157, Value=GL Pu Tube, RefValue: C0088401A
-Dec 3, 2024, 7:50:07 AM	Info	Row 158: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 159: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 160: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 161: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119500A at column 45
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 161, Value=Cut attach.Buckle FAST Sternal (x2), RefValue: C0119500A
-Dec 3, 2024, 7:50:07 AM	Info	Row 162: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 163: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0086001A at column 45
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 163, Value=Cut bottom seat webbing C73, RefValue: C0086001A
-Dec 3, 2024, 7:50:07 AM	Info	Row 164: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 165: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0086101A at column 45
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 165, Value=Cut passing elastic 20mm C73  (x4), RefValue: C0086101A
-Dec 3, 2024, 7:50:07 AM	Info	Row 166: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 167: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119001A at column 45
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 167, Value=Cut web shoulder C73 , RefValue: C0119001A
-Dec 3, 2024, 7:50:07 AM	Info	Row 168: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 169: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119200A at column 45
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 169, Value=Cut webb adjust shoulder s0/1 (x2), RefValue: C0119200A
-Dec 3, 2024, 7:50:07 AM	Info	Row 170: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 171: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119301A at column 45
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 171, Value=Cut Webb Leg LEFT s1, RefValue: C0119301A
-Dec 3, 2024, 7:50:07 AM	Info	Row 172: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 173: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119401A at column 45
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 173, Value=Cut Webb Leg RIGHT EUR s1, RefValue: C0119401A
-Dec 3, 2024, 7:50:07 AM	Info	Row 174: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 175: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0089302A at column 45
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 175, Value=Cut renforce.webb magic ring (x2), RefValue: C0089302A
-Dec 3, 2024, 7:50:07 AM	Info	Row 176: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 177: Type=subassy
-Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0118900A at column 45
-Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 177, Value=Cut Webbing PL, RefValue: C0118900A
-Dec 3, 2024, 7:50:07 AM	Info	Row 178: Type=process
-Dec 3, 2024, 7:50:07 AM	Info	Row 179: Type=island
-Dec 3, 2024, 7:50:07 AM	Info	Processing Island starting at row 6 with 79 groups
-Dec 3, 2024, 7:50:07 AM	Info	Island boundaries: 6 to 178
-Dec 3, 2024, 7:50:07 AM	Info	Chrono values for group at row 7: 24,4,16
-Dec 3, 2024, 7:50:07 AM	Info	Chrono values for group at row 33: 24,4,16
-Dec 3, 2024, 7:50:07 AM	Info	Merging groups at rows 7 and 33
-Dec 3, 2024, 7:50:07 AM	Info	Formula state before copy at target row 7:
-Dec 3, 2024, 7:50:07 AM	Info	[["","","","","","","","","","","","","","","","=SUM(P723:P724)","=SUM(Q723:Q724)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","=12*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","=2*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","=8*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:50:07 AM	Info	Processing group at row 7, ref column 15
-Dec 3, 2024, 7:50:07 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:50:08 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:50:08 AM	Info	Initial font colors:
-Dec 3, 2024, 7:50:08 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:50:08 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:50:08 AM	Info	Chrono values for group at row 7: 24,4,16
-Dec 3, 2024, 7:50:08 AM	Info	Chrono values for group at row 53: 24,4,16
-Dec 3, 2024, 7:50:08 AM	Info	Merging groups at rows 7 and 53
-Dec 3, 2024, 7:50:09 AM	Info	Formula state before copy at target row 7:
-Dec 3, 2024, 7:50:09 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U720:U721)","=SUM(V720:V721)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=12*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=2*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=8*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:50:09 AM	Info	Processing group at row 7, ref column 15
-Dec 3, 2024, 7:50:09 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:50:09 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:50:09 AM	Info	Initial font colors:
-Dec 3, 2024, 7:50:09 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:50:09 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:50:09 AM	Info	Chrono values for group at row 7: 24,4,16
-Dec 3, 2024, 7:50:09 AM	Info	Chrono values for group at row 75: 24,4,16
-Dec 3, 2024, 7:50:09 AM	Info	Merging groups at rows 7 and 75
-Dec 3, 2024, 7:50:10 AM	Info	Formula state before copy at target row 7:
-Dec 3, 2024, 7:50:10 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U716:U717)","=SUM(V716:V717)","","","","=SUM(Z716:Z717)","=SUM(AA716:AA717)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=12*2","","","","","=12*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=2*2","","","","","=2*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=8*2","","","","","=8*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:50:10 AM	Info	Processing group at row 7, ref column 15
-Dec 3, 2024, 7:50:10 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:50:10 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:50:10 AM	Info	Initial font colors:
-Dec 3, 2024, 7:50:10 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:50:11 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:50:11 AM	Info	Chrono values for group at row 7: 24,4,16
-Dec 3, 2024, 7:50:11 AM	Info	Chrono values for group at row 93: 24,4,16
-Dec 3, 2024, 7:50:11 AM	Info	Merging groups at rows 7 and 93
-Dec 3, 2024, 7:50:11 AM	Info	Formula state before copy at target row 7:
-Dec 3, 2024, 7:50:11 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U712:U713)","=SUM(V712:V713)","","","","=SUM(Z712:Z713)","=SUM(AA712:AA713)","","","","=SUM(AE712:AE713)","=SUM(AF712:AF713)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=12*2","","","","","=12*2","","","","","=12*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=2*2","","","","","=2*2","","","","","=2*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=8*2","","","","","=8*2","","","","","=8*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:50:11 AM	Info	Processing group at row 7, ref column 15
-Dec 3, 2024, 7:50:11 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:50:11 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:50:11 AM	Info	Initial font colors:
-Dec 3, 2024, 7:50:11 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:50:12 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:50:12 AM	Info	Chrono values for group at row 7: 24,4,16
-Dec 3, 2024, 7:50:12 AM	Info	Chrono values for group at row 115: 24,4,16
-Dec 3, 2024, 7:50:12 AM	Info	Merging groups at rows 7 and 115
-Dec 3, 2024, 7:50:13 AM	Info	Formula state before copy at target row 7:
-Dec 3, 2024, 7:50:13 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U708:U709)","=SUM(V708:V709)","","","","=SUM(Z708:Z709)","=SUM(AA708:AA709)","","","","=SUM(AE708:AE709)","=SUM(AF708:AF709)","","","","=SUM(AJ708:AJ709)","=SUM(AK708:AK709)","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=12*2","","","","","=12*2","","","","","=12*2","","","","","=12*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=2*2","","","","","=2*2","","","","","=2*2","","","","","=2*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=8*2","","","","","=8*2","","","","","=8*2","","","","","=8*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:50:13 AM	Info	Processing group at row 7, ref column 15
-Dec 3, 2024, 7:50:13 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:50:14 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:50:14 AM	Info	Initial font colors:
-Dec 3, 2024, 7:50:14 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:50:14 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:50:14 AM	Info	Chrono values for group at row 7: 24,4,16
-Dec 3, 2024, 7:50:14 AM	Info	Chrono values for group at row 137: 24,4,16
-Dec 3, 2024, 7:50:14 AM	Info	Merging groups at rows 7 and 137
-Dec 3, 2024, 7:50:15 AM	Info	Formula state before copy at target row 7:
-Dec 3, 2024, 7:50:15 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U704:U705)","=SUM(V704:V705)","","","","=SUM(Z704:Z705)","=SUM(AA704:AA705)","","","","=SUM(AE704:AE705)","=SUM(AF704:AF705)","","","","=SUM(AJ704:AJ705)","=SUM(AK704:AK705)","","","","=SUM(AO704:AO705)","=SUM(AP704:AP705)","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=12*2","","","","","=12*2","","","","","=12*2","","","","","=12*2","","","","","=12*2","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=2*2","","","","","=2*2","","","","","=2*2","","","","","=2*2","","","","","=2*2","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=8*2","","","","","=8*2","","","","","=8*2","","","","","=8*2","","","","","=8*2","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:50:15 AM	Info	Processing group at row 7, ref column 15
-Dec 3, 2024, 7:50:15 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:50:15 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:50:15 AM	Info	Initial font colors:
-Dec 3, 2024, 7:50:15 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:50:15 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:50:16 AM	Info	Chrono values for group at row 11: 5
-Dec 3, 2024, 7:50:16 AM	Info	Chrono values for group at row 33: 5
-Dec 3, 2024, 7:50:16 AM	Info	Merging groups at rows 11 and 33
-Dec 3, 2024, 7:50:17 AM	Info	Formula state before copy at target row 11:
-Dec 3, 2024, 7:50:17 AM	Info	[["","","","","","","","","","","","","","","","=SUM(P699:P700)","=SUM(Q699:Q700)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","=2,5*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:50:17 AM	Info	Processing group at row 11, ref column 15
-Dec 3, 2024, 7:50:17 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:50:18 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:50:18 AM	Info	Initial font colors:
-Dec 3, 2024, 7:50:18 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:50:18 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:50:19 AM	Info	Chrono values for group at row 11: 5
-Dec 3, 2024, 7:50:19 AM	Info	Chrono values for group at row 51: 5
-Dec 3, 2024, 7:50:19 AM	Info	Merging groups at rows 11 and 51
-Dec 3, 2024, 7:50:19 AM	Info	Formula state before copy at target row 11:
-Dec 3, 2024, 7:50:19 AM	Info	[["","","","","","","","","","","","","","","","=SUM(P697:P698)","=SUM(Q697:Q698)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:50:19 AM	Info	Processing group at row 11, ref column 15
-Dec 3, 2024, 7:50:19 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:50:20 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:50:20 AM	Info	Initial font colors:
-Dec 3, 2024, 7:50:20 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:50:20 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:50:20 AM	Info	Chrono values for group at row 11: 5
-Dec 3, 2024, 7:50:20 AM	Info	Chrono values for group at row 71: 5
-Dec 3, 2024, 7:50:20 AM	Info	Merging groups at rows 11 and 71
-Dec 3, 2024, 7:50:21 AM	Info	Formula state before copy at target row 11:
-Dec 3, 2024, 7:50:21 AM	Info	[["","","","","","","","","","","","","","","","","","","","","","","","","","=SUM(Z696:Z697)","=SUM(AA696:AA697)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","=2,5*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:50:21 AM	Info	Processing group at row 11, ref column 15
-Dec 3, 2024, 7:50:21 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:50:22 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:50:22 AM	Info	Initial font colors:
-Dec 3, 2024, 7:50:22 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:50:22 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:50:22 AM	Info	Chrono values for group at row 11: 5
-Dec 3, 2024, 7:50:22 AM	Info	Chrono values for group at row 87: 5
-Dec 3, 2024, 7:50:22 AM	Info	Merging groups at rows 11 and 87
-Dec 3, 2024, 7:50:23 AM	Info	Formula state before copy at target row 11:
-Dec 3, 2024, 7:50:23 AM	Info	[["","","","","","","","","","","","","","","","","","","","","","","","","","=SUM(Z694:Z695)","=SUM(AA694:AA695)","","","","=SUM(AE694:AE695)","=SUM(AF694:AF695)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","=2,5*2","","","","","=2,5*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:50:23 AM	Info	Processing group at row 11, ref column 15
-Dec 3, 2024, 7:50:23 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:50:23 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:50:23 AM	Info	Initial font colors:
-Dec 3, 2024, 7:50:23 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:50:24 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:50:24 AM	Info	Chrono values for group at row 11: 5
-Dec 3, 2024, 7:50:24 AM	Info	Chrono values for group at row 107: 5
-Dec 3, 2024, 7:50:24 AM	Info	Merging groups at rows 11 and 107
-Dec 3, 2024, 7:50:25 AM	Info	Formula state before copy at target row 11:
-Dec 3, 2024, 7:50:25 AM	Info	[["","","","","","","","","","","","","","","","","","","","","","","","","","=SUM(Z692:Z693)","=SUM(AA692:AA693)","","","","=SUM(AE692:AE693)","=SUM(AF692:AF693)","","","","=SUM(AJ692:AJ693)","=SUM(AK692:AK693)","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","=2,5*2","","","","","=2,5*2","","","","","=2,5*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:50:25 AM	Info	Processing group at row 11, ref column 15
-Dec 3, 2024, 7:50:25 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:50:26 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:50:26 AM	Info	Initial font colors:
-Dec 3, 2024, 7:50:26 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:50:26 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:50:26 AM	Info	Chrono values for group at row 11: 5
-Dec 3, 2024, 7:50:26 AM	Info	Chrono values for group at row 127: 5
-Dec 3, 2024, 7:50:26 AM	Info	Merging groups at rows 11 and 127
-Dec 3, 2024, 7:50:27 AM	Info	Formula state before copy at target row 11:
-Dec 3, 2024, 7:50:27 AM	Info	[["","","","","","","","","","","","","","","","","","","","","","","","","","=SUM(Z690:Z691)","=SUM(AA690:AA691)","","","","=SUM(AE690:AE691)","=SUM(AF690:AF691)","","","","=SUM(AJ690:AJ691)","=SUM(AK690:AK691)","","","","=SUM(AO690:AO691)","=SUM(AP690:AP691)","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","=2,5*2","","","","","=2,5*2","","","","","=2,5*2","","","","","=2,5*2","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:50:27 AM	Info	Processing group at row 11, ref column 15
-Dec 3, 2024, 7:50:27 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:50:27 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:50:27 AM	Info	Initial font colors:
-Dec 3, 2024, 7:50:27 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:50:27 AM	Info	Execution cancelled.
+Dec 3, 2024, 7:58:01 AM	Info	--- Starting Sheet Optimization ---
+Dec 3, 2024, 7:58:04 AM	Info	Row 6: Type=island, Value=Cutting
+Dec 3, 2024, 7:58:04 AM	Info	Found Island: Cutting at row 6
+Dec 3, 2024, 7:58:04 AM	Info	Row 7: Type=subassy, Value=GL Pu Tube
+Dec 3, 2024, 7:58:04 AM	Info	Found SubAssy: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:04 AM	Info	Found ref value C0088401A at column 15
+Dec 3, 2024, 7:58:04 AM	Info	Creating SubAssy group at row 7, Value=GL Pu Tube, RefValue: C0088401A
+Dec 3, 2024, 7:58:04 AM	Info	Row 8: Type=process, Value=
+Dec 3, 2024, 7:58:04 AM	Info	Found Process at row 8 for SubAssy: GL Pu Tube
+Dec 3, 2024, 7:58:04 AM	Info	Row 9: Type=process, Value=
+Dec 3, 2024, 7:58:04 AM	Info	Found Process at row 9 for SubAssy: GL Pu Tube
+Dec 3, 2024, 7:58:04 AM	Info	Row 10: Type=process, Value=
+Dec 3, 2024, 7:58:04 AM	Info	Found Process at row 10 for SubAssy: GL Pu Tube
+Dec 3, 2024, 7:58:04 AM	Info	Row 11: Type=subassy, Value=Cut attach.Buckle FAST Sternal (x2)
+Dec 3, 2024, 7:58:04 AM	Info	Found SubAssy: Cut attach.Buckle FAST Sternal (x2) at row 11
+Dec 3, 2024, 7:58:04 AM	Info	Found ref value C0119501A at column 15
+Dec 3, 2024, 7:58:04 AM	Info	Creating SubAssy group at row 11, Value=Cut attach.Buckle FAST Sternal (x2), RefValue: C0119501A
+Dec 3, 2024, 7:58:04 AM	Info	Row 12: Type=process, Value=
+Dec 3, 2024, 7:58:04 AM	Info	Found Process at row 12 for SubAssy: Cut attach.Buckle FAST Sternal (x2)
+Dec 3, 2024, 7:58:04 AM	Info	Row 13: Type=subassy, Value=Cut bottom seat webbing C73
+Dec 3, 2024, 7:58:04 AM	Info	Found SubAssy: Cut bottom seat webbing C73 at row 13
+Dec 3, 2024, 7:58:04 AM	Info	Found ref value C0086001A at column 15
+Dec 3, 2024, 7:58:04 AM	Info	Creating SubAssy group at row 13, Value=Cut bottom seat webbing C73, RefValue: C0086001A
+Dec 3, 2024, 7:58:04 AM	Info	Row 14: Type=process, Value=
+Dec 3, 2024, 7:58:04 AM	Info	Found Process at row 14 for SubAssy: Cut bottom seat webbing C73
+Dec 3, 2024, 7:58:04 AM	Info	Row 15: Type=subassy, Value=Cut passing elastic 20mm C73  (x4)
+Dec 3, 2024, 7:58:04 AM	Info	Found SubAssy: Cut passing elastic 20mm C73  (x4) at row 15
+Dec 3, 2024, 7:58:04 AM	Info	Found ref value C0086101A at column 15
+Dec 3, 2024, 7:58:04 AM	Info	Creating SubAssy group at row 15, Value=Cut passing elastic 20mm C73  (x4), RefValue: C0086101A
+Dec 3, 2024, 7:58:04 AM	Info	Row 16: Type=process, Value=
+Dec 3, 2024, 7:58:04 AM	Info	Found Process at row 16 for SubAssy: Cut passing elastic 20mm C73  (x4)
+Dec 3, 2024, 7:58:04 AM	Info	Row 17: Type=subassy, Value=Cut webb Rear Attach
+Dec 3, 2024, 7:58:04 AM	Info	Found SubAssy: Cut webb Rear Attach at row 17
+Dec 3, 2024, 7:58:04 AM	Info	Found ref value C0119600A at column 15
+Dec 3, 2024, 7:58:04 AM	Info	Creating SubAssy group at row 17, Value=Cut webb Rear Attach, RefValue: C0119600A
+Dec 3, 2024, 7:58:04 AM	Info	Row 18: Type=process, Value=
+Dec 3, 2024, 7:58:04 AM	Info	Found Process at row 18 for SubAssy: Cut webb Rear Attach
+Dec 3, 2024, 7:58:04 AM	Info	Row 19: Type=subassy, Value=Cut web shoulder C73 
+Dec 3, 2024, 7:58:04 AM	Info	Found SubAssy: Cut web shoulder C73  at row 19
+Dec 3, 2024, 7:58:04 AM	Info	Found ref value C0119001A at column 15
+Dec 3, 2024, 7:58:04 AM	Info	Creating SubAssy group at row 19, Value=Cut web shoulder C73 , RefValue: C0119001A
+Dec 3, 2024, 7:58:04 AM	Info	Row 20: Type=process, Value=
+Dec 3, 2024, 7:58:04 AM	Info	Found Process at row 20 for SubAssy: Cut web shoulder C73 
+Dec 3, 2024, 7:58:04 AM	Info	Row 21: Type=subassy, Value=Cut webb adjust shoulder s0/1 (x2)
+Dec 3, 2024, 7:58:04 AM	Info	Found SubAssy: Cut webb adjust shoulder s0/1 (x2) at row 21
+Dec 3, 2024, 7:58:04 AM	Info	Found ref value C0119200A at column 15
+Dec 3, 2024, 7:58:04 AM	Info	Creating SubAssy group at row 21, Value=Cut webb adjust shoulder s0/1 (x2), RefValue: C0119200A
+Dec 3, 2024, 7:58:04 AM	Info	Row 22: Type=process, Value=
+Dec 3, 2024, 7:58:04 AM	Info	Found Process at row 22 for SubAssy: Cut webb adjust shoulder s0/1 (x2)
+Dec 3, 2024, 7:58:04 AM	Info	Row 23: Type=subassy, Value=Cut Webb Leg LEFT s1
+Dec 3, 2024, 7:58:04 AM	Info	Found SubAssy: Cut Webb Leg LEFT s1 at row 23
+Dec 3, 2024, 7:58:04 AM	Info	Found ref value C0119301A at column 15
+Dec 3, 2024, 7:58:04 AM	Info	Creating SubAssy group at row 23, Value=Cut Webb Leg LEFT s1, RefValue: C0119301A
+Dec 3, 2024, 7:58:04 AM	Info	Row 24: Type=process, Value=
+Dec 3, 2024, 7:58:04 AM	Info	Found Process at row 24 for SubAssy: Cut Webb Leg LEFT s1
+Dec 3, 2024, 7:58:04 AM	Info	Row 25: Type=subassy, Value=Cut Webb Leg RIGHT UL s1
+Dec 3, 2024, 7:58:04 AM	Info	Found SubAssy: Cut Webb Leg RIGHT UL s1 at row 25
+Dec 3, 2024, 7:58:04 AM	Info	Found ref value C0119404A at column 15
+Dec 3, 2024, 7:58:04 AM	Info	Creating SubAssy group at row 25, Value=Cut Webb Leg RIGHT UL s1, RefValue: C0119404A
+Dec 3, 2024, 7:58:04 AM	Info	Row 26: Type=process, Value=
+Dec 3, 2024, 7:58:04 AM	Info	Found Process at row 26 for SubAssy: Cut Webb Leg RIGHT UL s1
+Dec 3, 2024, 7:58:04 AM	Info	Row 27: Type=subassy, Value=Cut renforce.webb magic ring (x2)
+Dec 3, 2024, 7:58:04 AM	Info	Found SubAssy: Cut renforce.webb magic ring (x2) at row 27
+Dec 3, 2024, 7:58:04 AM	Info	Found ref value C0089302A at column 15
+Dec 3, 2024, 7:58:04 AM	Info	Creating SubAssy group at row 27, Value=Cut renforce.webb magic ring (x2), RefValue: C0089302A
+Dec 3, 2024, 7:58:04 AM	Info	Row 28: Type=process, Value=
+Dec 3, 2024, 7:58:04 AM	Info	Found Process at row 28 for SubAssy: Cut renforce.webb magic ring (x2)
+Dec 3, 2024, 7:58:04 AM	Info	Row 29: Type=subassy, Value=Cut Webbing PL (x2)
+Dec 3, 2024, 7:58:04 AM	Info	Found SubAssy: Cut Webbing PL (x2) at row 29
+Dec 3, 2024, 7:58:04 AM	Info	Found ref value C0118900A at column 15
+Dec 3, 2024, 7:58:04 AM	Info	Creating SubAssy group at row 29, Value=Cut Webbing PL (x2), RefValue: C0118900A
+Dec 3, 2024, 7:58:04 AM	Info	Row 30: Type=process, Value=
+Dec 3, 2024, 7:58:04 AM	Info	Found Process at row 30 for SubAssy: Cut Webbing PL (x2)
+Dec 3, 2024, 7:58:04 AM	Info	Row 31: Type=subassy, Value=Cut webbing back support 44mm INT s1
+Dec 3, 2024, 7:58:04 AM	Info	Found SubAssy: Cut webbing back support 44mm INT s1 at row 31
+Dec 3, 2024, 7:58:04 AM	Info	Found ref value C0119103A at column 15
+Dec 3, 2024, 7:58:04 AM	Info	Creating SubAssy group at row 31, Value=Cut webbing back support 44mm INT s1, RefValue: C0119103A
+Dec 3, 2024, 7:58:04 AM	Info	Row 32: Type=process, Value=
+Dec 3, 2024, 7:58:04 AM	Info	Found Process at row 32 for SubAssy: Cut webbing back support 44mm INT s1
+Dec 3, 2024, 7:58:04 AM	Info	Row 33: Type=subassy, Value=GL Pu Tube
+Dec 3, 2024, 7:58:04 AM	Info	Found SubAssy: GL Pu Tube at row 33
+Dec 3, 2024, 7:58:04 AM	Info	Found ref value C0088401A at column 20
+Dec 3, 2024, 7:58:04 AM	Info	Creating SubAssy group at row 33, Value=GL Pu Tube, RefValue: C0088401A
+Dec 3, 2024, 7:58:04 AM	Info	Row 34: Type=process, Value=
+Dec 3, 2024, 7:58:04 AM	Info	Found Process at row 34 for SubAssy: GL Pu Tube
+Dec 3, 2024, 7:58:04 AM	Info	Row 35: Type=process, Value=
+Dec 3, 2024, 7:58:04 AM	Info	Found Process at row 35 for SubAssy: GL Pu Tube
+Dec 3, 2024, 7:58:04 AM	Info	Row 36: Type=process, Value=
+Dec 3, 2024, 7:58:04 AM	Info	Found Process at row 36 for SubAssy: GL Pu Tube
+Dec 3, 2024, 7:58:04 AM	Info	Row 37: Type=subassy, Value=Cut attach.Buckle FAST Sternal (x2)
+Dec 3, 2024, 7:58:04 AM	Info	Found SubAssy: Cut attach.Buckle FAST Sternal (x2) at row 37
+Dec 3, 2024, 7:58:04 AM	Info	Found ref value C0119500A at column 20
+Dec 3, 2024, 7:58:04 AM	Info	Creating SubAssy group at row 37, Value=Cut attach.Buckle FAST Sternal (x2), RefValue: C0119500A
+Dec 3, 2024, 7:58:04 AM	Info	Row 38: Type=process, Value=
+Dec 3, 2024, 7:58:04 AM	Info	Found Process at row 38 for SubAssy: Cut attach.Buckle FAST Sternal (x2)
+Dec 3, 2024, 7:58:04 AM	Info	Row 39: Type=subassy, Value=Cut bottom seat webbing C73
+Dec 3, 2024, 7:58:04 AM	Info	Found SubAssy: Cut bottom seat webbing C73 at row 39
+Dec 3, 2024, 7:58:04 AM	Info	Found ref value C0086001A at column 20
+Dec 3, 2024, 7:58:04 AM	Info	Creating SubAssy group at row 39, Value=Cut bottom seat webbing C73, RefValue: C0086001A
+Dec 3, 2024, 7:58:04 AM	Info	Row 40: Type=process, Value=
+Dec 3, 2024, 7:58:04 AM	Info	Found Process at row 40 for SubAssy: Cut bottom seat webbing C73
+Dec 3, 2024, 7:58:04 AM	Info	Row 41: Type=subassy, Value=Cut passing elastic 20mm C73  (x4)
+Dec 3, 2024, 7:58:04 AM	Info	Found SubAssy: Cut passing elastic 20mm C73  (x4) at row 41
+Dec 3, 2024, 7:58:04 AM	Info	Found ref value C0086101A at column 20
+Dec 3, 2024, 7:58:04 AM	Info	Creating SubAssy group at row 41, Value=Cut passing elastic 20mm C73  (x4), RefValue: C0086101A
+Dec 3, 2024, 7:58:04 AM	Info	Row 42: Type=process, Value=
+Dec 3, 2024, 7:58:04 AM	Info	Found Process at row 42 for SubAssy: Cut passing elastic 20mm C73  (x4)
+Dec 3, 2024, 7:58:04 AM	Info	Row 43: Type=subassy, Value=Cut web shoulder C73 
+Dec 3, 2024, 7:58:04 AM	Info	Found SubAssy: Cut web shoulder C73  at row 43
+Dec 3, 2024, 7:58:04 AM	Info	Found ref value C0119000A at column 20
+Dec 3, 2024, 7:58:04 AM	Info	Creating SubAssy group at row 43, Value=Cut web shoulder C73 , RefValue: C0119000A
+Dec 3, 2024, 7:58:04 AM	Info	Row 44: Type=process, Value=
+Dec 3, 2024, 7:58:04 AM	Info	Found Process at row 44 for SubAssy: Cut web shoulder C73 
+Dec 3, 2024, 7:58:04 AM	Info	Row 45: Type=subassy, Value=Cut webb adjust shoulder s0/1 (x2)
+Dec 3, 2024, 7:58:04 AM	Info	Found SubAssy: Cut webb adjust shoulder s0/1 (x2) at row 45
+Dec 3, 2024, 7:58:04 AM	Info	Found ref value C0119200A at column 20
+Dec 3, 2024, 7:58:04 AM	Info	Creating SubAssy group at row 45, Value=Cut webb adjust shoulder s0/1 (x2), RefValue: C0119200A
+Dec 3, 2024, 7:58:04 AM	Info	Row 46: Type=process, Value=
+Dec 3, 2024, 7:58:04 AM	Info	Found Process at row 46 for SubAssy: Cut webb adjust shoulder s0/1 (x2)
+Dec 3, 2024, 7:58:04 AM	Info	Row 47: Type=subassy, Value=Cut Webb Leg LEFT s1
+Dec 3, 2024, 7:58:04 AM	Info	Found SubAssy: Cut Webb Leg LEFT s1 at row 47
+Dec 3, 2024, 7:58:04 AM	Info	Found ref value C0119301A at column 20
+Dec 3, 2024, 7:58:04 AM	Info	Creating SubAssy group at row 47, Value=Cut Webb Leg LEFT s1, RefValue: C0119301A
+Dec 3, 2024, 7:58:04 AM	Info	Row 48: Type=process, Value=
+Dec 3, 2024, 7:58:04 AM	Info	Found Process at row 48 for SubAssy: Cut Webb Leg LEFT s1
+Dec 3, 2024, 7:58:04 AM	Info	Row 49: Type=subassy, Value=Cut Webb Leg RIGHT CE s1
+Dec 3, 2024, 7:58:04 AM	Info	Found SubAssy: Cut Webb Leg RIGHT CE s1 at row 49
+Dec 3, 2024, 7:58:04 AM	Info	Found ref value C0119401A at column 20
+Dec 3, 2024, 7:58:04 AM	Info	Creating SubAssy group at row 49, Value=Cut Webb Leg RIGHT CE s1, RefValue: C0119401A
+Dec 3, 2024, 7:58:04 AM	Info	Row 50: Type=process, Value=
+Dec 3, 2024, 7:58:04 AM	Info	Found Process at row 50 for SubAssy: Cut Webb Leg RIGHT CE s1
+Dec 3, 2024, 7:58:04 AM	Info	Row 51: Type=subassy, Value=Cut renforce.webb magic ring (x2)
+Dec 3, 2024, 7:58:04 AM	Info	Found SubAssy: Cut renforce.webb magic ring (x2) at row 51
+Dec 3, 2024, 7:58:04 AM	Info	Found ref value C0089302A at column 20
+Dec 3, 2024, 7:58:04 AM	Info	Creating SubAssy group at row 51, Value=Cut renforce.webb magic ring (x2), RefValue: C0089302A
+Dec 3, 2024, 7:58:04 AM	Info	Row 52: Type=process, Value=
+Dec 3, 2024, 7:58:04 AM	Info	Found Process at row 52 for SubAssy: Cut renforce.webb magic ring (x2)
+Dec 3, 2024, 7:58:04 AM	Info	Row 53: Type=subassy, Value=Cut Webbing PL
+Dec 3, 2024, 7:58:04 AM	Info	Found SubAssy: Cut Webbing PL at row 53
+Dec 3, 2024, 7:58:04 AM	Info	Found ref value C0118900A at column 20
+Dec 3, 2024, 7:58:04 AM	Info	Creating SubAssy group at row 53, Value=Cut Webbing PL, RefValue: C0118900A
+Dec 3, 2024, 7:58:04 AM	Info	Row 54: Type=process, Value=
+Dec 3, 2024, 7:58:04 AM	Info	Found Process at row 54 for SubAssy: Cut Webbing PL
+Dec 3, 2024, 7:58:04 AM	Info	Row 55: Type=subassy, Value=Cut webbing back support 44mm CE s1
+Dec 3, 2024, 7:58:04 AM	Info	Found SubAssy: Cut webbing back support 44mm CE s1 at row 55
+Dec 3, 2024, 7:58:04 AM	Info	Found ref value C0119100A at column 20
+Dec 3, 2024, 7:58:04 AM	Info	Creating SubAssy group at row 55, Value=Cut webbing back support 44mm CE s1, RefValue: C0119100A
+Dec 3, 2024, 7:58:04 AM	Info	Row 56: Type=process, Value=
+Dec 3, 2024, 7:58:04 AM	Info	Found Process at row 56 for SubAssy: Cut webbing back support 44mm CE s1
+Dec 3, 2024, 7:58:04 AM	Info	Row 57: Type=subassy, Value=GL Pu Tube
+Dec 3, 2024, 7:58:04 AM	Info	Found SubAssy: GL Pu Tube at row 57
+Dec 3, 2024, 7:58:04 AM	Info	Found ref value C0088401A at column 25
+Dec 3, 2024, 7:58:04 AM	Info	Creating SubAssy group at row 57, Value=GL Pu Tube, RefValue: C0088401A
+Dec 3, 2024, 7:58:04 AM	Info	Row 58: Type=process, Value=
+Dec 3, 2024, 7:58:04 AM	Info	Found Process at row 58 for SubAssy: GL Pu Tube
+Dec 3, 2024, 7:58:04 AM	Info	Row 59: Type=process, Value=
+Dec 3, 2024, 7:58:04 AM	Info	Found Process at row 59 for SubAssy: GL Pu Tube
+Dec 3, 2024, 7:58:04 AM	Info	Row 60: Type=process, Value=
+Dec 3, 2024, 7:58:04 AM	Info	Found Process at row 60 for SubAssy: GL Pu Tube
+Dec 3, 2024, 7:58:04 AM	Info	Row 61: Type=subassy, Value=Cut attach.Buckle FAST Sternal (x2)
+Dec 3, 2024, 7:58:04 AM	Info	Found SubAssy: Cut attach.Buckle FAST Sternal (x2) at row 61
+Dec 3, 2024, 7:58:04 AM	Info	Found ref value C0119501A at column 25
+Dec 3, 2024, 7:58:04 AM	Info	Creating SubAssy group at row 61, Value=Cut attach.Buckle FAST Sternal (x2), RefValue: C0119501A
+Dec 3, 2024, 7:58:04 AM	Info	Row 62: Type=process, Value=
+Dec 3, 2024, 7:58:04 AM	Info	Found Process at row 62 for SubAssy: Cut attach.Buckle FAST Sternal (x2)
+Dec 3, 2024, 7:58:04 AM	Info	Row 63: Type=subassy, Value=Cut bottom seat webbing C73
+Dec 3, 2024, 7:58:04 AM	Info	Found SubAssy: Cut bottom seat webbing C73 at row 63
+Dec 3, 2024, 7:58:04 AM	Info	Found ref value C0086001A at column 25
+Dec 3, 2024, 7:58:04 AM	Info	Creating SubAssy group at row 63, Value=Cut bottom seat webbing C73, RefValue: C0086001A
+Dec 3, 2024, 7:58:04 AM	Info	Row 64: Type=process, Value=
+Dec 3, 2024, 7:58:04 AM	Info	Found Process at row 64 for SubAssy: Cut bottom seat webbing C73
+Dec 3, 2024, 7:58:04 AM	Info	Row 65: Type=subassy, Value=Cut passing elastic 20mm C73  (x4)
+Dec 3, 2024, 7:58:04 AM	Info	Found SubAssy: Cut passing elastic 20mm C73  (x4) at row 65
+Dec 3, 2024, 7:58:04 AM	Info	Found ref value C0086101A at column 25
+Dec 3, 2024, 7:58:04 AM	Info	Creating SubAssy group at row 65, Value=Cut passing elastic 20mm C73  (x4), RefValue: C0086101A
+Dec 3, 2024, 7:58:04 AM	Info	Row 66: Type=process, Value=
+Dec 3, 2024, 7:58:04 AM	Info	Found Process at row 66 for SubAssy: Cut passing elastic 20mm C73  (x4)
+Dec 3, 2024, 7:58:04 AM	Info	Row 67: Type=subassy, Value=Cut webb Rear Attach
+Dec 3, 2024, 7:58:04 AM	Info	Found SubAssy: Cut webb Rear Attach at row 67
+Dec 3, 2024, 7:58:04 AM	Info	Found ref value C0119600A at column 25
+Dec 3, 2024, 7:58:04 AM	Info	Creating SubAssy group at row 67, Value=Cut webb Rear Attach, RefValue: C0119600A
+Dec 3, 2024, 7:58:04 AM	Info	Row 68: Type=process, Value=
+Dec 3, 2024, 7:58:04 AM	Info	Found Process at row 68 for SubAssy: Cut webb Rear Attach
+Dec 3, 2024, 7:58:04 AM	Info	Row 69: Type=subassy, Value=Cut web shoulder C73 
+Dec 3, 2024, 7:58:04 AM	Info	Found SubAssy: Cut web shoulder C73  at row 69
+Dec 3, 2024, 7:58:04 AM	Info	Found ref value C0119000A at column 25
+Dec 3, 2024, 7:58:04 AM	Info	Creating SubAssy group at row 69, Value=Cut web shoulder C73 , RefValue: C0119000A
+Dec 3, 2024, 7:58:04 AM	Info	Row 70: Type=process, Value=
+Dec 3, 2024, 7:58:04 AM	Info	Found Process at row 70 for SubAssy: Cut web shoulder C73 
+Dec 3, 2024, 7:58:04 AM	Info	Row 71: Type=subassy, Value=Cut webb adjust shoulder s0/1 (x2)
+Dec 3, 2024, 7:58:04 AM	Info	Found SubAssy: Cut webb adjust shoulder s0/1 (x2) at row 71
+Dec 3, 2024, 7:58:04 AM	Info	Found ref value C0119200A at column 25
+Dec 3, 2024, 7:58:04 AM	Info	Creating SubAssy group at row 71, Value=Cut webb adjust shoulder s0/1 (x2), RefValue: C0119200A
+Dec 3, 2024, 7:58:04 AM	Info	Row 72: Type=process, Value=
+Dec 3, 2024, 7:58:04 AM	Info	Found Process at row 72 for SubAssy: Cut webb adjust shoulder s0/1 (x2)
+Dec 3, 2024, 7:58:04 AM	Info	Row 73: Type=subassy, Value=Cut Webb Leg LEFT s1
+Dec 3, 2024, 7:58:04 AM	Info	Found SubAssy: Cut Webb Leg LEFT s1 at row 73
+Dec 3, 2024, 7:58:04 AM	Info	Found ref value C0119301A at column 25
+Dec 3, 2024, 7:58:04 AM	Info	Creating SubAssy group at row 73, Value=Cut Webb Leg LEFT s1, RefValue: C0119301A
+Dec 3, 2024, 7:58:04 AM	Info	Row 74: Type=process, Value=
+Dec 3, 2024, 7:58:04 AM	Info	Found Process at row 74 for SubAssy: Cut Webb Leg LEFT s1
+Dec 3, 2024, 7:58:04 AM	Info	Row 75: Type=subassy, Value=Cut Webb Leg RIGHT UL s1
+Dec 3, 2024, 7:58:04 AM	Info	Found SubAssy: Cut Webb Leg RIGHT UL s1 at row 75
+Dec 3, 2024, 7:58:04 AM	Info	Found ref value C0119404A at column 25
+Dec 3, 2024, 7:58:04 AM	Info	Creating SubAssy group at row 75, Value=Cut Webb Leg RIGHT UL s1, RefValue: C0119404A
+Dec 3, 2024, 7:58:05 AM	Info	Row 76: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 76 for SubAssy: Cut Webb Leg RIGHT UL s1
+Dec 3, 2024, 7:58:05 AM	Info	Row 77: Type=subassy, Value=Cut renforce.webb magic ring (x2)
+Dec 3, 2024, 7:58:05 AM	Info	Found SubAssy: Cut renforce.webb magic ring (x2) at row 77
+Dec 3, 2024, 7:58:05 AM	Info	Found ref value C0089302A at column 25
+Dec 3, 2024, 7:58:05 AM	Info	Creating SubAssy group at row 77, Value=Cut renforce.webb magic ring (x2), RefValue: C0089302A
+Dec 3, 2024, 7:58:05 AM	Info	Row 78: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 78 for SubAssy: Cut renforce.webb magic ring (x2)
+Dec 3, 2024, 7:58:05 AM	Info	Row 79: Type=subassy, Value=Cut Webbing PL (x2)
+Dec 3, 2024, 7:58:05 AM	Info	Found SubAssy: Cut Webbing PL (x2) at row 79
+Dec 3, 2024, 7:58:05 AM	Info	Found ref value C0118900A at column 25
+Dec 3, 2024, 7:58:05 AM	Info	Creating SubAssy group at row 79, Value=Cut Webbing PL (x2), RefValue: C0118900A
+Dec 3, 2024, 7:58:05 AM	Info	Row 80: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 80 for SubAssy: Cut Webbing PL (x2)
+Dec 3, 2024, 7:58:05 AM	Info	Row 81: Type=subassy, Value=Cut webbing back support 44mm INT s1
+Dec 3, 2024, 7:58:05 AM	Info	Found SubAssy: Cut webbing back support 44mm INT s1 at row 81
+Dec 3, 2024, 7:58:05 AM	Info	Found ref value C0119103A at column 25
+Dec 3, 2024, 7:58:05 AM	Info	Creating SubAssy group at row 81, Value=Cut webbing back support 44mm INT s1, RefValue: C0119103A
+Dec 3, 2024, 7:58:05 AM	Info	Row 82: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 82 for SubAssy: Cut webbing back support 44mm INT s1
+Dec 3, 2024, 7:58:05 AM	Info	Row 83: Type=subassy, Value=GL Pu Tube
+Dec 3, 2024, 7:58:05 AM	Info	Found SubAssy: GL Pu Tube at row 83
+Dec 3, 2024, 7:58:05 AM	Info	Found ref value C0088401A at column 30
+Dec 3, 2024, 7:58:05 AM	Info	Creating SubAssy group at row 83, Value=GL Pu Tube, RefValue: C0088401A
+Dec 3, 2024, 7:58:05 AM	Info	Row 84: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 84 for SubAssy: GL Pu Tube
+Dec 3, 2024, 7:58:05 AM	Info	Row 85: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 85 for SubAssy: GL Pu Tube
+Dec 3, 2024, 7:58:05 AM	Info	Row 86: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 86 for SubAssy: GL Pu Tube
+Dec 3, 2024, 7:58:05 AM	Info	Row 87: Type=subassy, Value=Cut attach.Buckle FAST Sternal (x2)
+Dec 3, 2024, 7:58:05 AM	Info	Found SubAssy: Cut attach.Buckle FAST Sternal (x2) at row 87
+Dec 3, 2024, 7:58:05 AM	Info	Found ref value C0119500A at column 30
+Dec 3, 2024, 7:58:05 AM	Info	Creating SubAssy group at row 87, Value=Cut attach.Buckle FAST Sternal (x2), RefValue: C0119500A
+Dec 3, 2024, 7:58:05 AM	Info	Row 88: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 88 for SubAssy: Cut attach.Buckle FAST Sternal (x2)
+Dec 3, 2024, 7:58:05 AM	Info	Row 89: Type=subassy, Value=Cut bottom seat webbing C73
+Dec 3, 2024, 7:58:05 AM	Info	Found SubAssy: Cut bottom seat webbing C73 at row 89
+Dec 3, 2024, 7:58:05 AM	Info	Found ref value C0086001A at column 30
+Dec 3, 2024, 7:58:05 AM	Info	Creating SubAssy group at row 89, Value=Cut bottom seat webbing C73, RefValue: C0086001A
+Dec 3, 2024, 7:58:05 AM	Info	Row 90: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 90 for SubAssy: Cut bottom seat webbing C73
+Dec 3, 2024, 7:58:05 AM	Info	Row 91: Type=subassy, Value=Cut passing elastic 20mm C73  (x4)
+Dec 3, 2024, 7:58:05 AM	Info	Found SubAssy: Cut passing elastic 20mm C73  (x4) at row 91
+Dec 3, 2024, 7:58:05 AM	Info	Found ref value C0086101A at column 30
+Dec 3, 2024, 7:58:05 AM	Info	Creating SubAssy group at row 91, Value=Cut passing elastic 20mm C73  (x4), RefValue: C0086101A
+Dec 3, 2024, 7:58:05 AM	Info	Row 92: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 92 for SubAssy: Cut passing elastic 20mm C73  (x4)
+Dec 3, 2024, 7:58:05 AM	Info	Row 93: Type=subassy, Value=Cut web shoulder C73 
+Dec 3, 2024, 7:58:05 AM	Info	Found SubAssy: Cut web shoulder C73  at row 93
+Dec 3, 2024, 7:58:05 AM	Info	Found ref value C0119001A at column 30
+Dec 3, 2024, 7:58:05 AM	Info	Creating SubAssy group at row 93, Value=Cut web shoulder C73 , RefValue: C0119001A
+Dec 3, 2024, 7:58:05 AM	Info	Row 94: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 94 for SubAssy: Cut web shoulder C73 
+Dec 3, 2024, 7:58:05 AM	Info	Row 95: Type=subassy, Value=Cut webb adjust shoulder s0/1 (x2)
+Dec 3, 2024, 7:58:05 AM	Info	Found SubAssy: Cut webb adjust shoulder s0/1 (x2) at row 95
+Dec 3, 2024, 7:58:05 AM	Info	Found ref value C0119200A at column 30
+Dec 3, 2024, 7:58:05 AM	Info	Creating SubAssy group at row 95, Value=Cut webb adjust shoulder s0/1 (x2), RefValue: C0119200A
+Dec 3, 2024, 7:58:05 AM	Info	Row 96: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 96 for SubAssy: Cut webb adjust shoulder s0/1 (x2)
+Dec 3, 2024, 7:58:05 AM	Info	Row 97: Type=subassy, Value=Cut Webb Leg LEFT s1
+Dec 3, 2024, 7:58:05 AM	Info	Found SubAssy: Cut Webb Leg LEFT s1 at row 97
+Dec 3, 2024, 7:58:05 AM	Info	Found ref value C0119301A at column 30
+Dec 3, 2024, 7:58:05 AM	Info	Creating SubAssy group at row 97, Value=Cut Webb Leg LEFT s1, RefValue: C0119301A
+Dec 3, 2024, 7:58:05 AM	Info	Row 98: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 98 for SubAssy: Cut Webb Leg LEFT s1
+Dec 3, 2024, 7:58:05 AM	Info	Row 99: Type=subassy, Value=Cut Webb Leg RIGHT CE s1
+Dec 3, 2024, 7:58:05 AM	Info	Found SubAssy: Cut Webb Leg RIGHT CE s1 at row 99
+Dec 3, 2024, 7:58:05 AM	Info	Found ref value C0119401A at column 30
+Dec 3, 2024, 7:58:05 AM	Info	Creating SubAssy group at row 99, Value=Cut Webb Leg RIGHT CE s1, RefValue: C0119401A
+Dec 3, 2024, 7:58:05 AM	Info	Row 100: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 100 for SubAssy: Cut Webb Leg RIGHT CE s1
+Dec 3, 2024, 7:58:05 AM	Info	Row 101: Type=subassy, Value=Cut renforce.webb magic ring (x2)
+Dec 3, 2024, 7:58:05 AM	Info	Found SubAssy: Cut renforce.webb magic ring (x2) at row 101
+Dec 3, 2024, 7:58:05 AM	Info	Found ref value C0089302A at column 30
+Dec 3, 2024, 7:58:05 AM	Info	Creating SubAssy group at row 101, Value=Cut renforce.webb magic ring (x2), RefValue: C0089302A
+Dec 3, 2024, 7:58:05 AM	Info	Row 102: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 102 for SubAssy: Cut renforce.webb magic ring (x2)
+Dec 3, 2024, 7:58:05 AM	Info	Row 103: Type=subassy, Value=Cut Webbing PL
+Dec 3, 2024, 7:58:05 AM	Info	Found SubAssy: Cut Webbing PL at row 103
+Dec 3, 2024, 7:58:05 AM	Info	Found ref value C0118900A at column 30
+Dec 3, 2024, 7:58:05 AM	Info	Creating SubAssy group at row 103, Value=Cut Webbing PL, RefValue: C0118900A
+Dec 3, 2024, 7:58:05 AM	Info	Row 104: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 104 for SubAssy: Cut Webbing PL
+Dec 3, 2024, 7:58:05 AM	Info	Row 105: Type=subassy, Value=GL Pu Tube
+Dec 3, 2024, 7:58:05 AM	Info	Found SubAssy: GL Pu Tube at row 105
+Dec 3, 2024, 7:58:05 AM	Info	Found ref value C0088401A at column 35
+Dec 3, 2024, 7:58:05 AM	Info	Creating SubAssy group at row 105, Value=GL Pu Tube, RefValue: C0088401A
+Dec 3, 2024, 7:58:05 AM	Info	Row 106: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 106 for SubAssy: GL Pu Tube
+Dec 3, 2024, 7:58:05 AM	Info	Row 107: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 107 for SubAssy: GL Pu Tube
+Dec 3, 2024, 7:58:05 AM	Info	Row 108: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 108 for SubAssy: GL Pu Tube
+Dec 3, 2024, 7:58:05 AM	Info	Row 109: Type=subassy, Value=Cut attach.Buckle FAST Sternal (x2)
+Dec 3, 2024, 7:58:05 AM	Info	Found SubAssy: Cut attach.Buckle FAST Sternal (x2) at row 109
+Dec 3, 2024, 7:58:05 AM	Info	Found ref value C0119501A at column 35
+Dec 3, 2024, 7:58:05 AM	Info	Creating SubAssy group at row 109, Value=Cut attach.Buckle FAST Sternal (x2), RefValue: C0119501A
+Dec 3, 2024, 7:58:05 AM	Info	Row 110: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 110 for SubAssy: Cut attach.Buckle FAST Sternal (x2)
+Dec 3, 2024, 7:58:05 AM	Info	Row 111: Type=subassy, Value=Cut bottom seat webbing C73
+Dec 3, 2024, 7:58:05 AM	Info	Found SubAssy: Cut bottom seat webbing C73 at row 111
+Dec 3, 2024, 7:58:05 AM	Info	Found ref value C0086001A at column 35
+Dec 3, 2024, 7:58:05 AM	Info	Creating SubAssy group at row 111, Value=Cut bottom seat webbing C73, RefValue: C0086001A
+Dec 3, 2024, 7:58:05 AM	Info	Row 112: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 112 for SubAssy: Cut bottom seat webbing C73
+Dec 3, 2024, 7:58:05 AM	Info	Row 113: Type=subassy, Value=Cut passing elastic 20mm C73  (x4)
+Dec 3, 2024, 7:58:05 AM	Info	Found SubAssy: Cut passing elastic 20mm C73  (x4) at row 113
+Dec 3, 2024, 7:58:05 AM	Info	Found ref value C0086101A at column 35
+Dec 3, 2024, 7:58:05 AM	Info	Creating SubAssy group at row 113, Value=Cut passing elastic 20mm C73  (x4), RefValue: C0086101A
+Dec 3, 2024, 7:58:05 AM	Info	Row 114: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 114 for SubAssy: Cut passing elastic 20mm C73  (x4)
+Dec 3, 2024, 7:58:05 AM	Info	Row 115: Type=subassy, Value=Cut webb Rear Attach
+Dec 3, 2024, 7:58:05 AM	Info	Found SubAssy: Cut webb Rear Attach at row 115
+Dec 3, 2024, 7:58:05 AM	Info	Found ref value C0119600A at column 35
+Dec 3, 2024, 7:58:05 AM	Info	Creating SubAssy group at row 115, Value=Cut webb Rear Attach, RefValue: C0119600A
+Dec 3, 2024, 7:58:05 AM	Info	Row 116: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 116 for SubAssy: Cut webb Rear Attach
+Dec 3, 2024, 7:58:05 AM	Info	Row 117: Type=subassy, Value=Cut web shoulder C73 
+Dec 3, 2024, 7:58:05 AM	Info	Found SubAssy: Cut web shoulder C73  at row 117
+Dec 3, 2024, 7:58:05 AM	Info	Found ref value C0119001A at column 35
+Dec 3, 2024, 7:58:05 AM	Info	Creating SubAssy group at row 117, Value=Cut web shoulder C73 , RefValue: C0119001A
+Dec 3, 2024, 7:58:05 AM	Info	Row 118: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 118 for SubAssy: Cut web shoulder C73 
+Dec 3, 2024, 7:58:05 AM	Info	Row 119: Type=subassy, Value=Cut webb adjust shoulder s0/1 (x2)
+Dec 3, 2024, 7:58:05 AM	Info	Found SubAssy: Cut webb adjust shoulder s0/1 (x2) at row 119
+Dec 3, 2024, 7:58:05 AM	Info	Found ref value C0119200A at column 35
+Dec 3, 2024, 7:58:05 AM	Info	Creating SubAssy group at row 119, Value=Cut webb adjust shoulder s0/1 (x2), RefValue: C0119200A
+Dec 3, 2024, 7:58:05 AM	Info	Row 120: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 120 for SubAssy: Cut webb adjust shoulder s0/1 (x2)
+Dec 3, 2024, 7:58:05 AM	Info	Row 121: Type=subassy, Value=Cut Webb Leg LEFT s1
+Dec 3, 2024, 7:58:05 AM	Info	Found SubAssy: Cut Webb Leg LEFT s1 at row 121
+Dec 3, 2024, 7:58:05 AM	Info	Found ref value C0119301A at column 35
+Dec 3, 2024, 7:58:05 AM	Info	Creating SubAssy group at row 121, Value=Cut Webb Leg LEFT s1, RefValue: C0119301A
+Dec 3, 2024, 7:58:05 AM	Info	Row 122: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 122 for SubAssy: Cut Webb Leg LEFT s1
+Dec 3, 2024, 7:58:05 AM	Info	Row 123: Type=subassy, Value=Cut Webb Leg RIGHT UL s1
+Dec 3, 2024, 7:58:05 AM	Info	Found SubAssy: Cut Webb Leg RIGHT UL s1 at row 123
+Dec 3, 2024, 7:58:05 AM	Info	Found ref value C0119404A at column 35
+Dec 3, 2024, 7:58:05 AM	Info	Creating SubAssy group at row 123, Value=Cut Webb Leg RIGHT UL s1, RefValue: C0119404A
+Dec 3, 2024, 7:58:05 AM	Info	Row 124: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 124 for SubAssy: Cut Webb Leg RIGHT UL s1
+Dec 3, 2024, 7:58:05 AM	Info	Row 125: Type=subassy, Value=Cut renforce.webb magic ring (x2)
+Dec 3, 2024, 7:58:05 AM	Info	Found SubAssy: Cut renforce.webb magic ring (x2) at row 125
+Dec 3, 2024, 7:58:05 AM	Info	Found ref value C0089302A at column 35
+Dec 3, 2024, 7:58:05 AM	Info	Creating SubAssy group at row 125, Value=Cut renforce.webb magic ring (x2), RefValue: C0089302A
+Dec 3, 2024, 7:58:05 AM	Info	Row 126: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 126 for SubAssy: Cut renforce.webb magic ring (x2)
+Dec 3, 2024, 7:58:05 AM	Info	Row 127: Type=subassy, Value=Cut Webbing PL (x2)
+Dec 3, 2024, 7:58:05 AM	Info	Found SubAssy: Cut Webbing PL (x2) at row 127
+Dec 3, 2024, 7:58:05 AM	Info	Found ref value C0118900A at column 35
+Dec 3, 2024, 7:58:05 AM	Info	Creating SubAssy group at row 127, Value=Cut Webbing PL (x2), RefValue: C0118900A
+Dec 3, 2024, 7:58:05 AM	Info	Row 128: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 128 for SubAssy: Cut Webbing PL (x2)
+Dec 3, 2024, 7:58:05 AM	Info	Row 129: Type=subassy, Value=Cut webbing back support 44mm INT s1
+Dec 3, 2024, 7:58:05 AM	Info	Found SubAssy: Cut webbing back support 44mm INT s1 at row 129
+Dec 3, 2024, 7:58:05 AM	Info	Found ref value C0119103A at column 35
+Dec 3, 2024, 7:58:05 AM	Info	Creating SubAssy group at row 129, Value=Cut webbing back support 44mm INT s1, RefValue: C0119103A
+Dec 3, 2024, 7:58:05 AM	Info	Row 130: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 130 for SubAssy: Cut webbing back support 44mm INT s1
+Dec 3, 2024, 7:58:05 AM	Info	Row 131: Type=subassy, Value=GL Pu Tube
+Dec 3, 2024, 7:58:05 AM	Info	Found SubAssy: GL Pu Tube at row 131
+Dec 3, 2024, 7:58:05 AM	Info	Found ref value C0088401A at column 40
+Dec 3, 2024, 7:58:05 AM	Info	Creating SubAssy group at row 131, Value=GL Pu Tube, RefValue: C0088401A
+Dec 3, 2024, 7:58:05 AM	Info	Row 132: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 132 for SubAssy: GL Pu Tube
+Dec 3, 2024, 7:58:05 AM	Info	Row 133: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 133 for SubAssy: GL Pu Tube
+Dec 3, 2024, 7:58:05 AM	Info	Row 134: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 134 for SubAssy: GL Pu Tube
+Dec 3, 2024, 7:58:05 AM	Info	Row 135: Type=subassy, Value=Cut attach.Buckle FAST Sternal (x2)
+Dec 3, 2024, 7:58:05 AM	Info	Found SubAssy: Cut attach.Buckle FAST Sternal (x2) at row 135
+Dec 3, 2024, 7:58:05 AM	Info	Found ref value C0119501A at column 40
+Dec 3, 2024, 7:58:05 AM	Info	Creating SubAssy group at row 135, Value=Cut attach.Buckle FAST Sternal (x2), RefValue: C0119501A
+Dec 3, 2024, 7:58:05 AM	Info	Row 136: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 136 for SubAssy: Cut attach.Buckle FAST Sternal (x2)
+Dec 3, 2024, 7:58:05 AM	Info	Row 137: Type=subassy, Value=Cut bottom seat webbing C73
+Dec 3, 2024, 7:58:05 AM	Info	Found SubAssy: Cut bottom seat webbing C73 at row 137
+Dec 3, 2024, 7:58:05 AM	Info	Found ref value C0086001A at column 40
+Dec 3, 2024, 7:58:05 AM	Info	Creating SubAssy group at row 137, Value=Cut bottom seat webbing C73, RefValue: C0086001A
+Dec 3, 2024, 7:58:05 AM	Info	Row 138: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 138 for SubAssy: Cut bottom seat webbing C73
+Dec 3, 2024, 7:58:05 AM	Info	Row 139: Type=subassy, Value=Cut passing elastic 20mm C73  (x4)
+Dec 3, 2024, 7:58:05 AM	Info	Found SubAssy: Cut passing elastic 20mm C73  (x4) at row 139
+Dec 3, 2024, 7:58:05 AM	Info	Found ref value C0086101A at column 40
+Dec 3, 2024, 7:58:05 AM	Info	Creating SubAssy group at row 139, Value=Cut passing elastic 20mm C73  (x4), RefValue: C0086101A
+Dec 3, 2024, 7:58:05 AM	Info	Row 140: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 140 for SubAssy: Cut passing elastic 20mm C73  (x4)
+Dec 3, 2024, 7:58:05 AM	Info	Row 141: Type=subassy, Value=Cut webb Rear Attach
+Dec 3, 2024, 7:58:05 AM	Info	Found SubAssy: Cut webb Rear Attach at row 141
+Dec 3, 2024, 7:58:05 AM	Info	Found ref value C0119600A at column 40
+Dec 3, 2024, 7:58:05 AM	Info	Creating SubAssy group at row 141, Value=Cut webb Rear Attach, RefValue: C0119600A
+Dec 3, 2024, 7:58:05 AM	Info	Row 142: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 142 for SubAssy: Cut webb Rear Attach
+Dec 3, 2024, 7:58:05 AM	Info	Row 143: Type=subassy, Value=Cut web shoulder C73 
+Dec 3, 2024, 7:58:05 AM	Info	Found SubAssy: Cut web shoulder C73  at row 143
+Dec 3, 2024, 7:58:05 AM	Info	Found ref value C0119001A at column 40
+Dec 3, 2024, 7:58:05 AM	Info	Creating SubAssy group at row 143, Value=Cut web shoulder C73 , RefValue: C0119001A
+Dec 3, 2024, 7:58:05 AM	Info	Row 144: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 144 for SubAssy: Cut web shoulder C73 
+Dec 3, 2024, 7:58:05 AM	Info	Row 145: Type=subassy, Value=Cut webb adjust shoulder s0/1 (x2)
+Dec 3, 2024, 7:58:05 AM	Info	Found SubAssy: Cut webb adjust shoulder s0/1 (x2) at row 145
+Dec 3, 2024, 7:58:05 AM	Info	Found ref value C0119200A at column 40
+Dec 3, 2024, 7:58:05 AM	Info	Creating SubAssy group at row 145, Value=Cut webb adjust shoulder s0/1 (x2), RefValue: C0119200A
+Dec 3, 2024, 7:58:05 AM	Info	Row 146: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 146 for SubAssy: Cut webb adjust shoulder s0/1 (x2)
+Dec 3, 2024, 7:58:05 AM	Info	Row 147: Type=subassy, Value=Cut Webb Leg LEFT s1
+Dec 3, 2024, 7:58:05 AM	Info	Found SubAssy: Cut Webb Leg LEFT s1 at row 147
+Dec 3, 2024, 7:58:05 AM	Info	Found ref value C0119301A at column 40
+Dec 3, 2024, 7:58:05 AM	Info	Creating SubAssy group at row 147, Value=Cut Webb Leg LEFT s1, RefValue: C0119301A
+Dec 3, 2024, 7:58:05 AM	Info	Row 148: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 148 for SubAssy: Cut Webb Leg LEFT s1
+Dec 3, 2024, 7:58:05 AM	Info	Row 149: Type=subassy, Value=Cut Webb Leg RIGHT UL s1
+Dec 3, 2024, 7:58:05 AM	Info	Found SubAssy: Cut Webb Leg RIGHT UL s1 at row 149
+Dec 3, 2024, 7:58:05 AM	Info	Found ref value C0119404A at column 40
+Dec 3, 2024, 7:58:05 AM	Info	Creating SubAssy group at row 149, Value=Cut Webb Leg RIGHT UL s1, RefValue: C0119404A
+Dec 3, 2024, 7:58:05 AM	Info	Row 150: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 150 for SubAssy: Cut Webb Leg RIGHT UL s1
+Dec 3, 2024, 7:58:05 AM	Info	Row 151: Type=subassy, Value=Cut renforce.webb magic ring (x2)
+Dec 3, 2024, 7:58:05 AM	Info	Found SubAssy: Cut renforce.webb magic ring (x2) at row 151
+Dec 3, 2024, 7:58:05 AM	Info	Found ref value C0089302A at column 40
+Dec 3, 2024, 7:58:05 AM	Info	Creating SubAssy group at row 151, Value=Cut renforce.webb magic ring (x2), RefValue: C0089302A
+Dec 3, 2024, 7:58:05 AM	Info	Row 152: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 152 for SubAssy: Cut renforce.webb magic ring (x2)
+Dec 3, 2024, 7:58:05 AM	Info	Row 153: Type=subassy, Value=Cut Webbing PL (x2)
+Dec 3, 2024, 7:58:05 AM	Info	Found SubAssy: Cut Webbing PL (x2) at row 153
+Dec 3, 2024, 7:58:05 AM	Info	Found ref value C0118900A at column 40
+Dec 3, 2024, 7:58:05 AM	Info	Creating SubAssy group at row 153, Value=Cut Webbing PL (x2), RefValue: C0118900A
+Dec 3, 2024, 7:58:05 AM	Info	Row 154: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 154 for SubAssy: Cut Webbing PL (x2)
+Dec 3, 2024, 7:58:05 AM	Info	Row 155: Type=subassy, Value=Cut webbing back support 44mm INT s1
+Dec 3, 2024, 7:58:05 AM	Info	Found SubAssy: Cut webbing back support 44mm INT s1 at row 155
+Dec 3, 2024, 7:58:05 AM	Info	Found ref value C0119103A at column 40
+Dec 3, 2024, 7:58:05 AM	Info	Creating SubAssy group at row 155, Value=Cut webbing back support 44mm INT s1, RefValue: C0119103A
+Dec 3, 2024, 7:58:05 AM	Info	Row 156: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 156 for SubAssy: Cut webbing back support 44mm INT s1
+Dec 3, 2024, 7:58:05 AM	Info	Row 157: Type=subassy, Value=GL Pu Tube
+Dec 3, 2024, 7:58:05 AM	Info	Found SubAssy: GL Pu Tube at row 157
+Dec 3, 2024, 7:58:05 AM	Info	Found ref value C0088401A at column 45
+Dec 3, 2024, 7:58:05 AM	Info	Creating SubAssy group at row 157, Value=GL Pu Tube, RefValue: C0088401A
+Dec 3, 2024, 7:58:05 AM	Info	Row 158: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 158 for SubAssy: GL Pu Tube
+Dec 3, 2024, 7:58:05 AM	Info	Row 159: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 159 for SubAssy: GL Pu Tube
+Dec 3, 2024, 7:58:05 AM	Info	Row 160: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 160 for SubAssy: GL Pu Tube
+Dec 3, 2024, 7:58:05 AM	Info	Row 161: Type=subassy, Value=Cut attach.Buckle FAST Sternal (x2)
+Dec 3, 2024, 7:58:05 AM	Info	Found SubAssy: Cut attach.Buckle FAST Sternal (x2) at row 161
+Dec 3, 2024, 7:58:05 AM	Info	Found ref value C0119500A at column 45
+Dec 3, 2024, 7:58:05 AM	Info	Creating SubAssy group at row 161, Value=Cut attach.Buckle FAST Sternal (x2), RefValue: C0119500A
+Dec 3, 2024, 7:58:05 AM	Info	Row 162: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 162 for SubAssy: Cut attach.Buckle FAST Sternal (x2)
+Dec 3, 2024, 7:58:05 AM	Info	Row 163: Type=subassy, Value=Cut bottom seat webbing C73
+Dec 3, 2024, 7:58:05 AM	Info	Found SubAssy: Cut bottom seat webbing C73 at row 163
+Dec 3, 2024, 7:58:05 AM	Info	Found ref value C0086001A at column 45
+Dec 3, 2024, 7:58:05 AM	Info	Creating SubAssy group at row 163, Value=Cut bottom seat webbing C73, RefValue: C0086001A
+Dec 3, 2024, 7:58:05 AM	Info	Row 164: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 164 for SubAssy: Cut bottom seat webbing C73
+Dec 3, 2024, 7:58:05 AM	Info	Row 165: Type=subassy, Value=Cut passing elastic 20mm C73  (x4)
+Dec 3, 2024, 7:58:05 AM	Info	Found SubAssy: Cut passing elastic 20mm C73  (x4) at row 165
+Dec 3, 2024, 7:58:05 AM	Info	Found ref value C0086101A at column 45
+Dec 3, 2024, 7:58:05 AM	Info	Creating SubAssy group at row 165, Value=Cut passing elastic 20mm C73  (x4), RefValue: C0086101A
+Dec 3, 2024, 7:58:05 AM	Info	Row 166: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 166 for SubAssy: Cut passing elastic 20mm C73  (x4)
+Dec 3, 2024, 7:58:05 AM	Info	Row 167: Type=subassy, Value=Cut web shoulder C73 
+Dec 3, 2024, 7:58:05 AM	Info	Found SubAssy: Cut web shoulder C73  at row 167
+Dec 3, 2024, 7:58:05 AM	Info	Found ref value C0119001A at column 45
+Dec 3, 2024, 7:58:05 AM	Info	Creating SubAssy group at row 167, Value=Cut web shoulder C73 , RefValue: C0119001A
+Dec 3, 2024, 7:58:05 AM	Info	Row 168: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 168 for SubAssy: Cut web shoulder C73 
+Dec 3, 2024, 7:58:05 AM	Info	Row 169: Type=subassy, Value=Cut webb adjust shoulder s0/1 (x2)
+Dec 3, 2024, 7:58:05 AM	Info	Found SubAssy: Cut webb adjust shoulder s0/1 (x2) at row 169
+Dec 3, 2024, 7:58:05 AM	Info	Found ref value C0119200A at column 45
+Dec 3, 2024, 7:58:05 AM	Info	Creating SubAssy group at row 169, Value=Cut webb adjust shoulder s0/1 (x2), RefValue: C0119200A
+Dec 3, 2024, 7:58:05 AM	Info	Row 170: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 170 for SubAssy: Cut webb adjust shoulder s0/1 (x2)
+Dec 3, 2024, 7:58:05 AM	Info	Row 171: Type=subassy, Value=Cut Webb Leg LEFT s1
+Dec 3, 2024, 7:58:05 AM	Info	Found SubAssy: Cut Webb Leg LEFT s1 at row 171
+Dec 3, 2024, 7:58:05 AM	Info	Found ref value C0119301A at column 45
+Dec 3, 2024, 7:58:05 AM	Info	Creating SubAssy group at row 171, Value=Cut Webb Leg LEFT s1, RefValue: C0119301A
+Dec 3, 2024, 7:58:05 AM	Info	Row 172: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 172 for SubAssy: Cut Webb Leg LEFT s1
+Dec 3, 2024, 7:58:05 AM	Info	Row 173: Type=subassy, Value=Cut Webb Leg RIGHT EUR s1
+Dec 3, 2024, 7:58:05 AM	Info	Found SubAssy: Cut Webb Leg RIGHT EUR s1 at row 173
+Dec 3, 2024, 7:58:05 AM	Info	Found ref value C0119401A at column 45
+Dec 3, 2024, 7:58:05 AM	Info	Creating SubAssy group at row 173, Value=Cut Webb Leg RIGHT EUR s1, RefValue: C0119401A
+Dec 3, 2024, 7:58:05 AM	Info	Row 174: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 174 for SubAssy: Cut Webb Leg RIGHT EUR s1
+Dec 3, 2024, 7:58:05 AM	Info	Row 175: Type=subassy, Value=Cut renforce.webb magic ring (x2)
+Dec 3, 2024, 7:58:05 AM	Info	Found SubAssy: Cut renforce.webb magic ring (x2) at row 175
+Dec 3, 2024, 7:58:05 AM	Info	Found ref value C0089302A at column 45
+Dec 3, 2024, 7:58:05 AM	Info	Creating SubAssy group at row 175, Value=Cut renforce.webb magic ring (x2), RefValue: C0089302A
+Dec 3, 2024, 7:58:05 AM	Info	Row 176: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 176 for SubAssy: Cut renforce.webb magic ring (x2)
+Dec 3, 2024, 7:58:05 AM	Info	Row 177: Type=subassy, Value=Cut Webbing PL
+Dec 3, 2024, 7:58:05 AM	Info	Found SubAssy: Cut Webbing PL at row 177
+Dec 3, 2024, 7:58:05 AM	Info	Found ref value C0118900A at column 45
+Dec 3, 2024, 7:58:05 AM	Info	Creating SubAssy group at row 177, Value=Cut Webbing PL, RefValue: C0118900A
+Dec 3, 2024, 7:58:05 AM	Info	Row 178: Type=process, Value=
+Dec 3, 2024, 7:58:05 AM	Info	Found Process at row 178 for SubAssy: Cut Webbing PL
+Dec 3, 2024, 7:58:05 AM	Info	Row 179: Type=island, Value=WCT
+Dec 3, 2024, 7:58:05 AM	Info	Found Island: WCT at row 179
+Dec 3, 2024, 7:58:05 AM	Info	Processing island group: Cutting
+Dec 3, 2024, 7:58:05 AM	Info	Processing Island Group:
+Dec 3, 2024, 7:58:05 AM	Info	- Start Row: 6
+Dec 3, 2024, 7:58:05 AM	Info	- End Row: 178
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Groups: 79
+Dec 3, 2024, 7:58:05 AM	Info	Group 1:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: GL Pu Tube
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 7
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0088401A","column":15}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 3
+Dec 3, 2024, 7:58:05 AM	Info	Group 2:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut attach.Buckle FAST Sternal (x2)
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 11
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0119501A","column":15}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 3:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut bottom seat webbing C73
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 13
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0086001A","column":15}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 4:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut passing elastic 20mm C73  (x4)
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 15
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0086101A","column":15}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 5:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut webb Rear Attach
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 17
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0119600A","column":15}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 6:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut web shoulder C73 
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 19
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0119001A","column":15}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 7:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut webb adjust shoulder s0/1 (x2)
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 21
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0119200A","column":15}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 8:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut Webb Leg LEFT s1
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 23
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0119301A","column":15}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 9:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut Webb Leg RIGHT UL s1
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 25
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0119404A","column":15}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 10:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut renforce.webb magic ring (x2)
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 27
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0089302A","column":15}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 11:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut Webbing PL (x2)
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 29
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0118900A","column":15}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 12:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut webbing back support 44mm INT s1
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 31
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0119103A","column":15}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 13:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: GL Pu Tube
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 33
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0088401A","column":20}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 3
+Dec 3, 2024, 7:58:05 AM	Info	Group 14:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut attach.Buckle FAST Sternal (x2)
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 37
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0119500A","column":20}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 15:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut bottom seat webbing C73
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 39
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0086001A","column":20}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 16:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut passing elastic 20mm C73  (x4)
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 41
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0086101A","column":20}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 17:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut web shoulder C73 
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 43
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0119000A","column":20}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 18:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut webb adjust shoulder s0/1 (x2)
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 45
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0119200A","column":20}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 19:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut Webb Leg LEFT s1
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 47
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0119301A","column":20}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 20:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut Webb Leg RIGHT CE s1
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 49
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0119401A","column":20}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 21:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut renforce.webb magic ring (x2)
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 51
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0089302A","column":20}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 22:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut Webbing PL
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 53
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0118900A","column":20}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 23:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut webbing back support 44mm CE s1
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 55
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0119100A","column":20}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 24:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: GL Pu Tube
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 57
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0088401A","column":25}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 3
+Dec 3, 2024, 7:58:05 AM	Info	Group 25:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut attach.Buckle FAST Sternal (x2)
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 61
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0119501A","column":25}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 26:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut bottom seat webbing C73
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 63
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0086001A","column":25}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 27:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut passing elastic 20mm C73  (x4)
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 65
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0086101A","column":25}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 28:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut webb Rear Attach
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 67
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0119600A","column":25}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 29:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut web shoulder C73 
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 69
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0119000A","column":25}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 30:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut webb adjust shoulder s0/1 (x2)
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 71
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0119200A","column":25}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 31:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut Webb Leg LEFT s1
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 73
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0119301A","column":25}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 32:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut Webb Leg RIGHT UL s1
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 75
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0119404A","column":25}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 33:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut renforce.webb magic ring (x2)
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 77
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0089302A","column":25}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 34:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut Webbing PL (x2)
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 79
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0118900A","column":25}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 35:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut webbing back support 44mm INT s1
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 81
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0119103A","column":25}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 36:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: GL Pu Tube
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 83
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0088401A","column":30}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 3
+Dec 3, 2024, 7:58:05 AM	Info	Group 37:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut attach.Buckle FAST Sternal (x2)
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 87
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0119500A","column":30}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 38:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut bottom seat webbing C73
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 89
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0086001A","column":30}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 39:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut passing elastic 20mm C73  (x4)
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 91
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0086101A","column":30}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 40:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut web shoulder C73 
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 93
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0119001A","column":30}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 41:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut webb adjust shoulder s0/1 (x2)
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 95
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0119200A","column":30}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 42:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut Webb Leg LEFT s1
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 97
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0119301A","column":30}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 43:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut Webb Leg RIGHT CE s1
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 99
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0119401A","column":30}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 44:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut renforce.webb magic ring (x2)
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 101
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0089302A","column":30}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 45:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut Webbing PL
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 103
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0118900A","column":30}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 46:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: GL Pu Tube
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 105
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0088401A","column":35}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 3
+Dec 3, 2024, 7:58:05 AM	Info	Group 47:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut attach.Buckle FAST Sternal (x2)
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 109
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0119501A","column":35}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 48:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut bottom seat webbing C73
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 111
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0086001A","column":35}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 49:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut passing elastic 20mm C73  (x4)
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 113
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0086101A","column":35}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 50:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut webb Rear Attach
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 115
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0119600A","column":35}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 51:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut web shoulder C73 
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 117
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0119001A","column":35}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 52:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut webb adjust shoulder s0/1 (x2)
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 119
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0119200A","column":35}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 53:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut Webb Leg LEFT s1
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 121
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0119301A","column":35}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 54:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut Webb Leg RIGHT UL s1
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 123
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0119404A","column":35}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 55:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut renforce.webb magic ring (x2)
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 125
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0089302A","column":35}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 56:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut Webbing PL (x2)
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 127
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0118900A","column":35}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 57:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut webbing back support 44mm INT s1
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 129
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0119103A","column":35}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 58:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: GL Pu Tube
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 131
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0088401A","column":40}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 3
+Dec 3, 2024, 7:58:05 AM	Info	Group 59:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut attach.Buckle FAST Sternal (x2)
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 135
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0119501A","column":40}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 60:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut bottom seat webbing C73
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 137
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0086001A","column":40}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 61:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut passing elastic 20mm C73  (x4)
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 139
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0086101A","column":40}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 62:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut webb Rear Attach
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 141
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0119600A","column":40}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 63:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut web shoulder C73 
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 143
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0119001A","column":40}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 64:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut webb adjust shoulder s0/1 (x2)
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 145
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0119200A","column":40}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 65:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut Webb Leg LEFT s1
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 147
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0119301A","column":40}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 66:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut Webb Leg RIGHT UL s1
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 149
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0119404A","column":40}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 67:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut renforce.webb magic ring (x2)
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 151
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0089302A","column":40}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 68:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut Webbing PL (x2)
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 153
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0118900A","column":40}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 69:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut webbing back support 44mm INT s1
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 155
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0119103A","column":40}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 70:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: GL Pu Tube
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 157
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0088401A","column":45}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 3
+Dec 3, 2024, 7:58:05 AM	Info	Group 71:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut attach.Buckle FAST Sternal (x2)
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 161
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0119500A","column":45}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 72:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut bottom seat webbing C73
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 163
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0086001A","column":45}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 73:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut passing elastic 20mm C73  (x4)
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 165
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0086101A","column":45}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 74:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut web shoulder C73 
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 167
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0119001A","column":45}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 75:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut webb adjust shoulder s0/1 (x2)
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 169
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0119200A","column":45}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 76:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut Webb Leg LEFT s1
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 171
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0119301A","column":45}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 77:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut Webb Leg RIGHT EUR s1
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 173
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0119401A","column":45}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 78:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut renforce.webb magic ring (x2)
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 175
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0089302A","column":45}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Group 79:
+Dec 3, 2024, 7:58:05 AM	Info	- SubAssy: Cut Webbing PL
+Dec 3, 2024, 7:58:05 AM	Info	- Row: 177
+Dec 3, 2024, 7:58:05 AM	Info	- Ref Info: {"value":"C0118900A","column":45}
+Dec 3, 2024, 7:58:05 AM	Info	- Number of Processes: 1
+Dec 3, 2024, 7:58:05 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:05 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:05 AM	Info	- Next Group: Cut attach.Buckle FAST Sternal (x2) at row 11
+Dec 3, 2024, 7:58:05 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:05 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:05 AM	Info	- Next Group: Cut bottom seat webbing C73 at row 13
+Dec 3, 2024, 7:58:05 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:05 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:05 AM	Info	- Next Group: Cut passing elastic 20mm C73  (x4) at row 15
+Dec 3, 2024, 7:58:05 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:05 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:05 AM	Info	- Next Group: Cut webb Rear Attach at row 17
+Dec 3, 2024, 7:58:05 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:05 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:05 AM	Info	- Next Group: Cut web shoulder C73  at row 19
+Dec 3, 2024, 7:58:05 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:05 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:05 AM	Info	- Next Group: Cut webb adjust shoulder s0/1 (x2) at row 21
+Dec 3, 2024, 7:58:05 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:05 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:05 AM	Info	- Next Group: Cut Webb Leg LEFT s1 at row 23
+Dec 3, 2024, 7:58:05 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:05 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:05 AM	Info	- Next Group: Cut Webb Leg RIGHT UL s1 at row 25
+Dec 3, 2024, 7:58:05 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:05 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:05 AM	Info	- Next Group: Cut renforce.webb magic ring (x2) at row 27
+Dec 3, 2024, 7:58:05 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:05 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:05 AM	Info	- Next Group: Cut Webbing PL (x2) at row 29
+Dec 3, 2024, 7:58:05 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:05 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:05 AM	Info	- Next Group: Cut webbing back support 44mm INT s1 at row 31
+Dec 3, 2024, 7:58:05 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:05 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:05 AM	Info	- Next Group: GL Pu Tube at row 33
+Dec 3, 2024, 7:58:05 AM	Info	Chrono values for group at row 7: 24,4,16
+Dec 3, 2024, 7:58:05 AM	Info	Chrono values for group at row 33: 24,4,16
+Dec 3, 2024, 7:58:05 AM	Info	Merging groups at rows 7 and 33
+Dec 3, 2024, 7:58:07 AM	Info	Formula state before copy at target row 7:
+Dec 3, 2024, 7:58:07 AM	Info	[["","","","","","","","","","","","","","","","=SUM(P723:P724)","=SUM(Q723:Q724)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","=12*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","=2*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","=8*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
+Dec 3, 2024, 7:58:07 AM	Info	Processing group at row 7, ref column 15
+Dec 3, 2024, 7:58:07 AM	Info	Initial backgrounds:
+Dec 3, 2024, 7:58:07 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"]]
+Dec 3, 2024, 7:58:07 AM	Info	Initial font colors:
+Dec 3, 2024, 7:58:07 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
+Dec 3, 2024, 7:58:07 AM	Info	Skipping copy - target range contains existing values
+Dec 3, 2024, 7:58:07 AM	Info	Deleting 4 rows starting at row 33
+Dec 3, 2024, 7:58:08 AM	Info	Total rows deleted so far: 4
+Dec 3, 2024, 7:58:08 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:08 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:08 AM	Info	- Next Group: Cut attach.Buckle FAST Sternal (x2) at row 33
+Dec 3, 2024, 7:58:08 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:08 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:08 AM	Info	- Next Group: Cut bottom seat webbing C73 at row 35
+Dec 3, 2024, 7:58:08 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:08 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:08 AM	Info	- Next Group: Cut passing elastic 20mm C73  (x4) at row 37
+Dec 3, 2024, 7:58:08 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:08 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:08 AM	Info	- Next Group: Cut web shoulder C73  at row 39
+Dec 3, 2024, 7:58:08 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:08 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:08 AM	Info	- Next Group: Cut webb adjust shoulder s0/1 (x2) at row 41
+Dec 3, 2024, 7:58:08 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:08 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:08 AM	Info	- Next Group: Cut Webb Leg LEFT s1 at row 43
+Dec 3, 2024, 7:58:08 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:08 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:08 AM	Info	- Next Group: Cut Webb Leg RIGHT CE s1 at row 45
+Dec 3, 2024, 7:58:08 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:08 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:08 AM	Info	- Next Group: Cut renforce.webb magic ring (x2) at row 47
+Dec 3, 2024, 7:58:08 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:08 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:08 AM	Info	- Next Group: Cut Webbing PL at row 49
+Dec 3, 2024, 7:58:08 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:08 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:08 AM	Info	- Next Group: Cut webbing back support 44mm CE s1 at row 51
+Dec 3, 2024, 7:58:08 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:08 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:08 AM	Info	- Next Group: GL Pu Tube at row 53
+Dec 3, 2024, 7:58:08 AM	Info	Chrono values for group at row 7: 24,4,16
+Dec 3, 2024, 7:58:08 AM	Info	Chrono values for group at row 53: 24,4,16
+Dec 3, 2024, 7:58:08 AM	Info	Merging groups at rows 7 and 53
+Dec 3, 2024, 7:58:08 AM	Info	Formula state before copy at target row 7:
+Dec 3, 2024, 7:58:08 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U720:U721)","=SUM(V720:V721)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=12*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=2*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=8*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
+Dec 3, 2024, 7:58:08 AM	Info	Processing group at row 7, ref column 15
+Dec 3, 2024, 7:58:08 AM	Info	Initial backgrounds:
+Dec 3, 2024, 7:58:09 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"]]
+Dec 3, 2024, 7:58:09 AM	Info	Initial font colors:
+Dec 3, 2024, 7:58:09 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
+Dec 3, 2024, 7:58:09 AM	Info	Skipping copy - target range contains existing values
+Dec 3, 2024, 7:58:09 AM	Info	Deleting 4 rows starting at row 49
+Dec 3, 2024, 7:58:09 AM	Info	Total rows deleted so far: 8
+Dec 3, 2024, 7:58:09 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:09 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:09 AM	Info	- Next Group: Cut attach.Buckle FAST Sternal (x2) at row 53
+Dec 3, 2024, 7:58:09 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:09 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:09 AM	Info	- Next Group: Cut bottom seat webbing C73 at row 55
+Dec 3, 2024, 7:58:09 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:09 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:09 AM	Info	- Next Group: Cut passing elastic 20mm C73  (x4) at row 57
+Dec 3, 2024, 7:58:09 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:09 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:09 AM	Info	- Next Group: Cut webb Rear Attach at row 59
+Dec 3, 2024, 7:58:09 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:09 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:09 AM	Info	- Next Group: Cut web shoulder C73  at row 61
+Dec 3, 2024, 7:58:09 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:09 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:09 AM	Info	- Next Group: Cut webb adjust shoulder s0/1 (x2) at row 63
+Dec 3, 2024, 7:58:09 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:09 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:09 AM	Info	- Next Group: Cut Webb Leg LEFT s1 at row 65
+Dec 3, 2024, 7:58:09 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:09 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:09 AM	Info	- Next Group: Cut Webb Leg RIGHT UL s1 at row 67
+Dec 3, 2024, 7:58:09 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:09 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:09 AM	Info	- Next Group: Cut renforce.webb magic ring (x2) at row 69
+Dec 3, 2024, 7:58:09 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:09 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:09 AM	Info	- Next Group: Cut Webbing PL (x2) at row 71
+Dec 3, 2024, 7:58:09 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:09 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:09 AM	Info	- Next Group: Cut webbing back support 44mm INT s1 at row 73
+Dec 3, 2024, 7:58:09 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:09 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:09 AM	Info	- Next Group: GL Pu Tube at row 75
+Dec 3, 2024, 7:58:09 AM	Info	Chrono values for group at row 7: 24,4,16
+Dec 3, 2024, 7:58:09 AM	Info	Chrono values for group at row 75: 24,4,16
+Dec 3, 2024, 7:58:09 AM	Info	Merging groups at rows 7 and 75
+Dec 3, 2024, 7:58:10 AM	Info	Formula state before copy at target row 7:
+Dec 3, 2024, 7:58:10 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U716:U717)","=SUM(V716:V717)","","","","=SUM(Z716:Z717)","=SUM(AA716:AA717)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=12*2","","","","","=12*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=2*2","","","","","=2*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=8*2","","","","","=8*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
+Dec 3, 2024, 7:58:10 AM	Info	Processing group at row 7, ref column 15
+Dec 3, 2024, 7:58:10 AM	Info	Initial backgrounds:
+Dec 3, 2024, 7:58:10 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"]]
+Dec 3, 2024, 7:58:10 AM	Info	Initial font colors:
+Dec 3, 2024, 7:58:10 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
+Dec 3, 2024, 7:58:11 AM	Info	Skipping copy - target range contains existing values
+Dec 3, 2024, 7:58:11 AM	Info	Deleting 4 rows starting at row 67
+Dec 3, 2024, 7:58:11 AM	Info	Total rows deleted so far: 12
+Dec 3, 2024, 7:58:11 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:11 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:11 AM	Info	- Next Group: Cut attach.Buckle FAST Sternal (x2) at row 75
+Dec 3, 2024, 7:58:11 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:11 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:11 AM	Info	- Next Group: Cut bottom seat webbing C73 at row 77
+Dec 3, 2024, 7:58:11 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:11 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:11 AM	Info	- Next Group: Cut passing elastic 20mm C73  (x4) at row 79
+Dec 3, 2024, 7:58:11 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:11 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:11 AM	Info	- Next Group: Cut web shoulder C73  at row 81
+Dec 3, 2024, 7:58:11 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:11 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:11 AM	Info	- Next Group: Cut webb adjust shoulder s0/1 (x2) at row 83
+Dec 3, 2024, 7:58:11 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:11 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:11 AM	Info	- Next Group: Cut Webb Leg LEFT s1 at row 85
+Dec 3, 2024, 7:58:11 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:11 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:11 AM	Info	- Next Group: Cut Webb Leg RIGHT CE s1 at row 87
+Dec 3, 2024, 7:58:11 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:11 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:11 AM	Info	- Next Group: Cut renforce.webb magic ring (x2) at row 89
+Dec 3, 2024, 7:58:11 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:11 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:11 AM	Info	- Next Group: Cut Webbing PL at row 91
+Dec 3, 2024, 7:58:11 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:11 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:11 AM	Info	- Next Group: GL Pu Tube at row 93
+Dec 3, 2024, 7:58:11 AM	Info	Chrono values for group at row 7: 24,4,16
+Dec 3, 2024, 7:58:11 AM	Info	Chrono values for group at row 93: 24,4,16
+Dec 3, 2024, 7:58:11 AM	Info	Merging groups at rows 7 and 93
+Dec 3, 2024, 7:58:11 AM	Info	Formula state before copy at target row 7:
+Dec 3, 2024, 7:58:11 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U712:U713)","=SUM(V712:V713)","","","","=SUM(Z712:Z713)","=SUM(AA712:AA713)","","","","=SUM(AE712:AE713)","=SUM(AF712:AF713)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=12*2","","","","","=12*2","","","","","=12*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=2*2","","","","","=2*2","","","","","=2*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=8*2","","","","","=8*2","","","","","=8*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
+Dec 3, 2024, 7:58:11 AM	Info	Processing group at row 7, ref column 15
+Dec 3, 2024, 7:58:11 AM	Info	Initial backgrounds:
+Dec 3, 2024, 7:58:13 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"]]
+Dec 3, 2024, 7:58:13 AM	Info	Initial font colors:
+Dec 3, 2024, 7:58:13 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
+Dec 3, 2024, 7:58:13 AM	Info	Skipping copy - target range contains existing values
+Dec 3, 2024, 7:58:13 AM	Info	Deleting 4 rows starting at row 81
+Dec 3, 2024, 7:58:13 AM	Info	Total rows deleted so far: 16
+Dec 3, 2024, 7:58:13 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:13 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:13 AM	Info	- Next Group: Cut attach.Buckle FAST Sternal (x2) at row 93
+Dec 3, 2024, 7:58:13 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:13 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:13 AM	Info	- Next Group: Cut bottom seat webbing C73 at row 95
+Dec 3, 2024, 7:58:13 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:13 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:13 AM	Info	- Next Group: Cut passing elastic 20mm C73  (x4) at row 97
+Dec 3, 2024, 7:58:13 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:13 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:13 AM	Info	- Next Group: Cut webb Rear Attach at row 99
+Dec 3, 2024, 7:58:13 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:13 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:13 AM	Info	- Next Group: Cut web shoulder C73  at row 101
+Dec 3, 2024, 7:58:13 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:13 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:13 AM	Info	- Next Group: Cut webb adjust shoulder s0/1 (x2) at row 103
+Dec 3, 2024, 7:58:13 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:13 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:13 AM	Info	- Next Group: Cut Webb Leg LEFT s1 at row 105
+Dec 3, 2024, 7:58:13 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:13 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:13 AM	Info	- Next Group: Cut Webb Leg RIGHT UL s1 at row 107
+Dec 3, 2024, 7:58:13 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:13 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:13 AM	Info	- Next Group: Cut renforce.webb magic ring (x2) at row 109
+Dec 3, 2024, 7:58:13 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:13 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:13 AM	Info	- Next Group: Cut Webbing PL (x2) at row 111
+Dec 3, 2024, 7:58:13 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:13 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:13 AM	Info	- Next Group: Cut webbing back support 44mm INT s1 at row 113
+Dec 3, 2024, 7:58:13 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:13 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:13 AM	Info	- Next Group: GL Pu Tube at row 115
+Dec 3, 2024, 7:58:13 AM	Info	Chrono values for group at row 7: 24,4,16
+Dec 3, 2024, 7:58:13 AM	Info	Chrono values for group at row 115: 24,4,16
+Dec 3, 2024, 7:58:13 AM	Info	Merging groups at rows 7 and 115
+Dec 3, 2024, 7:58:14 AM	Info	Formula state before copy at target row 7:
+Dec 3, 2024, 7:58:14 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U708:U709)","=SUM(V708:V709)","","","","=SUM(Z708:Z709)","=SUM(AA708:AA709)","","","","=SUM(AE708:AE709)","=SUM(AF708:AF709)","","","","=SUM(AJ708:AJ709)","=SUM(AK708:AK709)","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=12*2","","","","","=12*2","","","","","=12*2","","","","","=12*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=2*2","","","","","=2*2","","","","","=2*2","","","","","=2*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=8*2","","","","","=8*2","","","","","=8*2","","","","","=8*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
+Dec 3, 2024, 7:58:14 AM	Info	Processing group at row 7, ref column 15
+Dec 3, 2024, 7:58:14 AM	Info	Initial backgrounds:
+Dec 3, 2024, 7:58:14 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"]]
+Dec 3, 2024, 7:58:14 AM	Info	Initial font colors:
+Dec 3, 2024, 7:58:14 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
+Dec 3, 2024, 7:58:15 AM	Info	Skipping copy - target range contains existing values
+Dec 3, 2024, 7:58:15 AM	Info	Deleting 4 rows starting at row 99
+Dec 3, 2024, 7:58:15 AM	Info	Total rows deleted so far: 20
+Dec 3, 2024, 7:58:15 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:15 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:15 AM	Info	- Next Group: Cut attach.Buckle FAST Sternal (x2) at row 115
+Dec 3, 2024, 7:58:15 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:15 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:15 AM	Info	- Next Group: Cut bottom seat webbing C73 at row 117
+Dec 3, 2024, 7:58:15 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:15 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:15 AM	Info	- Next Group: Cut passing elastic 20mm C73  (x4) at row 119
+Dec 3, 2024, 7:58:15 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:15 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:15 AM	Info	- Next Group: Cut webb Rear Attach at row 121
+Dec 3, 2024, 7:58:15 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:15 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:15 AM	Info	- Next Group: Cut web shoulder C73  at row 123
+Dec 3, 2024, 7:58:15 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:15 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:15 AM	Info	- Next Group: Cut webb adjust shoulder s0/1 (x2) at row 125
+Dec 3, 2024, 7:58:15 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:15 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:15 AM	Info	- Next Group: Cut Webb Leg LEFT s1 at row 127
+Dec 3, 2024, 7:58:15 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:15 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:15 AM	Info	- Next Group: Cut Webb Leg RIGHT UL s1 at row 129
+Dec 3, 2024, 7:58:15 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:15 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:15 AM	Info	- Next Group: Cut renforce.webb magic ring (x2) at row 131
+Dec 3, 2024, 7:58:15 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:15 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:15 AM	Info	- Next Group: Cut Webbing PL (x2) at row 133
+Dec 3, 2024, 7:58:15 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:15 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:15 AM	Info	- Next Group: Cut webbing back support 44mm INT s1 at row 135
+Dec 3, 2024, 7:58:15 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:15 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:15 AM	Info	- Next Group: GL Pu Tube at row 137
+Dec 3, 2024, 7:58:15 AM	Info	Chrono values for group at row 7: 24,4,16
+Dec 3, 2024, 7:58:15 AM	Info	Chrono values for group at row 137: 24,4,16
+Dec 3, 2024, 7:58:15 AM	Info	Merging groups at rows 7 and 137
+Dec 3, 2024, 7:58:16 AM	Info	Formula state before copy at target row 7:
+Dec 3, 2024, 7:58:16 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U704:U705)","=SUM(V704:V705)","","","","=SUM(Z704:Z705)","=SUM(AA704:AA705)","","","","=SUM(AE704:AE705)","=SUM(AF704:AF705)","","","","=SUM(AJ704:AJ705)","=SUM(AK704:AK705)","","","","=SUM(AO704:AO705)","=SUM(AP704:AP705)","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=12*2","","","","","=12*2","","","","","=12*2","","","","","=12*2","","","","","=12*2","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=2*2","","","","","=2*2","","","","","=2*2","","","","","=2*2","","","","","=2*2","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=8*2","","","","","=8*2","","","","","=8*2","","","","","=8*2","","","","","=8*2","","","","","","","","","","","","","","","","","","","","","","","",""]]
+Dec 3, 2024, 7:58:16 AM	Info	Processing group at row 7, ref column 15
+Dec 3, 2024, 7:58:16 AM	Info	Initial backgrounds:
+Dec 3, 2024, 7:58:16 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"]]
+Dec 3, 2024, 7:58:16 AM	Info	Initial font colors:
+Dec 3, 2024, 7:58:16 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
+Dec 3, 2024, 7:58:16 AM	Info	Skipping copy - target range contains existing values
+Dec 3, 2024, 7:58:16 AM	Info	Deleting 4 rows starting at row 117
+Dec 3, 2024, 7:58:17 AM	Info	Total rows deleted so far: 24
+Dec 3, 2024, 7:58:17 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:17 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:17 AM	Info	- Next Group: Cut attach.Buckle FAST Sternal (x2) at row 137
+Dec 3, 2024, 7:58:17 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:17 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:17 AM	Info	- Next Group: Cut bottom seat webbing C73 at row 139
+Dec 3, 2024, 7:58:17 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:17 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:17 AM	Info	- Next Group: Cut passing elastic 20mm C73  (x4) at row 141
+Dec 3, 2024, 7:58:17 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:17 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:17 AM	Info	- Next Group: Cut web shoulder C73  at row 143
+Dec 3, 2024, 7:58:17 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:17 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:17 AM	Info	- Next Group: Cut webb adjust shoulder s0/1 (x2) at row 145
+Dec 3, 2024, 7:58:17 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:17 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:17 AM	Info	- Next Group: Cut Webb Leg LEFT s1 at row 147
+Dec 3, 2024, 7:58:17 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:17 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:17 AM	Info	- Next Group: Cut Webb Leg RIGHT EUR s1 at row 149
+Dec 3, 2024, 7:58:17 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:17 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:17 AM	Info	- Next Group: Cut renforce.webb magic ring (x2) at row 151
+Dec 3, 2024, 7:58:17 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:17 AM	Info	- Base Group: GL Pu Tube at row 7
+Dec 3, 2024, 7:58:17 AM	Info	- Next Group: Cut Webbing PL at row 153
+Dec 3, 2024, 7:58:17 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:17 AM	Info	- Base Group: Cut attach.Buckle FAST Sternal (x2) at row 11
+Dec 3, 2024, 7:58:17 AM	Info	- Next Group: Cut bottom seat webbing C73 at row 13
+Dec 3, 2024, 7:58:17 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:17 AM	Info	- Base Group: Cut attach.Buckle FAST Sternal (x2) at row 11
+Dec 3, 2024, 7:58:17 AM	Info	- Next Group: Cut passing elastic 20mm C73  (x4) at row 15
+Dec 3, 2024, 7:58:17 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:17 AM	Info	- Base Group: Cut attach.Buckle FAST Sternal (x2) at row 11
+Dec 3, 2024, 7:58:17 AM	Info	- Next Group: Cut webb Rear Attach at row 17
+Dec 3, 2024, 7:58:17 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:17 AM	Info	- Base Group: Cut attach.Buckle FAST Sternal (x2) at row 11
+Dec 3, 2024, 7:58:17 AM	Info	- Next Group: Cut web shoulder C73  at row 19
+Dec 3, 2024, 7:58:17 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:17 AM	Info	- Base Group: Cut attach.Buckle FAST Sternal (x2) at row 11
+Dec 3, 2024, 7:58:17 AM	Info	- Next Group: Cut webb adjust shoulder s0/1 (x2) at row 21
+Dec 3, 2024, 7:58:17 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:17 AM	Info	- Base Group: Cut attach.Buckle FAST Sternal (x2) at row 11
+Dec 3, 2024, 7:58:17 AM	Info	- Next Group: Cut Webb Leg LEFT s1 at row 23
+Dec 3, 2024, 7:58:17 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:17 AM	Info	- Base Group: Cut attach.Buckle FAST Sternal (x2) at row 11
+Dec 3, 2024, 7:58:17 AM	Info	- Next Group: Cut Webb Leg RIGHT UL s1 at row 25
+Dec 3, 2024, 7:58:17 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:17 AM	Info	- Base Group: Cut attach.Buckle FAST Sternal (x2) at row 11
+Dec 3, 2024, 7:58:17 AM	Info	- Next Group: Cut renforce.webb magic ring (x2) at row 27
+Dec 3, 2024, 7:58:17 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:17 AM	Info	- Base Group: Cut attach.Buckle FAST Sternal (x2) at row 11
+Dec 3, 2024, 7:58:17 AM	Info	- Next Group: Cut Webbing PL (x2) at row 29
+Dec 3, 2024, 7:58:17 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:17 AM	Info	- Base Group: Cut attach.Buckle FAST Sternal (x2) at row 11
+Dec 3, 2024, 7:58:17 AM	Info	- Next Group: Cut webbing back support 44mm INT s1 at row 31
+Dec 3, 2024, 7:58:17 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:17 AM	Info	- Base Group: Cut attach.Buckle FAST Sternal (x2) at row 11
+Dec 3, 2024, 7:58:17 AM	Info	- Next Group: GL Pu Tube at row 33
+Dec 3, 2024, 7:58:17 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:17 AM	Info	- Base Group: Cut attach.Buckle FAST Sternal (x2) at row 11
+Dec 3, 2024, 7:58:17 AM	Info	- Next Group: Cut attach.Buckle FAST Sternal (x2) at row 33
+Dec 3, 2024, 7:58:17 AM	Info	Chrono values for group at row 11: 5
+Dec 3, 2024, 7:58:17 AM	Info	Chrono values for group at row 33: 5
+Dec 3, 2024, 7:58:17 AM	Info	Merging groups at rows 11 and 33
+Dec 3, 2024, 7:58:17 AM	Info	Formula state before copy at target row 11:
+Dec 3, 2024, 7:58:17 AM	Info	[["","","","","","","","","","","","","","","","=SUM(P699:P700)","=SUM(Q699:Q700)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","=2,5*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
+Dec 3, 2024, 7:58:17 AM	Info	Processing group at row 11, ref column 15
+Dec 3, 2024, 7:58:17 AM	Info	Initial backgrounds:
+Dec 3, 2024, 7:58:17 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 3, 2024, 7:58:17 AM	Info	Initial font colors:
+Dec 3, 2024, 7:58:17 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
+Dec 3, 2024, 7:58:18 AM	Info	Skipping copy - target range contains existing values
+Dec 3, 2024, 7:58:18 AM	Info	Deleting 2 rows starting at row 9
+Dec 3, 2024, 7:58:18 AM	Info	Total rows deleted so far: 26
+Dec 3, 2024, 7:58:18 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:18 AM	Info	- Base Group: Cut attach.Buckle FAST Sternal (x2) at row 11
+Dec 3, 2024, 7:58:18 AM	Info	- Next Group: Cut bottom seat webbing C73 at row 33
+Dec 3, 2024, 7:58:18 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:18 AM	Info	- Base Group: Cut attach.Buckle FAST Sternal (x2) at row 11
+Dec 3, 2024, 7:58:18 AM	Info	- Next Group: Cut passing elastic 20mm C73  (x4) at row 35
+Dec 3, 2024, 7:58:18 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:18 AM	Info	- Base Group: Cut attach.Buckle FAST Sternal (x2) at row 11
+Dec 3, 2024, 7:58:18 AM	Info	- Next Group: Cut web shoulder C73  at row 37
+Dec 3, 2024, 7:58:18 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:18 AM	Info	- Base Group: Cut attach.Buckle FAST Sternal (x2) at row 11
+Dec 3, 2024, 7:58:18 AM	Info	- Next Group: Cut webb adjust shoulder s0/1 (x2) at row 39
+Dec 3, 2024, 7:58:18 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:18 AM	Info	- Base Group: Cut attach.Buckle FAST Sternal (x2) at row 11
+Dec 3, 2024, 7:58:18 AM	Info	- Next Group: Cut Webb Leg LEFT s1 at row 41
+Dec 3, 2024, 7:58:18 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:18 AM	Info	- Base Group: Cut attach.Buckle FAST Sternal (x2) at row 11
+Dec 3, 2024, 7:58:18 AM	Info	- Next Group: Cut Webb Leg RIGHT CE s1 at row 43
+Dec 3, 2024, 7:58:18 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:18 AM	Info	- Base Group: Cut attach.Buckle FAST Sternal (x2) at row 11
+Dec 3, 2024, 7:58:18 AM	Info	- Next Group: Cut renforce.webb magic ring (x2) at row 45
+Dec 3, 2024, 7:58:18 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:18 AM	Info	- Base Group: Cut attach.Buckle FAST Sternal (x2) at row 11
+Dec 3, 2024, 7:58:18 AM	Info	- Next Group: Cut Webbing PL at row 47
+Dec 3, 2024, 7:58:18 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:18 AM	Info	- Base Group: Cut attach.Buckle FAST Sternal (x2) at row 11
+Dec 3, 2024, 7:58:18 AM	Info	- Next Group: Cut webbing back support 44mm CE s1 at row 49
+Dec 3, 2024, 7:58:18 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:18 AM	Info	- Base Group: Cut attach.Buckle FAST Sternal (x2) at row 11
+Dec 3, 2024, 7:58:18 AM	Info	- Next Group: GL Pu Tube at row 51
+Dec 3, 2024, 7:58:18 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:18 AM	Info	- Base Group: Cut attach.Buckle FAST Sternal (x2) at row 11
+Dec 3, 2024, 7:58:18 AM	Info	- Next Group: Cut attach.Buckle FAST Sternal (x2) at row 51
+Dec 3, 2024, 7:58:18 AM	Info	Chrono values for group at row 11: 5
+Dec 3, 2024, 7:58:18 AM	Info	Chrono values for group at row 51: 5
+Dec 3, 2024, 7:58:18 AM	Info	Merging groups at rows 11 and 51
+Dec 3, 2024, 7:58:18 AM	Info	Formula state before copy at target row 11:
+Dec 3, 2024, 7:58:18 AM	Info	[["","","","","","","","","","","","","","","","=SUM(P697:P698)","=SUM(Q697:Q698)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
+Dec 3, 2024, 7:58:18 AM	Info	Processing group at row 11, ref column 15
+Dec 3, 2024, 7:58:18 AM	Info	Initial backgrounds:
+Dec 3, 2024, 7:58:19 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 3, 2024, 7:58:19 AM	Info	Initial font colors:
+Dec 3, 2024, 7:58:19 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
+Dec 3, 2024, 7:58:19 AM	Info	Skipping copy - target range contains existing values
+Dec 3, 2024, 7:58:19 AM	Info	Deleting 2 rows starting at row 25
+Dec 3, 2024, 7:58:19 AM	Info	Total rows deleted so far: 28
+Dec 3, 2024, 7:58:19 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:19 AM	Info	- Base Group: Cut attach.Buckle FAST Sternal (x2) at row 11
+Dec 3, 2024, 7:58:19 AM	Info	- Next Group: Cut bottom seat webbing C73 at row 51
+Dec 3, 2024, 7:58:19 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:19 AM	Info	- Base Group: Cut attach.Buckle FAST Sternal (x2) at row 11
+Dec 3, 2024, 7:58:19 AM	Info	- Next Group: Cut passing elastic 20mm C73  (x4) at row 53
+Dec 3, 2024, 7:58:19 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:19 AM	Info	- Base Group: Cut attach.Buckle FAST Sternal (x2) at row 11
+Dec 3, 2024, 7:58:19 AM	Info	- Next Group: Cut webb Rear Attach at row 55
+Dec 3, 2024, 7:58:19 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:19 AM	Info	- Base Group: Cut attach.Buckle FAST Sternal (x2) at row 11
+Dec 3, 2024, 7:58:19 AM	Info	- Next Group: Cut web shoulder C73  at row 57
+Dec 3, 2024, 7:58:19 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:19 AM	Info	- Base Group: Cut attach.Buckle FAST Sternal (x2) at row 11
+Dec 3, 2024, 7:58:19 AM	Info	- Next Group: Cut webb adjust shoulder s0/1 (x2) at row 59
+Dec 3, 2024, 7:58:19 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:19 AM	Info	- Base Group: Cut attach.Buckle FAST Sternal (x2) at row 11
+Dec 3, 2024, 7:58:19 AM	Info	- Next Group: Cut Webb Leg LEFT s1 at row 61
+Dec 3, 2024, 7:58:19 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:19 AM	Info	- Base Group: Cut attach.Buckle FAST Sternal (x2) at row 11
+Dec 3, 2024, 7:58:19 AM	Info	- Next Group: Cut Webb Leg RIGHT UL s1 at row 63
+Dec 3, 2024, 7:58:19 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:19 AM	Info	- Base Group: Cut attach.Buckle FAST Sternal (x2) at row 11
+Dec 3, 2024, 7:58:19 AM	Info	- Next Group: Cut renforce.webb magic ring (x2) at row 65
+Dec 3, 2024, 7:58:19 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:19 AM	Info	- Base Group: Cut attach.Buckle FAST Sternal (x2) at row 11
+Dec 3, 2024, 7:58:19 AM	Info	- Next Group: Cut Webbing PL (x2) at row 67
+Dec 3, 2024, 7:58:19 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:19 AM	Info	- Base Group: Cut attach.Buckle FAST Sternal (x2) at row 11
+Dec 3, 2024, 7:58:19 AM	Info	- Next Group: Cut webbing back support 44mm INT s1 at row 69
+Dec 3, 2024, 7:58:19 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:19 AM	Info	- Base Group: Cut attach.Buckle FAST Sternal (x2) at row 11
+Dec 3, 2024, 7:58:19 AM	Info	- Next Group: GL Pu Tube at row 71
+Dec 3, 2024, 7:58:19 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:19 AM	Info	- Base Group: Cut attach.Buckle FAST Sternal (x2) at row 11
+Dec 3, 2024, 7:58:19 AM	Info	- Next Group: Cut attach.Buckle FAST Sternal (x2) at row 71
+Dec 3, 2024, 7:58:19 AM	Info	Chrono values for group at row 11: 5
+Dec 3, 2024, 7:58:19 AM	Info	Chrono values for group at row 71: 5
+Dec 3, 2024, 7:58:19 AM	Info	Merging groups at rows 11 and 71
+Dec 3, 2024, 7:58:20 AM	Info	Formula state before copy at target row 11:
+Dec 3, 2024, 7:58:20 AM	Info	[["","","","","","","","","","","","","","","","","","","","","","","","","","=SUM(Z696:Z697)","=SUM(AA696:AA697)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","=2,5*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
+Dec 3, 2024, 7:58:20 AM	Info	Processing group at row 11, ref column 15
+Dec 3, 2024, 7:58:20 AM	Info	Initial backgrounds:
+Dec 3, 2024, 7:58:22 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 3, 2024, 7:58:22 AM	Info	Initial font colors:
+Dec 3, 2024, 7:58:22 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
+Dec 3, 2024, 7:58:22 AM	Info	Skipping copy - target range contains existing values
+Dec 3, 2024, 7:58:22 AM	Info	Deleting 2 rows starting at row 43
+Dec 3, 2024, 7:58:22 AM	Info	Total rows deleted so far: 30
+Dec 3, 2024, 7:58:22 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:22 AM	Info	- Base Group: Cut attach.Buckle FAST Sternal (x2) at row 11
+Dec 3, 2024, 7:58:22 AM	Info	- Next Group: Cut bottom seat webbing C73 at row 71
+Dec 3, 2024, 7:58:22 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:22 AM	Info	- Base Group: Cut attach.Buckle FAST Sternal (x2) at row 11
+Dec 3, 2024, 7:58:22 AM	Info	- Next Group: Cut passing elastic 20mm C73  (x4) at row 73
+Dec 3, 2024, 7:58:22 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:22 AM	Info	- Base Group: Cut attach.Buckle FAST Sternal (x2) at row 11
+Dec 3, 2024, 7:58:22 AM	Info	- Next Group: Cut web shoulder C73  at row 75
+Dec 3, 2024, 7:58:22 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:22 AM	Info	- Base Group: Cut attach.Buckle FAST Sternal (x2) at row 11
+Dec 3, 2024, 7:58:22 AM	Info	- Next Group: Cut webb adjust shoulder s0/1 (x2) at row 77
+Dec 3, 2024, 7:58:22 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:22 AM	Info	- Next Group: Cut Webb Leg LEFT s1 at row 79
+Dec 3, 2024, 7:58:22 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:22 AM	Info	- Base Group: Cut attach.Buckle FAST Sternal (x2) at row 11
+Dec 3, 2024, 7:58:22 AM	Info	- Next Group: Cut Webb Leg RIGHT CE s1 at row 81
+Dec 3, 2024, 7:58:22 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:22 AM	Info	- Base Group: Cut attach.Buckle FAST Sternal (x2) at row 11
+Dec 3, 2024, 7:58:22 AM	Info	- Next Group: Cut renforce.webb magic ring (x2) at row 83
+Dec 3, 2024, 7:58:22 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:22 AM	Info	- Base Group: Cut attach.Buckle FAST Sternal (x2) at row 11
+Dec 3, 2024, 7:58:22 AM	Info	- Next Group: Cut Webbing PL at row 85
+Dec 3, 2024, 7:58:22 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:22 AM	Info	- Base Group: Cut attach.Buckle FAST Sternal (x2) at row 11
+Dec 3, 2024, 7:58:22 AM	Info	- Next Group: GL Pu Tube at row 87
+Dec 3, 2024, 7:58:22 AM	Info	Comparing groups:
+Dec 3, 2024, 7:58:22 AM	Info	- Base Group: Cut attach.Buckle FAST Sternal (x2) at row 11
+Dec 3, 2024, 7:58:22 AM	Info	- Next Group: Cut attach.Buckle FAST Sternal (x2) at row 87
+Dec 3, 2024, 7:58:22 AM	Info	Chrono values for group at row 11: 5
+Dec 3, 2024, 7:58:22 AM	Info	Chrono values for group at row 87: 5
+Dec 3, 2024, 7:58:22 AM	Info	Merging groups at rows 11 and 87
+Dec 3, 2024, 7:58:23 AM	Info	Formula state before copy at target row 11:
+Dec 3, 2024, 7:58:23 AM	Info	[["","","","","","","","","","","","","","","","","","","","","","","","","","=SUM(Z694:Z695)","=SUM(AA694:AA695)","","","","=SUM(AE694:AE695)","=SUM(AF694:AF695)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","=2,5*2","","","","","=2,5*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
+Dec 3, 2024, 7:58:23 AM	Info	Processing group at row 11, ref column 15
+Dec 3, 2024, 7:58:23 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 3, 2024, 7:58:23 AM	Info	Initial font colors:
+Dec 3, 2024, 7:58:23 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
+Dec 3, 2024, 7:58:24 AM	Info	Execution cancelled.
