@@ -1,994 +1,468 @@
 Cloud logs
-Dec 3, 2024, 7:39:45 AM	Info	--- Starting Sheet Optimization ---
-Dec 3, 2024, 7:39:47 AM	Info	Row 6: Type=island
-Dec 3, 2024, 7:39:47 AM	Info	Row 7: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0088401A at column 15
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 7, Value=GL Pu Tube, RefValue: C0088401A
-Dec 3, 2024, 7:39:47 AM	Info	Row 8: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 9: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 10: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 11: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0119501A at column 15
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 11, Value=Cut attach.Buckle FAST Sternal (x2), RefValue: C0119501A
-Dec 3, 2024, 7:39:47 AM	Info	Row 12: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 13: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0086001A at column 15
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 13, Value=Cut bottom seat webbing C73, RefValue: C0086001A
-Dec 3, 2024, 7:39:47 AM	Info	Row 14: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 15: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0086101A at column 15
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 15, Value=Cut passing elastic 20mm C73  (x4), RefValue: C0086101A
-Dec 3, 2024, 7:39:47 AM	Info	Row 16: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 17: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0119600A at column 15
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 17, Value=Cut webb Rear Attach, RefValue: C0119600A
-Dec 3, 2024, 7:39:47 AM	Info	Row 18: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 19: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0119001A at column 15
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 19, Value=Cut web shoulder C73 , RefValue: C0119001A
-Dec 3, 2024, 7:39:47 AM	Info	Row 20: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 21: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0119200A at column 15
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 21, Value=Cut webb adjust shoulder s0/1 (x2), RefValue: C0119200A
-Dec 3, 2024, 7:39:47 AM	Info	Row 22: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 23: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0119301A at column 15
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 23, Value=Cut Webb Leg LEFT s1, RefValue: C0119301A
-Dec 3, 2024, 7:39:47 AM	Info	Row 24: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 25: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0119404A at column 15
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 25, Value=Cut Webb Leg RIGHT UL s1, RefValue: C0119404A
-Dec 3, 2024, 7:39:47 AM	Info	Row 26: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 27: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0089302A at column 15
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 27, Value=Cut renforce.webb magic ring (x2), RefValue: C0089302A
-Dec 3, 2024, 7:39:47 AM	Info	Row 28: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 29: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0118900A at column 15
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 29, Value=Cut Webbing PL (x2), RefValue: C0118900A
-Dec 3, 2024, 7:39:47 AM	Info	Row 30: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 31: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0119103A at column 15
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 31, Value=Cut webbing back support 44mm INT s1, RefValue: C0119103A
-Dec 3, 2024, 7:39:47 AM	Info	Row 32: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 33: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0088401A at column 20
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 33, Value=GL Pu Tube, RefValue: C0088401A
-Dec 3, 2024, 7:39:47 AM	Info	Row 34: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 35: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 36: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 37: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0119500A at column 20
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 37, Value=Cut attach.Buckle FAST Sternal (x2), RefValue: C0119500A
-Dec 3, 2024, 7:39:47 AM	Info	Row 38: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 39: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0086001A at column 20
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 39, Value=Cut bottom seat webbing C73, RefValue: C0086001A
-Dec 3, 2024, 7:39:47 AM	Info	Row 40: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 41: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0086101A at column 20
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 41, Value=Cut passing elastic 20mm C73  (x4), RefValue: C0086101A
-Dec 3, 2024, 7:39:47 AM	Info	Row 42: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 43: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0119000A at column 20
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 43, Value=Cut web shoulder C73 , RefValue: C0119000A
-Dec 3, 2024, 7:39:47 AM	Info	Row 44: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 45: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0119200A at column 20
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 45, Value=Cut webb adjust shoulder s0/1 (x2), RefValue: C0119200A
-Dec 3, 2024, 7:39:47 AM	Info	Row 46: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 47: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0119301A at column 20
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 47, Value=Cut Webb Leg LEFT s1, RefValue: C0119301A
-Dec 3, 2024, 7:39:47 AM	Info	Row 48: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 49: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0119401A at column 20
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 49, Value=Cut Webb Leg RIGHT CE s1, RefValue: C0119401A
-Dec 3, 2024, 7:39:47 AM	Info	Row 50: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 51: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0089302A at column 20
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 51, Value=Cut renforce.webb magic ring (x2), RefValue: C0089302A
-Dec 3, 2024, 7:39:47 AM	Info	Row 52: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 53: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0118900A at column 20
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 53, Value=Cut Webbing PL, RefValue: C0118900A
-Dec 3, 2024, 7:39:47 AM	Info	Row 54: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 55: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0119100A at column 20
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 55, Value=Cut webbing back support 44mm CE s1, RefValue: C0119100A
-Dec 3, 2024, 7:39:47 AM	Info	Row 56: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 57: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0088401A at column 25
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 57, Value=GL Pu Tube, RefValue: C0088401A
-Dec 3, 2024, 7:39:47 AM	Info	Row 58: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 59: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 60: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 61: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0119501A at column 25
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 61, Value=Cut attach.Buckle FAST Sternal (x2), RefValue: C0119501A
-Dec 3, 2024, 7:39:47 AM	Info	Row 62: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 63: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0086001A at column 25
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 63, Value=Cut bottom seat webbing C73, RefValue: C0086001A
-Dec 3, 2024, 7:39:47 AM	Info	Row 64: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 65: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0086101A at column 25
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 65, Value=Cut passing elastic 20mm C73  (x4), RefValue: C0086101A
-Dec 3, 2024, 7:39:47 AM	Info	Row 66: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 67: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0119600A at column 25
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 67, Value=Cut webb Rear Attach, RefValue: C0119600A
-Dec 3, 2024, 7:39:47 AM	Info	Row 68: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 69: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0119000A at column 25
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 69, Value=Cut web shoulder C73 , RefValue: C0119000A
-Dec 3, 2024, 7:39:47 AM	Info	Row 70: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 71: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0119200A at column 25
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 71, Value=Cut webb adjust shoulder s0/1 (x2), RefValue: C0119200A
-Dec 3, 2024, 7:39:47 AM	Info	Row 72: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 73: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0119301A at column 25
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 73, Value=Cut Webb Leg LEFT s1, RefValue: C0119301A
-Dec 3, 2024, 7:39:47 AM	Info	Row 74: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 75: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0119404A at column 25
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 75, Value=Cut Webb Leg RIGHT UL s1, RefValue: C0119404A
-Dec 3, 2024, 7:39:47 AM	Info	Row 76: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 77: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0089302A at column 25
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 77, Value=Cut renforce.webb magic ring (x2), RefValue: C0089302A
-Dec 3, 2024, 7:39:47 AM	Info	Row 78: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 79: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0118900A at column 25
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 79, Value=Cut Webbing PL (x2), RefValue: C0118900A
-Dec 3, 2024, 7:39:47 AM	Info	Row 80: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 81: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0119103A at column 25
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 81, Value=Cut webbing back support 44mm INT s1, RefValue: C0119103A
-Dec 3, 2024, 7:39:47 AM	Info	Row 82: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 83: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0088401A at column 30
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 83, Value=GL Pu Tube, RefValue: C0088401A
-Dec 3, 2024, 7:39:47 AM	Info	Row 84: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 85: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 86: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 87: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0119500A at column 30
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 87, Value=Cut attach.Buckle FAST Sternal (x2), RefValue: C0119500A
-Dec 3, 2024, 7:39:47 AM	Info	Row 88: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 89: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0086001A at column 30
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 89, Value=Cut bottom seat webbing C73, RefValue: C0086001A
-Dec 3, 2024, 7:39:47 AM	Info	Row 90: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 91: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0086101A at column 30
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 91, Value=Cut passing elastic 20mm C73  (x4), RefValue: C0086101A
-Dec 3, 2024, 7:39:47 AM	Info	Row 92: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 93: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0119001A at column 30
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 93, Value=Cut web shoulder C73 , RefValue: C0119001A
-Dec 3, 2024, 7:39:47 AM	Info	Row 94: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 95: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0119200A at column 30
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 95, Value=Cut webb adjust shoulder s0/1 (x2), RefValue: C0119200A
-Dec 3, 2024, 7:39:47 AM	Info	Row 96: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 97: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0119301A at column 30
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 97, Value=Cut Webb Leg LEFT s1, RefValue: C0119301A
-Dec 3, 2024, 7:39:47 AM	Info	Row 98: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 99: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0119401A at column 30
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 99, Value=Cut Webb Leg RIGHT CE s1, RefValue: C0119401A
-Dec 3, 2024, 7:39:47 AM	Info	Row 100: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 101: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0089302A at column 30
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 101, Value=Cut renforce.webb magic ring (x2), RefValue: C0089302A
-Dec 3, 2024, 7:39:47 AM	Info	Row 102: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 103: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0118900A at column 30
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 103, Value=Cut Webbing PL, RefValue: C0118900A
-Dec 3, 2024, 7:39:47 AM	Info	Row 104: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 105: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0088401A at column 35
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 105, Value=GL Pu Tube, RefValue: C0088401A
-Dec 3, 2024, 7:39:47 AM	Info	Row 106: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 107: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 108: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 109: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0119501A at column 35
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 109, Value=Cut attach.Buckle FAST Sternal (x2), RefValue: C0119501A
-Dec 3, 2024, 7:39:47 AM	Info	Row 110: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 111: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0086001A at column 35
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 111, Value=Cut bottom seat webbing C73, RefValue: C0086001A
-Dec 3, 2024, 7:39:47 AM	Info	Row 112: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 113: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0086101A at column 35
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 113, Value=Cut passing elastic 20mm C73  (x4), RefValue: C0086101A
-Dec 3, 2024, 7:39:47 AM	Info	Row 114: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 115: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0119600A at column 35
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 115, Value=Cut webb Rear Attach, RefValue: C0119600A
-Dec 3, 2024, 7:39:47 AM	Info	Row 116: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 117: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0119001A at column 35
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 117, Value=Cut web shoulder C73 , RefValue: C0119001A
-Dec 3, 2024, 7:39:47 AM	Info	Row 118: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 119: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0119200A at column 35
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 119, Value=Cut webb adjust shoulder s0/1 (x2), RefValue: C0119200A
-Dec 3, 2024, 7:39:47 AM	Info	Row 120: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 121: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0119301A at column 35
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 121, Value=Cut Webb Leg LEFT s1, RefValue: C0119301A
-Dec 3, 2024, 7:39:47 AM	Info	Row 122: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 123: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0119404A at column 35
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 123, Value=Cut Webb Leg RIGHT UL s1, RefValue: C0119404A
-Dec 3, 2024, 7:39:47 AM	Info	Row 124: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 125: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0089302A at column 35
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 125, Value=Cut renforce.webb magic ring (x2), RefValue: C0089302A
-Dec 3, 2024, 7:39:47 AM	Info	Row 126: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 127: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0118900A at column 35
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 127, Value=Cut Webbing PL (x2), RefValue: C0118900A
-Dec 3, 2024, 7:39:47 AM	Info	Row 128: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 129: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0119103A at column 35
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 129, Value=Cut webbing back support 44mm INT s1, RefValue: C0119103A
-Dec 3, 2024, 7:39:47 AM	Info	Row 130: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 131: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0088401A at column 40
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 131, Value=GL Pu Tube, RefValue: C0088401A
-Dec 3, 2024, 7:39:47 AM	Info	Row 132: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 133: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 134: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 135: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0119501A at column 40
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 135, Value=Cut attach.Buckle FAST Sternal (x2), RefValue: C0119501A
-Dec 3, 2024, 7:39:47 AM	Info	Row 136: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 137: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0086001A at column 40
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 137, Value=Cut bottom seat webbing C73, RefValue: C0086001A
-Dec 3, 2024, 7:39:47 AM	Info	Row 138: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 139: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0086101A at column 40
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 139, Value=Cut passing elastic 20mm C73  (x4), RefValue: C0086101A
-Dec 3, 2024, 7:39:47 AM	Info	Row 140: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 141: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0119600A at column 40
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 141, Value=Cut webb Rear Attach, RefValue: C0119600A
-Dec 3, 2024, 7:39:47 AM	Info	Row 142: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 143: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0119001A at column 40
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 143, Value=Cut web shoulder C73 , RefValue: C0119001A
-Dec 3, 2024, 7:39:47 AM	Info	Row 144: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 145: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0119200A at column 40
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 145, Value=Cut webb adjust shoulder s0/1 (x2), RefValue: C0119200A
-Dec 3, 2024, 7:39:47 AM	Info	Row 146: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 147: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0119301A at column 40
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 147, Value=Cut Webb Leg LEFT s1, RefValue: C0119301A
-Dec 3, 2024, 7:39:47 AM	Info	Row 148: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 149: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0119404A at column 40
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 149, Value=Cut Webb Leg RIGHT UL s1, RefValue: C0119404A
-Dec 3, 2024, 7:39:47 AM	Info	Row 150: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 151: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0089302A at column 40
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 151, Value=Cut renforce.webb magic ring (x2), RefValue: C0089302A
-Dec 3, 2024, 7:39:47 AM	Info	Row 152: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 153: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0118900A at column 40
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 153, Value=Cut Webbing PL (x2), RefValue: C0118900A
-Dec 3, 2024, 7:39:47 AM	Info	Row 154: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 155: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0119103A at column 40
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 155, Value=Cut webbing back support 44mm INT s1, RefValue: C0119103A
-Dec 3, 2024, 7:39:47 AM	Info	Row 156: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 157: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0088401A at column 45
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 157, Value=GL Pu Tube, RefValue: C0088401A
-Dec 3, 2024, 7:39:47 AM	Info	Row 158: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 159: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 160: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 161: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0119500A at column 45
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 161, Value=Cut attach.Buckle FAST Sternal (x2), RefValue: C0119500A
-Dec 3, 2024, 7:39:47 AM	Info	Row 162: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 163: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0086001A at column 45
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 163, Value=Cut bottom seat webbing C73, RefValue: C0086001A
-Dec 3, 2024, 7:39:47 AM	Info	Row 164: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 165: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0086101A at column 45
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 165, Value=Cut passing elastic 20mm C73  (x4), RefValue: C0086101A
-Dec 3, 2024, 7:39:47 AM	Info	Row 166: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 167: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0119001A at column 45
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 167, Value=Cut web shoulder C73 , RefValue: C0119001A
-Dec 3, 2024, 7:39:47 AM	Info	Row 168: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 169: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0119200A at column 45
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 169, Value=Cut webb adjust shoulder s0/1 (x2), RefValue: C0119200A
-Dec 3, 2024, 7:39:47 AM	Info	Row 170: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 171: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0119301A at column 45
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 171, Value=Cut Webb Leg LEFT s1, RefValue: C0119301A
-Dec 3, 2024, 7:39:47 AM	Info	Row 172: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 173: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0119401A at column 45
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 173, Value=Cut Webb Leg RIGHT EUR s1, RefValue: C0119401A
-Dec 3, 2024, 7:39:47 AM	Info	Row 174: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 175: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0089302A at column 45
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 175, Value=Cut renforce.webb magic ring (x2), RefValue: C0089302A
-Dec 3, 2024, 7:39:47 AM	Info	Row 176: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 177: Type=subassy
-Dec 3, 2024, 7:39:47 AM	Info	Found ref value C0118900A at column 45
-Dec 3, 2024, 7:39:47 AM	Info	Creating SubAssy group at row 177, Value=Cut Webbing PL, RefValue: C0118900A
-Dec 3, 2024, 7:39:47 AM	Info	Row 178: Type=process
-Dec 3, 2024, 7:39:47 AM	Info	Row 179: Type=island
-Dec 3, 2024, 7:39:47 AM	Info	Processing Island with 79 groups
-Dec 3, 2024, 7:39:47 AM	Info	Chrono values for group at row 7: 24,4,16
-Dec 3, 2024, 7:39:47 AM	Info	Chrono values for group at row 33: 24,4,16
-Dec 3, 2024, 7:39:48 AM	Info	Formula state before copy at target row 7:
-Dec 3, 2024, 7:39:48 AM	Info	[["","","","","","","","","","","","","","","","=SUM(P723:P724)","=SUM(Q723:Q724)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","=12*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","=2*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","=8*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:39:48 AM	Info	Processing group at row 7, ref column 15
-Dec 3, 2024, 7:39:48 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:39:49 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:39:49 AM	Info	Initial font colors:
-Dec 3, 2024, 7:39:49 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:39:51 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:39:51 AM	Info	Chrono values for group at row 7: 24,4,16
-Dec 3, 2024, 7:39:51 AM	Info	Chrono values for group at row 53: 24,4,16
-Dec 3, 2024, 7:39:53 AM	Info	Formula state before copy at target row 7:
-Dec 3, 2024, 7:39:53 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U720:U721)","=SUM(V720:V721)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=12*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=2*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=8*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:39:53 AM	Info	Processing group at row 7, ref column 15
-Dec 3, 2024, 7:39:53 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:39:53 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:39:53 AM	Info	Initial font colors:
-Dec 3, 2024, 7:39:53 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:39:54 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:39:54 AM	Info	Chrono values for group at row 7: 24,4,16
-Dec 3, 2024, 7:39:54 AM	Info	Chrono values for group at row 75: 24,4,16
-Dec 3, 2024, 7:39:54 AM	Info	Formula state before copy at target row 7:
-Dec 3, 2024, 7:39:54 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U716:U717)","=SUM(V716:V717)","","","","=SUM(Z716:Z717)","=SUM(AA716:AA717)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=12*2","","","","","=12*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=2*2","","","","","=2*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=8*2","","","","","=8*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:39:54 AM	Info	Processing group at row 7, ref column 15
-Dec 3, 2024, 7:39:54 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:39:55 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:39:55 AM	Info	Initial font colors:
-Dec 3, 2024, 7:39:55 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:39:55 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:39:55 AM	Info	Chrono values for group at row 7: 24,4,16
-Dec 3, 2024, 7:39:55 AM	Info	Chrono values for group at row 93: 24,4,16
-Dec 3, 2024, 7:39:56 AM	Info	Formula state before copy at target row 7:
-Dec 3, 2024, 7:39:56 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U712:U713)","=SUM(V712:V713)","","","","=SUM(Z712:Z713)","=SUM(AA712:AA713)","","","","=SUM(AE712:AE713)","=SUM(AF712:AF713)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=12*2","","","","","=12*2","","","","","=12*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=2*2","","","","","=2*2","","","","","=2*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=8*2","","","","","=8*2","","","","","=8*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:39:56 AM	Info	Processing group at row 7, ref column 15
-Dec 3, 2024, 7:39:56 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:39:56 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:39:56 AM	Info	Initial font colors:
-Dec 3, 2024, 7:39:56 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:39:57 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:39:57 AM	Info	Chrono values for group at row 7: 24,4,16
-Dec 3, 2024, 7:39:57 AM	Info	Chrono values for group at row 115: 24,4,16
-Dec 3, 2024, 7:39:58 AM	Info	Formula state before copy at target row 7:
-Dec 3, 2024, 7:39:58 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U708:U709)","=SUM(V708:V709)","","","","=SUM(Z708:Z709)","=SUM(AA708:AA709)","","","","=SUM(AE708:AE709)","=SUM(AF708:AF709)","","","","=SUM(AJ708:AJ709)","=SUM(AK708:AK709)","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=12*2","","","","","=12*2","","","","","=12*2","","","","","=12*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=2*2","","","","","=2*2","","","","","=2*2","","","","","=2*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=8*2","","","","","=8*2","","","","","=8*2","","","","","=8*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:39:58 AM	Info	Processing group at row 7, ref column 15
-Dec 3, 2024, 7:39:58 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:39:59 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:39:59 AM	Info	Initial font colors:
-Dec 3, 2024, 7:39:59 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:39:59 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:40:00 AM	Info	Chrono values for group at row 7: 24,4,16
-Dec 3, 2024, 7:40:00 AM	Info	Chrono values for group at row 137: 24,4,16
-Dec 3, 2024, 7:40:00 AM	Info	Formula state before copy at target row 7:
-Dec 3, 2024, 7:40:00 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U704:U705)","=SUM(V704:V705)","","","","=SUM(Z704:Z705)","=SUM(AA704:AA705)","","","","=SUM(AE704:AE705)","=SUM(AF704:AF705)","","","","=SUM(AJ704:AJ705)","=SUM(AK704:AK705)","","","","=SUM(AO704:AO705)","=SUM(AP704:AP705)","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=12*2","","","","","=12*2","","","","","=12*2","","","","","=12*2","","","","","=12*2","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=2*2","","","","","=2*2","","","","","=2*2","","","","","=2*2","","","","","=2*2","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=8*2","","","","","=8*2","","","","","=8*2","","","","","=8*2","","","","","=8*2","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:40:00 AM	Info	Processing group at row 7, ref column 15
-Dec 3, 2024, 7:40:00 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:40:01 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:40:01 AM	Info	Initial font colors:
-Dec 3, 2024, 7:40:01 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:40:01 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:40:01 AM	Info	Chrono values for group at row 11: 5
-Dec 3, 2024, 7:40:01 AM	Info	Chrono values for group at row 33: 5
-Dec 3, 2024, 7:40:02 AM	Info	Formula state before copy at target row 11:
-Dec 3, 2024, 7:40:02 AM	Info	[["","","","","","","","","","","","","","","","=SUM(P699:P700)","=SUM(Q699:Q700)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","=2,5*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:40:02 AM	Info	Processing group at row 11, ref column 15
-Dec 3, 2024, 7:40:02 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:40:02 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:40:02 AM	Info	Initial font colors:
-Dec 3, 2024, 7:40:02 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:40:02 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:40:02 AM	Info	Chrono values for group at row 11: 5
-Dec 3, 2024, 7:40:02 AM	Info	Chrono values for group at row 51: 5
-Dec 3, 2024, 7:40:03 AM	Info	Formula state before copy at target row 11:
-Dec 3, 2024, 7:40:03 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U698:U699)","=SUM(V698:V699)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=2,5*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:40:03 AM	Info	Processing group at row 11, ref column 15
-Dec 3, 2024, 7:40:03 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:40:03 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:40:03 AM	Info	Initial font colors:
-Dec 3, 2024, 7:40:03 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:40:04 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:40:04 AM	Info	Chrono values for group at row 11: 5
-Dec 3, 2024, 7:40:04 AM	Info	Chrono values for group at row 71: 5
-Dec 3, 2024, 7:40:05 AM	Info	Formula state before copy at target row 11:
-Dec 3, 2024, 7:40:05 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U696:U697)","=SUM(V696:V697)","","","","=SUM(Z696:Z697)","=SUM(AA696:AA697)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=2,5*2","","","","","=2,5*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:40:05 AM	Info	Processing group at row 11, ref column 15
-Dec 3, 2024, 7:40:05 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:40:05 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:40:05 AM	Info	Initial font colors:
-Dec 3, 2024, 7:40:05 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:40:05 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:40:06 AM	Info	Chrono values for group at row 11: 5
-Dec 3, 2024, 7:40:06 AM	Info	Chrono values for group at row 87: 5
-Dec 3, 2024, 7:40:06 AM	Info	Formula state before copy at target row 11:
-Dec 3, 2024, 7:40:06 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U694:U695)","=SUM(V694:V695)","","","","=SUM(Z694:Z695)","=SUM(AA694:AA695)","","","","=SUM(AE694:AE695)","=SUM(AF694:AF695)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=2,5*2","","","","","=2,5*2","","","","","=2,5*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:40:06 AM	Info	Processing group at row 11, ref column 15
-Dec 3, 2024, 7:40:06 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:40:06 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:40:06 AM	Info	Initial font colors:
-Dec 3, 2024, 7:40:06 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:40:07 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:40:07 AM	Info	Chrono values for group at row 11: 5
-Dec 3, 2024, 7:40:07 AM	Info	Chrono values for group at row 107: 5
-Dec 3, 2024, 7:40:07 AM	Info	Formula state before copy at target row 11:
-Dec 3, 2024, 7:40:07 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U692:U693)","=SUM(V692:V693)","","","","=SUM(Z692:Z693)","=SUM(AA692:AA693)","","","","=SUM(AE692:AE693)","=SUM(AF692:AF693)","","","","=SUM(AJ692:AJ693)","=SUM(AK692:AK693)","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=2,5*2","","","","","=2,5*2","","","","","=2,5*2","","","","","=2,5*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:40:07 AM	Info	Processing group at row 11, ref column 15
-Dec 3, 2024, 7:40:07 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:40:09 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:40:09 AM	Info	Initial font colors:
-Dec 3, 2024, 7:40:09 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:40:09 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:40:09 AM	Info	Chrono values for group at row 11: 5
-Dec 3, 2024, 7:40:09 AM	Info	Chrono values for group at row 127: 5
-Dec 3, 2024, 7:40:11 AM	Info	Formula state before copy at target row 11:
-Dec 3, 2024, 7:40:11 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U690:U691)","=SUM(V690:V691)","","","","=SUM(Z690:Z691)","=SUM(AA690:AA691)","","","","=SUM(AE690:AE691)","=SUM(AF690:AF691)","","","","=SUM(AJ690:AJ691)","=SUM(AK690:AK691)","","","","=SUM(AO690:AO691)","=SUM(AP690:AP691)","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=2,5*2","","","","","=2,5*2","","","","","=2,5*2","","","","","=2,5*2","","","","","=2,5*2","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:40:11 AM	Info	Processing group at row 11, ref column 15
-Dec 3, 2024, 7:40:11 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:40:11 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:40:11 AM	Info	Initial font colors:
-Dec 3, 2024, 7:40:11 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:40:12 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:40:12 AM	Info	Chrono values for group at row 13: 3
-Dec 3, 2024, 7:40:12 AM	Info	Chrono values for group at row 33: 3
-Dec 3, 2024, 7:40:13 AM	Info	Formula state before copy at target row 13:
-Dec 3, 2024, 7:40:13 AM	Info	[["","","","","","","","","","","","","","","","=SUM(P687:P688)","=SUM(Q687:Q688)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:40:13 AM	Info	Processing group at row 13, ref column 15
-Dec 3, 2024, 7:40:13 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:40:14 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:40:14 AM	Info	Initial font colors:
-Dec 3, 2024, 7:40:14 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:40:14 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:40:14 AM	Info	Chrono values for group at row 13: 3
-Dec 3, 2024, 7:40:14 AM	Info	Chrono values for group at row 49: 3
-Dec 3, 2024, 7:40:15 AM	Info	Formula state before copy at target row 13:
-Dec 3, 2024, 7:40:15 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U686:U687)","=SUM(V686:V687)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:40:15 AM	Info	Processing group at row 13, ref column 15
-Dec 3, 2024, 7:40:15 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:40:15 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:40:15 AM	Info	Initial font colors:
-Dec 3, 2024, 7:40:15 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:40:16 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:40:16 AM	Info	Chrono values for group at row 13: 3
-Dec 3, 2024, 7:40:16 AM	Info	Chrono values for group at row 67: 3
-Dec 3, 2024, 7:40:16 AM	Info	Formula state before copy at target row 13:
-Dec 3, 2024, 7:40:16 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U684:U685)","=SUM(V684:V685)","","","","=SUM(Z684:Z685)","=SUM(AA684:AA685)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:40:16 AM	Info	Processing group at row 13, ref column 15
-Dec 3, 2024, 7:40:16 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:40:17 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:40:17 AM	Info	Initial font colors:
-Dec 3, 2024, 7:40:17 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:40:17 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:40:17 AM	Info	Chrono values for group at row 13: 3
-Dec 3, 2024, 7:40:17 AM	Info	Chrono values for group at row 81: 3
-Dec 3, 2024, 7:40:18 AM	Info	Formula state before copy at target row 13:
-Dec 3, 2024, 7:40:18 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U682:U683)","=SUM(V682:V683)","","","","=SUM(Z682:Z683)","=SUM(AA682:AA683)","","","","=SUM(AE682:AE683)","=SUM(AF682:AF683)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:40:18 AM	Info	Processing group at row 13, ref column 15
-Dec 3, 2024, 7:40:18 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:40:19 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:40:19 AM	Info	Initial font colors:
-Dec 3, 2024, 7:40:19 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:40:21 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:40:21 AM	Info	Chrono values for group at row 13: 3
-Dec 3, 2024, 7:40:21 AM	Info	Chrono values for group at row 99: 3
-Dec 3, 2024, 7:40:21 AM	Info	Formula state before copy at target row 13:
-Dec 3, 2024, 7:40:21 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U680:U681)","=SUM(V680:V681)","","","","=SUM(Z680:Z681)","=SUM(AA680:AA681)","","","","=SUM(AE680:AE681)","=SUM(AF680:AF681)","","","","=SUM(AJ680:AJ681)","=SUM(AK680:AK681)","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:40:21 AM	Info	Processing group at row 13, ref column 15
-Dec 3, 2024, 7:40:21 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:40:22 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:40:22 AM	Info	Initial font colors:
-Dec 3, 2024, 7:40:22 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:40:22 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:40:22 AM	Info	Chrono values for group at row 13: 3
-Dec 3, 2024, 7:40:22 AM	Info	Chrono values for group at row 117: 3
-Dec 3, 2024, 7:40:24 AM	Info	Formula state before copy at target row 13:
-Dec 3, 2024, 7:40:24 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U678:U679)","=SUM(V678:V679)","","","","=SUM(Z678:Z679)","=SUM(AA678:AA679)","","","","=SUM(AE678:AE679)","=SUM(AF678:AF679)","","","","=SUM(AJ678:AJ679)","=SUM(AK678:AK679)","","","","=SUM(AO678:AO679)","=SUM(AP678:AP679)","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:40:24 AM	Info	Processing group at row 13, ref column 15
-Dec 3, 2024, 7:40:24 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:40:24 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:40:24 AM	Info	Initial font colors:
-Dec 3, 2024, 7:40:24 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:40:25 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:40:25 AM	Info	Chrono values for group at row 15: 8
-Dec 3, 2024, 7:40:25 AM	Info	Chrono values for group at row 33: 8
-Dec 3, 2024, 7:40:25 AM	Info	Formula state before copy at target row 15:
-Dec 3, 2024, 7:40:25 AM	Info	[["","","","","","","","","","","","","","","","=SUM(P675:P676)","=SUM(Q675:Q676)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","=2*4","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:40:25 AM	Info	Processing group at row 15, ref column 15
-Dec 3, 2024, 7:40:25 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:40:26 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:40:26 AM	Info	Initial font colors:
-Dec 3, 2024, 7:40:26 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:40:26 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:40:26 AM	Info	Chrono values for group at row 15: 8
-Dec 3, 2024, 7:40:26 AM	Info	Chrono values for group at row 47: 8
-Dec 3, 2024, 7:40:27 AM	Info	Formula state before copy at target row 15:
-Dec 3, 2024, 7:40:27 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U674:U675)","=SUM(V674:V675)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=2*4","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:40:27 AM	Info	Processing group at row 15, ref column 15
-Dec 3, 2024, 7:40:27 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:40:27 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:40:27 AM	Info	Initial font colors:
-Dec 3, 2024, 7:40:27 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:40:27 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:40:28 AM	Info	Chrono values for group at row 15: 8
-Dec 3, 2024, 7:40:28 AM	Info	Chrono values for group at row 63: 8
-Dec 3, 2024, 7:40:28 AM	Info	Formula state before copy at target row 15:
-Dec 3, 2024, 7:40:28 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U672:U673)","=SUM(V672:V673)","","","","=SUM(Z672:Z673)","=SUM(AA672:AA673)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=2*4","","","","","=2*4","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:40:28 AM	Info	Processing group at row 15, ref column 15
-Dec 3, 2024, 7:40:28 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:40:28 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:40:28 AM	Info	Initial font colors:
-Dec 3, 2024, 7:40:28 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:40:29 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:40:29 AM	Info	Chrono values for group at row 15: 8
-Dec 3, 2024, 7:40:29 AM	Info	Chrono values for group at row 75: 8
-Dec 3, 2024, 7:40:29 AM	Info	Formula state before copy at target row 15:
-Dec 3, 2024, 7:40:29 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U670:U671)","=SUM(V670:V671)","","","","=SUM(Z670:Z671)","=SUM(AA670:AA671)","","","","=SUM(AE670:AE671)","=SUM(AF670:AF671)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=2*4","","","","","=2*4","","","","","=2*4","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:40:29 AM	Info	Processing group at row 15, ref column 15
-Dec 3, 2024, 7:40:29 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:40:30 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:40:30 AM	Info	Initial font colors:
-Dec 3, 2024, 7:40:30 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:40:31 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:40:31 AM	Info	Chrono values for group at row 15: 8
-Dec 3, 2024, 7:40:31 AM	Info	Chrono values for group at row 91: 8
-Dec 3, 2024, 7:40:31 AM	Info	Formula state before copy at target row 15:
-Dec 3, 2024, 7:40:31 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U668:U669)","=SUM(V668:V669)","","","","=SUM(Z668:Z669)","=SUM(AA668:AA669)","","","","=SUM(AE668:AE669)","=SUM(AF668:AF669)","","","","=SUM(AJ668:AJ669)","=SUM(AK668:AK669)","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=2*4","","","","","=2*4","","","","","=2*4","","","","","=2*4","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:40:31 AM	Info	Processing group at row 15, ref column 15
-Dec 3, 2024, 7:40:31 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:40:31 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:40:31 AM	Info	Initial font colors:
-Dec 3, 2024, 7:40:31 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:40:32 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:40:32 AM	Info	Chrono values for group at row 15: 8
-Dec 3, 2024, 7:40:32 AM	Info	Chrono values for group at row 107: 8
-Dec 3, 2024, 7:40:32 AM	Info	Formula state before copy at target row 15:
-Dec 3, 2024, 7:40:32 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U666:U667)","=SUM(V666:V667)","","","","=SUM(Z666:Z667)","=SUM(AA666:AA667)","","","","=SUM(AE666:AE667)","=SUM(AF666:AF667)","","","","=SUM(AJ666:AJ667)","=SUM(AK666:AK667)","","","","=SUM(AO666:AO667)","=SUM(AP666:AP667)","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=2*4","","","","","=2*4","","","","","=2*4","","","","","=2*4","","","","","=2*4","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:40:32 AM	Info	Processing group at row 15, ref column 15
-Dec 3, 2024, 7:40:32 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:40:33 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:40:33 AM	Info	Initial font colors:
-Dec 3, 2024, 7:40:33 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:40:33 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:40:33 AM	Info	Chrono values for group at row 17: 6
-Dec 3, 2024, 7:40:33 AM	Info	Chrono values for group at row 47: 6
-Dec 3, 2024, 7:40:34 AM	Info	Formula state before copy at target row 17:
-Dec 3, 2024, 7:40:34 AM	Info	[["","","","","","","","","","","","","","","","=SUM(P663:P664)","=SUM(Q663:Q664)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:40:34 AM	Info	Processing group at row 17, ref column 15
-Dec 3, 2024, 7:40:34 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:40:35 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:40:35 AM	Info	Initial font colors:
-Dec 3, 2024, 7:40:35 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:40:35 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:40:35 AM	Info	Chrono values for group at row 17: 6
-Dec 3, 2024, 7:40:35 AM	Info	Chrono values for group at row 73: 6
-Dec 3, 2024, 7:40:36 AM	Info	Formula state before copy at target row 17:
-Dec 3, 2024, 7:40:36 AM	Info	[["","","","","","","","","","","","","","","","","","","","","","","","","","=SUM(Z662:Z663)","=SUM(AA662:AA663)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:40:36 AM	Info	Processing group at row 17, ref column 15
-Dec 3, 2024, 7:40:36 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:40:36 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:40:36 AM	Info	Initial font colors:
-Dec 3, 2024, 7:40:36 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:40:36 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:40:36 AM	Info	Chrono values for group at row 17: 6
-Dec 3, 2024, 7:40:36 AM	Info	Chrono values for group at row 87: 6
-Dec 3, 2024, 7:40:37 AM	Info	Formula state before copy at target row 17:
-Dec 3, 2024, 7:40:37 AM	Info	[["","","","","","","","","","","","","","","","","","","","","","","","","","=SUM(Z660:Z661)","=SUM(AA660:AA661)","","","","","","","","","=SUM(AJ660:AJ661)","=SUM(AK660:AK661)","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:40:37 AM	Info	Processing group at row 17, ref column 15
-Dec 3, 2024, 7:40:37 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:40:37 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:40:37 AM	Info	Initial font colors:
-Dec 3, 2024, 7:40:37 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:40:39 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:40:39 AM	Info	Chrono values for group at row 19: 20
-Dec 3, 2024, 7:40:39 AM	Info	Chrono values for group at row 33: 20
-Dec 3, 2024, 7:40:40 AM	Info	Formula state before copy at target row 19:
-Dec 3, 2024, 7:40:40 AM	Info	[["","","","","","","","","","","","","","","","=SUM(P657:P658)","=SUM(Q657:Q658)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:40:40 AM	Info	Processing group at row 19, ref column 15
-Dec 3, 2024, 7:40:40 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:40:40 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:40:40 AM	Info	Initial font colors:
-Dec 3, 2024, 7:40:40 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:40:41 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:40:42 AM	Info	Chrono values for group at row 19: 20
-Dec 3, 2024, 7:40:42 AM	Info	Chrono values for group at row 45: 20
-Dec 3, 2024, 7:40:42 AM	Info	Formula state before copy at target row 19:
-Dec 3, 2024, 7:40:42 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U656:U657)","=SUM(V656:V657)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:40:42 AM	Info	Processing group at row 19, ref column 15
-Dec 3, 2024, 7:40:42 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:40:42 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:40:42 AM	Info	Initial font colors:
-Dec 3, 2024, 7:40:42 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:40:43 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:40:43 AM	Info	Chrono values for group at row 19: 20
-Dec 3, 2024, 7:40:43 AM	Info	Chrono values for group at row 57: 20
-Dec 3, 2024, 7:40:43 AM	Info	Formula state before copy at target row 19:
-Dec 3, 2024, 7:40:43 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U654:U655)","=SUM(V654:V655)","","","","=SUM(Z654:Z655)","=SUM(AA654:AA655)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:40:43 AM	Info	Processing group at row 19, ref column 15
-Dec 3, 2024, 7:40:43 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:40:44 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:40:44 AM	Info	Initial font colors:
-Dec 3, 2024, 7:40:44 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:40:45 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:40:45 AM	Info	Chrono values for group at row 19: 20
-Dec 3, 2024, 7:40:45 AM	Info	Chrono values for group at row 67: 20
-Dec 3, 2024, 7:40:45 AM	Info	Formula state before copy at target row 19:
-Dec 3, 2024, 7:40:45 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U652:U653)","=SUM(V652:V653)","","","","=SUM(Z652:Z653)","=SUM(AA652:AA653)","","","","=SUM(AE652:AE653)","=SUM(AF652:AF653)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:40:45 AM	Info	Processing group at row 19, ref column 15
-Dec 3, 2024, 7:40:45 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:40:45 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:40:45 AM	Info	Initial font colors:
-Dec 3, 2024, 7:40:45 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:40:46 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:40:46 AM	Info	Chrono values for group at row 19: 20
-Dec 3, 2024, 7:40:46 AM	Info	Chrono values for group at row 79: 20
-Dec 3, 2024, 7:40:46 AM	Info	Formula state before copy at target row 19:
-Dec 3, 2024, 7:40:46 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U650:U651)","=SUM(V650:V651)","","","","=SUM(Z650:Z651)","=SUM(AA650:AA651)","","","","=SUM(AE650:AE651)","=SUM(AF650:AF651)","","","","=SUM(AJ650:AJ651)","=SUM(AK650:AK651)","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:40:46 AM	Info	Processing group at row 19, ref column 15
-Dec 3, 2024, 7:40:46 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:40:47 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:40:47 AM	Info	Initial font colors:
-Dec 3, 2024, 7:40:47 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:40:47 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:40:48 AM	Info	Chrono values for group at row 19: 20
-Dec 3, 2024, 7:40:48 AM	Info	Chrono values for group at row 91: 20
-Dec 3, 2024, 7:40:48 AM	Info	Formula state before copy at target row 19:
-Dec 3, 2024, 7:40:48 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U648:U649)","=SUM(V648:V649)","","","","=SUM(Z648:Z649)","=SUM(AA648:AA649)","","","","=SUM(AE648:AE649)","=SUM(AF648:AF649)","","","","=SUM(AJ648:AJ649)","=SUM(AK648:AK649)","","","","=SUM(AO648:AO649)","=SUM(AP648:AP649)","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:40:48 AM	Info	Processing group at row 19, ref column 15
-Dec 3, 2024, 7:40:48 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:40:49 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:40:49 AM	Info	Initial font colors:
-Dec 3, 2024, 7:40:49 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:40:50 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:40:50 AM	Info	Chrono values for group at row 21: 20
-Dec 3, 2024, 7:40:50 AM	Info	Chrono values for group at row 33: 20
-Dec 3, 2024, 7:40:50 AM	Info	Formula state before copy at target row 21:
-Dec 3, 2024, 7:40:50 AM	Info	[["","","","","","","","","","","","","","","","=SUM(P645:P646)","=SUM(Q645:Q646)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","=10*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:40:50 AM	Info	Processing group at row 21, ref column 15
-Dec 3, 2024, 7:40:50 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:40:50 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:40:50 AM	Info	Initial font colors:
-Dec 3, 2024, 7:40:50 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:40:51 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:40:51 AM	Info	Chrono values for group at row 21: 20
-Dec 3, 2024, 7:40:51 AM	Info	Chrono values for group at row 43: 20
-Dec 3, 2024, 7:40:52 AM	Info	Formula state before copy at target row 21:
-Dec 3, 2024, 7:40:52 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U644:U645)","=SUM(V644:V645)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=10*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:40:52 AM	Info	Processing group at row 21, ref column 15
-Dec 3, 2024, 7:40:52 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:40:52 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:40:52 AM	Info	Initial font colors:
-Dec 3, 2024, 7:40:52 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:40:53 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:40:53 AM	Info	Chrono values for group at row 21: 20
-Dec 3, 2024, 7:40:53 AM	Info	Chrono values for group at row 53: 20
-Dec 3, 2024, 7:40:54 AM	Info	Formula state before copy at target row 21:
-Dec 3, 2024, 7:40:54 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U642:U643)","=SUM(V642:V643)","","","","=SUM(Z642:Z643)","=SUM(AA642:AA643)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=10*2","","","","","=10*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:40:54 AM	Info	Processing group at row 21, ref column 15
-Dec 3, 2024, 7:40:54 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:40:54 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:40:54 AM	Info	Initial font colors:
-Dec 3, 2024, 7:40:54 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:40:54 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:40:55 AM	Info	Chrono values for group at row 21: 20
-Dec 3, 2024, 7:40:55 AM	Info	Chrono values for group at row 61: 20
-Dec 3, 2024, 7:40:55 AM	Info	Formula state before copy at target row 21:
-Dec 3, 2024, 7:40:55 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U640:U641)","=SUM(V640:V641)","","","","=SUM(Z640:Z641)","=SUM(AA640:AA641)","","","","=SUM(AE640:AE641)","=SUM(AF640:AF641)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=10*2","","","","","=10*2","","","","","=10*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:40:55 AM	Info	Processing group at row 21, ref column 15
-Dec 3, 2024, 7:40:55 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:40:55 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:40:55 AM	Info	Initial font colors:
-Dec 3, 2024, 7:40:55 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:40:56 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:40:56 AM	Info	Chrono values for group at row 21: 20
-Dec 3, 2024, 7:40:56 AM	Info	Chrono values for group at row 71: 20
-Dec 3, 2024, 7:40:56 AM	Info	Formula state before copy at target row 21:
-Dec 3, 2024, 7:40:56 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U638:U639)","=SUM(V638:V639)","","","","=SUM(Z638:Z639)","=SUM(AA638:AA639)","","","","=SUM(AE638:AE639)","=SUM(AF638:AF639)","","","","=SUM(AJ638:AJ639)","=SUM(AK638:AK639)","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=10*2","","","","","=10*2","","","","","=10*2","","","","","=10*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:40:56 AM	Info	Processing group at row 21, ref column 15
-Dec 3, 2024, 7:40:56 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:40:57 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:40:57 AM	Info	Initial font colors:
-Dec 3, 2024, 7:40:57 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:40:57 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:40:57 AM	Info	Chrono values for group at row 21: 20
-Dec 3, 2024, 7:40:57 AM	Info	Chrono values for group at row 81: 20
-Dec 3, 2024, 7:40:57 AM	Info	Formula state before copy at target row 21:
-Dec 3, 2024, 7:40:57 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U636:U637)","=SUM(V636:V637)","","","","=SUM(Z636:Z637)","=SUM(AA636:AA637)","","","","=SUM(AE636:AE637)","=SUM(AF636:AF637)","","","","=SUM(AJ636:AJ637)","=SUM(AK636:AK637)","","","","=SUM(AO636:AO637)","=SUM(AP636:AP637)","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=10*2","","","","","=10*2","","","","","=10*2","","","","","=10*2","","","","","=10*2","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:40:57 AM	Info	Processing group at row 21, ref column 15
-Dec 3, 2024, 7:40:57 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:40:58 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:40:58 AM	Info	Initial font colors:
-Dec 3, 2024, 7:40:58 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:40:58 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:41:00 AM	Info	Chrono values for group at row 23: 41
-Dec 3, 2024, 7:41:00 AM	Info	Chrono values for group at row 33: 41
-Dec 3, 2024, 7:41:00 AM	Info	Formula state before copy at target row 23:
-Dec 3, 2024, 7:41:00 AM	Info	[["","","","","","","","","","","","","","","","=SUM(P633:P634)","=SUM(Q633:Q634)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:41:00 AM	Info	Processing group at row 23, ref column 15
-Dec 3, 2024, 7:41:00 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:41:00 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:41:00 AM	Info	Initial font colors:
-Dec 3, 2024, 7:41:00 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:41:01 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:41:01 AM	Info	Chrono values for group at row 23: 41
-Dec 3, 2024, 7:41:01 AM	Info	Chrono values for group at row 41: 41
-Dec 3, 2024, 7:41:02 AM	Info	Formula state before copy at target row 23:
-Dec 3, 2024, 7:41:02 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U632:U633)","=SUM(V632:V633)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:41:02 AM	Info	Processing group at row 23, ref column 15
-Dec 3, 2024, 7:41:02 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:41:03 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:41:03 AM	Info	Initial font colors:
-Dec 3, 2024, 7:41:03 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:41:03 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:41:03 AM	Info	Chrono values for group at row 23: 41
-Dec 3, 2024, 7:41:03 AM	Info	Chrono values for group at row 49: 41
-Dec 3, 2024, 7:41:04 AM	Info	Formula state before copy at target row 23:
-Dec 3, 2024, 7:41:04 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U630:U631)","=SUM(V630:V631)","","","","=SUM(Z630:Z631)","=SUM(AA630:AA631)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:41:04 AM	Info	Processing group at row 23, ref column 15
-Dec 3, 2024, 7:41:04 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:41:04 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:41:04 AM	Info	Initial font colors:
-Dec 3, 2024, 7:41:04 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:41:05 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:41:05 AM	Info	Chrono values for group at row 23: 41
-Dec 3, 2024, 7:41:05 AM	Info	Chrono values for group at row 55: 41
-Dec 3, 2024, 7:41:06 AM	Info	Formula state before copy at target row 23:
-Dec 3, 2024, 7:41:06 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U628:U629)","=SUM(V628:V629)","","","","=SUM(Z628:Z629)","=SUM(AA628:AA629)","","","","=SUM(AE628:AE629)","=SUM(AF628:AF629)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:41:06 AM	Info	Processing group at row 23, ref column 15
-Dec 3, 2024, 7:41:06 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:41:07 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:41:07 AM	Info	Initial font colors:
-Dec 3, 2024, 7:41:07 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:41:07 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:41:08 AM	Info	Chrono values for group at row 23: 41
-Dec 3, 2024, 7:41:08 AM	Info	Chrono values for group at row 63: 41
-Dec 3, 2024, 7:41:08 AM	Info	Formula state before copy at target row 23:
-Dec 3, 2024, 7:41:08 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U626:U627)","=SUM(V626:V627)","","","","=SUM(Z626:Z627)","=SUM(AA626:AA627)","","","","=SUM(AE626:AE627)","=SUM(AF626:AF627)","","","","=SUM(AJ626:AJ627)","=SUM(AK626:AK627)","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:41:08 AM	Info	Processing group at row 23, ref column 15
-Dec 3, 2024, 7:41:08 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:41:08 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:41:08 AM	Info	Initial font colors:
-Dec 3, 2024, 7:41:08 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:41:09 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:41:09 AM	Info	Chrono values for group at row 23: 41
-Dec 3, 2024, 7:41:09 AM	Info	Chrono values for group at row 71: 41
-Dec 3, 2024, 7:41:09 AM	Info	Formula state before copy at target row 23:
-Dec 3, 2024, 7:41:09 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U624:U625)","=SUM(V624:V625)","","","","=SUM(Z624:Z625)","=SUM(AA624:AA625)","","","","=SUM(AE624:AE625)","=SUM(AF624:AF625)","","","","=SUM(AJ624:AJ625)","=SUM(AK624:AK625)","","","","=SUM(AO624:AO625)","=SUM(AP624:AP625)","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:41:09 AM	Info	Processing group at row 23, ref column 15
-Dec 3, 2024, 7:41:09 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:41:09 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:41:09 AM	Info	Initial font colors:
-Dec 3, 2024, 7:41:09 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:41:10 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:41:10 AM	Info	Chrono values for group at row 25: 41
-Dec 3, 2024, 7:41:10 AM	Info	Chrono values for group at row 41: 41
-Dec 3, 2024, 7:41:11 AM	Info	Formula state before copy at target row 25:
-Dec 3, 2024, 7:41:11 AM	Info	[["","","","","","","","","","","","","","","","=SUM(P621:P622)","=SUM(Q621:Q622)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:41:11 AM	Info	Processing group at row 25, ref column 15
-Dec 3, 2024, 7:41:11 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:41:12 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:41:12 AM	Info	Initial font colors:
-Dec 3, 2024, 7:41:12 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:41:13 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:41:13 AM	Info	Chrono values for group at row 25: 41
-Dec 3, 2024, 7:41:13 AM	Info	Chrono values for group at row 53: 41
-Dec 3, 2024, 7:41:14 AM	Info	Formula state before copy at target row 25:
-Dec 3, 2024, 7:41:14 AM	Info	[["","","","","","","","","","","","","","","","","","","","","","","","","","=SUM(Z620:Z621)","=SUM(AA620:AA621)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:41:14 AM	Info	Processing group at row 25, ref column 15
-Dec 3, 2024, 7:41:14 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:41:15 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:41:15 AM	Info	Initial font colors:
-Dec 3, 2024, 7:41:15 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:41:15 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:41:15 AM	Info	Chrono values for group at row 25: 41
-Dec 3, 2024, 7:41:15 AM	Info	Chrono values for group at row 59: 41
-Dec 3, 2024, 7:41:15 AM	Info	Formula state before copy at target row 25:
-Dec 3, 2024, 7:41:15 AM	Info	[["","","","","","","","","","","","","","","","","","","","","","","","","","=SUM(Z618:Z619)","=SUM(AA618:AA619)","","","","","","","","","=SUM(AJ618:AJ619)","=SUM(AK618:AK619)","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:41:15 AM	Info	Processing group at row 25, ref column 15
-Dec 3, 2024, 7:41:15 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:41:17 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:41:17 AM	Info	Initial font colors:
-Dec 3, 2024, 7:41:17 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:41:17 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:41:18 AM	Info	Chrono values for group at row 27: 8
-Dec 3, 2024, 7:41:18 AM	Info	Chrono values for group at row 35: 8
-Dec 3, 2024, 7:41:18 AM	Info	Formula state before copy at target row 27:
-Dec 3, 2024, 7:41:18 AM	Info	[["","","","","","","","","","","","","","","","=SUM(P615:P616)","=SUM(Q615:Q616)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","=4*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:41:18 AM	Info	Processing group at row 27, ref column 15
-Dec 3, 2024, 7:41:18 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:41:19 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:41:19 AM	Info	Initial font colors:
-Dec 3, 2024, 7:41:19 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:41:19 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:41:19 AM	Info	Chrono values for group at row 27: 8
-Dec 3, 2024, 7:41:19 AM	Info	Chrono values for group at row 39: 8
-Dec 3, 2024, 7:41:20 AM	Info	Formula state before copy at target row 27:
-Dec 3, 2024, 7:41:20 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U614:U615)","=SUM(V614:V615)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=4*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:41:20 AM	Info	Processing group at row 27, ref column 15
-Dec 3, 2024, 7:41:20 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:41:20 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:41:20 AM	Info	Initial font colors:
-Dec 3, 2024, 7:41:20 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:41:20 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:41:21 AM	Info	Chrono values for group at row 27: 8
-Dec 3, 2024, 7:41:21 AM	Info	Chrono values for group at row 45: 8
-Dec 3, 2024, 7:41:21 AM	Info	Formula state before copy at target row 27:
-Dec 3, 2024, 7:41:21 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U612:U613)","=SUM(V612:V613)","","","","=SUM(Z612:Z613)","=SUM(AA612:AA613)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=4*2","","","","","=4*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:41:21 AM	Info	Processing group at row 27, ref column 15
-Dec 3, 2024, 7:41:21 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:41:22 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:41:22 AM	Info	Initial font colors:
-Dec 3, 2024, 7:41:22 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:41:24 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:41:24 AM	Info	Chrono values for group at row 27: 8
-Dec 3, 2024, 7:41:24 AM	Info	Chrono values for group at row 47: 8
-Dec 3, 2024, 7:41:24 AM	Info	Formula state before copy at target row 27:
-Dec 3, 2024, 7:41:24 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U610:U611)","=SUM(V610:V611)","","","","=SUM(Z610:Z611)","=SUM(AA610:AA611)","","","","=SUM(AE610:AE611)","=SUM(AF610:AF611)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=4*2","","","","","=4*2","","","","","=4*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:41:24 AM	Info	Processing group at row 27, ref column 15
-Dec 3, 2024, 7:41:24 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:41:25 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:41:25 AM	Info	Initial font colors:
-Dec 3, 2024, 7:41:25 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:41:25 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:41:25 AM	Info	Chrono values for group at row 27: 8
-Dec 3, 2024, 7:41:25 AM	Info	Chrono values for group at row 51: 8
-Dec 3, 2024, 7:41:26 AM	Info	Formula state before copy at target row 27:
-Dec 3, 2024, 7:41:26 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U608:U609)","=SUM(V608:V609)","","","","=SUM(Z608:Z609)","=SUM(AA608:AA609)","","","","=SUM(AE608:AE609)","=SUM(AF608:AF609)","","","","=SUM(AJ608:AJ609)","=SUM(AK608:AK609)","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=4*2","","","","","=4*2","","","","","=4*2","","","","","=4*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:41:26 AM	Info	Processing group at row 27, ref column 15
-Dec 3, 2024, 7:41:26 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:41:27 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:41:27 AM	Info	Initial font colors:
-Dec 3, 2024, 7:41:27 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:41:27 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:41:27 AM	Info	Chrono values for group at row 27: 8
-Dec 3, 2024, 7:41:27 AM	Info	Chrono values for group at row 57: 8
-Dec 3, 2024, 7:41:28 AM	Info	Formula state before copy at target row 27:
-Dec 3, 2024, 7:41:28 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U606:U607)","=SUM(V606:V607)","","","","=SUM(Z606:Z607)","=SUM(AA606:AA607)","","","","=SUM(AE606:AE607)","=SUM(AF606:AF607)","","","","=SUM(AJ606:AJ607)","=SUM(AK606:AK607)","","","","=SUM(AO606:AO607)","=SUM(AP606:AP607)","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=4*2","","","","","=4*2","","","","","=4*2","","","","","=4*2","","","","","=4*2","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:41:28 AM	Info	Processing group at row 27, ref column 15
-Dec 3, 2024, 7:41:28 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:41:28 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:41:28 AM	Info	Initial font colors:
-Dec 3, 2024, 7:41:28 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:41:28 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:41:28 AM	Info	Chrono values for group at row 29: 4
-Dec 3, 2024, 7:41:28 AM	Info	Chrono values for group at row 39: 4
-Dec 3, 2024, 7:41:29 AM	Info	Formula state before copy at target row 29:
-Dec 3, 2024, 7:41:29 AM	Info	[["","","","","","","","","","","","","","","","=SUM(P603:P604)","=SUM(Q603:Q604)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","=2*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:41:29 AM	Info	Processing group at row 29, ref column 15
-Dec 3, 2024, 7:41:29 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:41:29 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:41:29 AM	Info	Initial font colors:
-Dec 3, 2024, 7:41:29 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:41:30 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:41:30 AM	Info	Chrono values for group at row 29: 4
-Dec 3, 2024, 7:41:30 AM	Info	Chrono values for group at row 45: 4
-Dec 3, 2024, 7:41:30 AM	Info	Formula state before copy at target row 29:
-Dec 3, 2024, 7:41:30 AM	Info	[["","","","","","","","","","","","","","","","","","","","","","","","","","=SUM(Z602:Z603)","=SUM(AA602:AA603)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","=2*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:41:30 AM	Info	Processing group at row 29, ref column 15
-Dec 3, 2024, 7:41:30 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:41:33 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:41:33 AM	Info	Initial font colors:
-Dec 3, 2024, 7:41:33 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:41:33 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:41:33 AM	Info	Chrono values for group at row 29: 4
-Dec 3, 2024, 7:41:33 AM	Info	Chrono values for group at row 47: 4
-Dec 3, 2024, 7:41:34 AM	Info	Formula state before copy at target row 29:
-Dec 3, 2024, 7:41:34 AM	Info	[["","","","","","","","","","","","","","","","","","","","","","","","","","=SUM(Z600:Z601)","=SUM(AA600:AA601)","","","","","","","","","=SUM(AJ600:AJ601)","=SUM(AK600:AK601)","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","=2*2","","","","","","","","","","=2*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:41:34 AM	Info	Processing group at row 29, ref column 15
-Dec 3, 2024, 7:41:34 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:41:34 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:41:34 AM	Info	Initial font colors:
-Dec 3, 2024, 7:41:34 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:41:35 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:41:35 AM	Info	Chrono values for group at row 31: 30
-Dec 3, 2024, 7:41:35 AM	Info	Chrono values for group at row 39: 30
-Dec 3, 2024, 7:41:35 AM	Info	Formula state before copy at target row 31:
-Dec 3, 2024, 7:41:35 AM	Info	[["","","","","","","","","","","","","","","","=SUM(P597:P598)","=SUM(Q597:Q598)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:41:35 AM	Info	Processing group at row 31, ref column 15
-Dec 3, 2024, 7:41:35 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:41:36 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:41:36 AM	Info	Initial font colors:
-Dec 3, 2024, 7:41:36 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:41:36 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:41:36 AM	Info	Chrono values for group at row 31: 30
-Dec 3, 2024, 7:41:36 AM	Info	Chrono values for group at row 43: 30
-Dec 3, 2024, 7:41:36 AM	Info	Formula state before copy at target row 31:
-Dec 3, 2024, 7:41:36 AM	Info	[["","","","","","","","","","","","","","","","","","","","","","","","","","=SUM(Z596:Z597)","=SUM(AA596:AA597)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:41:36 AM	Info	Processing group at row 31, ref column 15
-Dec 3, 2024, 7:41:36 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:41:37 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:41:37 AM	Info	Initial font colors:
-Dec 3, 2024, 7:41:37 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:41:37 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:41:37 AM	Info	Chrono values for group at row 31: 30
-Dec 3, 2024, 7:41:37 AM	Info	Chrono values for group at row 43: 30
-Dec 3, 2024, 7:41:38 AM	Info	Formula state before copy at target row 31:
-Dec 3, 2024, 7:41:38 AM	Info	[["","","","","","","","","","","","","","","","","","","","","","","","","","=SUM(Z594:Z595)","=SUM(AA594:AA595)","","","","","","","","","=SUM(AJ594:AJ595)","=SUM(AK594:AK595)","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:41:38 AM	Info	Processing group at row 31, ref column 15
-Dec 3, 2024, 7:41:38 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:41:38 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:41:38 AM	Info	Initial font colors:
-Dec 3, 2024, 7:41:38 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:41:39 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:41:40 AM	Info	Chrono values for group at row 33: 24,4,16
-Dec 3, 2024, 7:41:40 AM	Info	Chrono values for group at row 39: 24,4,16
-Dec 3, 2024, 7:41:41 AM	Info	Formula state before copy at target row 33:
-Dec 3, 2024, 7:41:41 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U592:U593)","=SUM(V592:V593)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","=SUM(U592:U593)","=SUM(V592:V593)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:41:41 AM	Info	Processing group at row 33, ref column 20
-Dec 3, 2024, 7:41:41 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:41:41 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:41:41 AM	Info	Initial font colors:
-Dec 3, 2024, 7:41:41 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:41:43 AM	Info	Final backgrounds for original range:
-Dec 3, 2024, 7:41:43 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:41:43 AM	Info	Final backgrounds for target range:
-Dec 3, 2024, 7:41:43 AM	Info	[["#ffffff","#ffffff","#ffffff"],["#ffffff","#ffffff","#ffffff"],["#ffffff","#ffffff","#ffffff"],["#ffffff","#ffffff","#ffffff"]]
-Dec 3, 2024, 7:41:43 AM	Info	Chrono values for group at row 33: 24,4,16
-Dec 3, 2024, 7:41:43 AM	Info	Chrono values for group at row 35: 24,4,16
-Dec 3, 2024, 7:41:44 AM	Info	Formula state before copy at target row 33:
-Dec 3, 2024, 7:41:44 AM	Info	[["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","=SUM(AE588:AE589)","=SUM(AF588:AF589)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","=SUM(AE588:AE589)","=SUM(AF588:AF589)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","=2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:41:44 AM	Info	Processing group at row 33, ref column 20
-Dec 3, 2024, 7:41:44 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:41:44 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:41:44 AM	Info	Initial font colors:
-Dec 3, 2024, 7:41:44 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:41:44 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:41:44 AM	Info	Chrono values for group at row 33: 24,4,16
-Dec 3, 2024, 7:41:44 AM	Info	Chrono values for group at row 35: 24,4,16
-Dec 3, 2024, 7:41:45 AM	Info	Formula state before copy at target row 33:
-Dec 3, 2024, 7:41:45 AM	Info	[["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","=SUM(AE584:AE585)","=SUM(AF584:AF585)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","=SUM(AT584:AT585)","=SUM(AU584:AU585)","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:41:45 AM	Info	Processing group at row 33, ref column 20
-Dec 3, 2024, 7:41:45 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:41:45 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#ffffff","#ffffff","#ffffff"],["#ffffff","#ffffff","#ffffff"]]
-Dec 3, 2024, 7:41:45 AM	Info	Initial font colors:
-Dec 3, 2024, 7:41:45 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:41:46 AM	Info	Final backgrounds for original range:
-Dec 3, 2024, 7:41:46 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"]]
-Dec 3, 2024, 7:41:47 AM	Info	Final backgrounds for target range:
-Dec 3, 2024, 7:41:47 AM	Info	[["#ffffff","#ffffff","#ffffff"],["#ffffff","#ffffff","#ffffff"],["#ffffff","#ffffff","#ffffff"],["#ffffff","#ffffff","#ffffff"]]
-Dec 3, 2024, 7:41:47 AM	Info	Chrono values for group at row 33: 24,4,16
-Dec 3, 2024, 7:41:47 AM	Info	Chrono values for group at row 31: 24,4,16
-Dec 3, 2024, 7:41:47 AM	Info	Formula state before copy at target row 33:
-Dec 3, 2024, 7:41:47 AM	Info	[["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","=SUM(AE580:AE581)","=SUM(AF580:AF581)","","","","","","","","","","","","","","=SUM(AT580:AT581)","=SUM(AU580:AU581)","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","=SUM(P579:P580)","=SUM(Q579:Q580)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:41:47 AM	Info	Processing group at row 33, ref column 20
-Dec 3, 2024, 7:41:47 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:41:49 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#ffffff","#ffffff","#ffffff"],["#ffffff","#ffffff","#ffffff"]]
-Dec 3, 2024, 7:41:49 AM	Info	Initial font colors:
-Dec 3, 2024, 7:41:49 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:41:49 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:41:49 AM	Info	Chrono values for group at row 33: 24,4,16
-Dec 3, 2024, 7:41:49 AM	Info	Chrono values for group at row 27: 24,4,16
-Dec 3, 2024, 7:41:50 AM	Info	Formula state before copy at target row 33:
-Dec 3, 2024, 7:41:50 AM	Info	[["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","=SUM(AE576:AE577)","=SUM(AF576:AF577)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","=SUM(AJ576:AJ577)","=SUM(AK576:AK577)","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
-Dec 3, 2024, 7:41:50 AM	Info	Processing group at row 33, ref column 20
-Dec 3, 2024, 7:41:50 AM	Info	Initial backgrounds:
-Dec 3, 2024, 7:41:50 AM	Info	[["#ffffff","#ffffff","#ffffff"],["#ffffff","#ffffff","#ffffff"],["#ffffff","#ffffff","#ffffff"],["#ffffff","#ffffff","#ffffff"]]
-Dec 3, 2024, 7:41:50 AM	Info	Initial font colors:
-Dec 3, 2024, 7:41:50 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
-Dec 3, 2024, 7:41:51 AM	Info	Skipping copy - target range contains existing values
-Dec 3, 2024, 7:41:51 AM	Info	Chrono values for group at row 33: 5
-Dec 3, 2024, 7:41:51 AM	Info	Chrono values for group at row 35: 5
-Dec 3, 2024, 7:41:51 AM	Info	Execution cancelled.
+Dec 3, 2024, 7:50:05 AM	Info	--- Starting Sheet Optimization ---
+Dec 3, 2024, 7:50:07 AM	Info	Row 6: Type=island
+Dec 3, 2024, 7:50:07 AM	Info	Row 7: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0088401A at column 15
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 7, Value=GL Pu Tube, RefValue: C0088401A
+Dec 3, 2024, 7:50:07 AM	Info	Row 8: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 9: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 10: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 11: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119501A at column 15
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 11, Value=Cut attach.Buckle FAST Sternal (x2), RefValue: C0119501A
+Dec 3, 2024, 7:50:07 AM	Info	Row 12: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 13: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0086001A at column 15
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 13, Value=Cut bottom seat webbing C73, RefValue: C0086001A
+Dec 3, 2024, 7:50:07 AM	Info	Row 14: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 15: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0086101A at column 15
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 15, Value=Cut passing elastic 20mm C73  (x4), RefValue: C0086101A
+Dec 3, 2024, 7:50:07 AM	Info	Row 16: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 17: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119600A at column 15
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 17, Value=Cut webb Rear Attach, RefValue: C0119600A
+Dec 3, 2024, 7:50:07 AM	Info	Row 18: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 19: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119001A at column 15
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 19, Value=Cut web shoulder C73 , RefValue: C0119001A
+Dec 3, 2024, 7:50:07 AM	Info	Row 20: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 21: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119200A at column 15
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 21, Value=Cut webb adjust shoulder s0/1 (x2), RefValue: C0119200A
+Dec 3, 2024, 7:50:07 AM	Info	Row 22: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 23: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119301A at column 15
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 23, Value=Cut Webb Leg LEFT s1, RefValue: C0119301A
+Dec 3, 2024, 7:50:07 AM	Info	Row 24: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 25: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119404A at column 15
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 25, Value=Cut Webb Leg RIGHT UL s1, RefValue: C0119404A
+Dec 3, 2024, 7:50:07 AM	Info	Row 26: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 27: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0089302A at column 15
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 27, Value=Cut renforce.webb magic ring (x2), RefValue: C0089302A
+Dec 3, 2024, 7:50:07 AM	Info	Row 28: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 29: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0118900A at column 15
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 29, Value=Cut Webbing PL (x2), RefValue: C0118900A
+Dec 3, 2024, 7:50:07 AM	Info	Row 30: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 31: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119103A at column 15
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 31, Value=Cut webbing back support 44mm INT s1, RefValue: C0119103A
+Dec 3, 2024, 7:50:07 AM	Info	Row 32: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 33: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0088401A at column 20
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 33, Value=GL Pu Tube, RefValue: C0088401A
+Dec 3, 2024, 7:50:07 AM	Info	Row 34: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 35: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 36: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 37: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119500A at column 20
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 37, Value=Cut attach.Buckle FAST Sternal (x2), RefValue: C0119500A
+Dec 3, 2024, 7:50:07 AM	Info	Row 38: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 39: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0086001A at column 20
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 39, Value=Cut bottom seat webbing C73, RefValue: C0086001A
+Dec 3, 2024, 7:50:07 AM	Info	Row 40: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 41: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0086101A at column 20
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 41, Value=Cut passing elastic 20mm C73  (x4), RefValue: C0086101A
+Dec 3, 2024, 7:50:07 AM	Info	Row 42: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 43: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119000A at column 20
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 43, Value=Cut web shoulder C73 , RefValue: C0119000A
+Dec 3, 2024, 7:50:07 AM	Info	Row 44: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 45: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119200A at column 20
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 45, Value=Cut webb adjust shoulder s0/1 (x2), RefValue: C0119200A
+Dec 3, 2024, 7:50:07 AM	Info	Row 46: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 47: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119301A at column 20
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 47, Value=Cut Webb Leg LEFT s1, RefValue: C0119301A
+Dec 3, 2024, 7:50:07 AM	Info	Row 48: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 49: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119401A at column 20
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 49, Value=Cut Webb Leg RIGHT CE s1, RefValue: C0119401A
+Dec 3, 2024, 7:50:07 AM	Info	Row 50: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 51: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0089302A at column 20
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 51, Value=Cut renforce.webb magic ring (x2), RefValue: C0089302A
+Dec 3, 2024, 7:50:07 AM	Info	Row 52: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 53: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0118900A at column 20
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 53, Value=Cut Webbing PL, RefValue: C0118900A
+Dec 3, 2024, 7:50:07 AM	Info	Row 54: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 55: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119100A at column 20
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 55, Value=Cut webbing back support 44mm CE s1, RefValue: C0119100A
+Dec 3, 2024, 7:50:07 AM	Info	Row 56: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 57: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0088401A at column 25
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 57, Value=GL Pu Tube, RefValue: C0088401A
+Dec 3, 2024, 7:50:07 AM	Info	Row 58: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 59: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 60: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 61: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119501A at column 25
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 61, Value=Cut attach.Buckle FAST Sternal (x2), RefValue: C0119501A
+Dec 3, 2024, 7:50:07 AM	Info	Row 62: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 63: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0086001A at column 25
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 63, Value=Cut bottom seat webbing C73, RefValue: C0086001A
+Dec 3, 2024, 7:50:07 AM	Info	Row 64: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 65: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0086101A at column 25
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 65, Value=Cut passing elastic 20mm C73  (x4), RefValue: C0086101A
+Dec 3, 2024, 7:50:07 AM	Info	Row 66: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 67: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119600A at column 25
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 67, Value=Cut webb Rear Attach, RefValue: C0119600A
+Dec 3, 2024, 7:50:07 AM	Info	Row 68: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 69: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119000A at column 25
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 69, Value=Cut web shoulder C73 , RefValue: C0119000A
+Dec 3, 2024, 7:50:07 AM	Info	Row 70: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 71: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119200A at column 25
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 71, Value=Cut webb adjust shoulder s0/1 (x2), RefValue: C0119200A
+Dec 3, 2024, 7:50:07 AM	Info	Row 72: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 73: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119301A at column 25
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 73, Value=Cut Webb Leg LEFT s1, RefValue: C0119301A
+Dec 3, 2024, 7:50:07 AM	Info	Row 74: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 75: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119404A at column 25
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 75, Value=Cut Webb Leg RIGHT UL s1, RefValue: C0119404A
+Dec 3, 2024, 7:50:07 AM	Info	Row 76: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 77: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0089302A at column 25
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 77, Value=Cut renforce.webb magic ring (x2), RefValue: C0089302A
+Dec 3, 2024, 7:50:07 AM	Info	Row 78: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 79: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0118900A at column 25
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 79, Value=Cut Webbing PL (x2), RefValue: C0118900A
+Dec 3, 2024, 7:50:07 AM	Info	Row 80: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 81: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119103A at column 25
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 81, Value=Cut webbing back support 44mm INT s1, RefValue: C0119103A
+Dec 3, 2024, 7:50:07 AM	Info	Row 82: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 83: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0088401A at column 30
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 83, Value=GL Pu Tube, RefValue: C0088401A
+Dec 3, 2024, 7:50:07 AM	Info	Row 84: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 85: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 86: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 87: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119500A at column 30
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 87, Value=Cut attach.Buckle FAST Sternal (x2), RefValue: C0119500A
+Dec 3, 2024, 7:50:07 AM	Info	Row 88: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 89: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0086001A at column 30
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 89, Value=Cut bottom seat webbing C73, RefValue: C0086001A
+Dec 3, 2024, 7:50:07 AM	Info	Row 90: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 91: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0086101A at column 30
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 91, Value=Cut passing elastic 20mm C73  (x4), RefValue: C0086101A
+Dec 3, 2024, 7:50:07 AM	Info	Row 92: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 93: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119001A at column 30
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 93, Value=Cut web shoulder C73 , RefValue: C0119001A
+Dec 3, 2024, 7:50:07 AM	Info	Row 94: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 95: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119200A at column 30
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 95, Value=Cut webb adjust shoulder s0/1 (x2), RefValue: C0119200A
+Dec 3, 2024, 7:50:07 AM	Info	Row 96: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 97: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119301A at column 30
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 97, Value=Cut Webb Leg LEFT s1, RefValue: C0119301A
+Dec 3, 2024, 7:50:07 AM	Info	Row 98: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 99: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119401A at column 30
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 99, Value=Cut Webb Leg RIGHT CE s1, RefValue: C0119401A
+Dec 3, 2024, 7:50:07 AM	Info	Row 100: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 101: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0089302A at column 30
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 101, Value=Cut renforce.webb magic ring (x2), RefValue: C0089302A
+Dec 3, 2024, 7:50:07 AM	Info	Row 102: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 103: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0118900A at column 30
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 103, Value=Cut Webbing PL, RefValue: C0118900A
+Dec 3, 2024, 7:50:07 AM	Info	Row 104: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 105: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0088401A at column 35
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 105, Value=GL Pu Tube, RefValue: C0088401A
+Dec 3, 2024, 7:50:07 AM	Info	Row 106: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 107: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 108: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 109: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119501A at column 35
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 109, Value=Cut attach.Buckle FAST Sternal (x2), RefValue: C0119501A
+Dec 3, 2024, 7:50:07 AM	Info	Row 110: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 111: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0086001A at column 35
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 111, Value=Cut bottom seat webbing C73, RefValue: C0086001A
+Dec 3, 2024, 7:50:07 AM	Info	Row 112: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 113: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0086101A at column 35
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 113, Value=Cut passing elastic 20mm C73  (x4), RefValue: C0086101A
+Dec 3, 2024, 7:50:07 AM	Info	Row 114: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 115: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119600A at column 35
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 115, Value=Cut webb Rear Attach, RefValue: C0119600A
+Dec 3, 2024, 7:50:07 AM	Info	Row 116: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 117: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119001A at column 35
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 117, Value=Cut web shoulder C73 , RefValue: C0119001A
+Dec 3, 2024, 7:50:07 AM	Info	Row 118: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 119: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119200A at column 35
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 119, Value=Cut webb adjust shoulder s0/1 (x2), RefValue: C0119200A
+Dec 3, 2024, 7:50:07 AM	Info	Row 120: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 121: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119301A at column 35
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 121, Value=Cut Webb Leg LEFT s1, RefValue: C0119301A
+Dec 3, 2024, 7:50:07 AM	Info	Row 122: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 123: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119404A at column 35
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 123, Value=Cut Webb Leg RIGHT UL s1, RefValue: C0119404A
+Dec 3, 2024, 7:50:07 AM	Info	Row 124: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 125: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0089302A at column 35
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 125, Value=Cut renforce.webb magic ring (x2), RefValue: C0089302A
+Dec 3, 2024, 7:50:07 AM	Info	Row 126: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 127: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0118900A at column 35
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 127, Value=Cut Webbing PL (x2), RefValue: C0118900A
+Dec 3, 2024, 7:50:07 AM	Info	Row 128: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 129: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119103A at column 35
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 129, Value=Cut webbing back support 44mm INT s1, RefValue: C0119103A
+Dec 3, 2024, 7:50:07 AM	Info	Row 130: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 131: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0088401A at column 40
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 131, Value=GL Pu Tube, RefValue: C0088401A
+Dec 3, 2024, 7:50:07 AM	Info	Row 132: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 133: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 134: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 135: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119501A at column 40
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 135, Value=Cut attach.Buckle FAST Sternal (x2), RefValue: C0119501A
+Dec 3, 2024, 7:50:07 AM	Info	Row 136: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 137: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0086001A at column 40
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 137, Value=Cut bottom seat webbing C73, RefValue: C0086001A
+Dec 3, 2024, 7:50:07 AM	Info	Row 138: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 139: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0086101A at column 40
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 139, Value=Cut passing elastic 20mm C73  (x4), RefValue: C0086101A
+Dec 3, 2024, 7:50:07 AM	Info	Row 140: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 141: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119600A at column 40
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 141, Value=Cut webb Rear Attach, RefValue: C0119600A
+Dec 3, 2024, 7:50:07 AM	Info	Row 142: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 143: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119001A at column 40
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 143, Value=Cut web shoulder C73 , RefValue: C0119001A
+Dec 3, 2024, 7:50:07 AM	Info	Row 144: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 145: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119200A at column 40
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 145, Value=Cut webb adjust shoulder s0/1 (x2), RefValue: C0119200A
+Dec 3, 2024, 7:50:07 AM	Info	Row 146: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 147: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119301A at column 40
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 147, Value=Cut Webb Leg LEFT s1, RefValue: C0119301A
+Dec 3, 2024, 7:50:07 AM	Info	Row 148: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 149: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119404A at column 40
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 149, Value=Cut Webb Leg RIGHT UL s1, RefValue: C0119404A
+Dec 3, 2024, 7:50:07 AM	Info	Row 150: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 151: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0089302A at column 40
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 151, Value=Cut renforce.webb magic ring (x2), RefValue: C0089302A
+Dec 3, 2024, 7:50:07 AM	Info	Row 152: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 153: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0118900A at column 40
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 153, Value=Cut Webbing PL (x2), RefValue: C0118900A
+Dec 3, 2024, 7:50:07 AM	Info	Row 154: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 155: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119103A at column 40
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 155, Value=Cut webbing back support 44mm INT s1, RefValue: C0119103A
+Dec 3, 2024, 7:50:07 AM	Info	Row 156: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 157: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0088401A at column 45
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 157, Value=GL Pu Tube, RefValue: C0088401A
+Dec 3, 2024, 7:50:07 AM	Info	Row 158: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 159: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 160: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 161: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119500A at column 45
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 161, Value=Cut attach.Buckle FAST Sternal (x2), RefValue: C0119500A
+Dec 3, 2024, 7:50:07 AM	Info	Row 162: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 163: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0086001A at column 45
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 163, Value=Cut bottom seat webbing C73, RefValue: C0086001A
+Dec 3, 2024, 7:50:07 AM	Info	Row 164: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 165: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0086101A at column 45
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 165, Value=Cut passing elastic 20mm C73  (x4), RefValue: C0086101A
+Dec 3, 2024, 7:50:07 AM	Info	Row 166: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 167: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119001A at column 45
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 167, Value=Cut web shoulder C73 , RefValue: C0119001A
+Dec 3, 2024, 7:50:07 AM	Info	Row 168: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 169: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119200A at column 45
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 169, Value=Cut webb adjust shoulder s0/1 (x2), RefValue: C0119200A
+Dec 3, 2024, 7:50:07 AM	Info	Row 170: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 171: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119301A at column 45
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 171, Value=Cut Webb Leg LEFT s1, RefValue: C0119301A
+Dec 3, 2024, 7:50:07 AM	Info	Row 172: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 173: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0119401A at column 45
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 173, Value=Cut Webb Leg RIGHT EUR s1, RefValue: C0119401A
+Dec 3, 2024, 7:50:07 AM	Info	Row 174: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 175: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0089302A at column 45
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 175, Value=Cut renforce.webb magic ring (x2), RefValue: C0089302A
+Dec 3, 2024, 7:50:07 AM	Info	Row 176: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 177: Type=subassy
+Dec 3, 2024, 7:50:07 AM	Info	Found ref value C0118900A at column 45
+Dec 3, 2024, 7:50:07 AM	Info	Creating SubAssy group at row 177, Value=Cut Webbing PL, RefValue: C0118900A
+Dec 3, 2024, 7:50:07 AM	Info	Row 178: Type=process
+Dec 3, 2024, 7:50:07 AM	Info	Row 179: Type=island
+Dec 3, 2024, 7:50:07 AM	Info	Processing Island starting at row 6 with 79 groups
+Dec 3, 2024, 7:50:07 AM	Info	Island boundaries: 6 to 178
+Dec 3, 2024, 7:50:07 AM	Info	Chrono values for group at row 7: 24,4,16
+Dec 3, 2024, 7:50:07 AM	Info	Chrono values for group at row 33: 24,4,16
+Dec 3, 2024, 7:50:07 AM	Info	Merging groups at rows 7 and 33
+Dec 3, 2024, 7:50:07 AM	Info	Formula state before copy at target row 7:
+Dec 3, 2024, 7:50:07 AM	Info	[["","","","","","","","","","","","","","","","=SUM(P723:P724)","=SUM(Q723:Q724)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","=12*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","=2*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","=8*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
+Dec 3, 2024, 7:50:07 AM	Info	Processing group at row 7, ref column 15
+Dec 3, 2024, 7:50:07 AM	Info	Initial backgrounds:
+Dec 3, 2024, 7:50:08 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"]]
+Dec 3, 2024, 7:50:08 AM	Info	Initial font colors:
+Dec 3, 2024, 7:50:08 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
+Dec 3, 2024, 7:50:08 AM	Info	Skipping copy - target range contains existing values
+Dec 3, 2024, 7:50:08 AM	Info	Chrono values for group at row 7: 24,4,16
+Dec 3, 2024, 7:50:08 AM	Info	Chrono values for group at row 53: 24,4,16
+Dec 3, 2024, 7:50:08 AM	Info	Merging groups at rows 7 and 53
+Dec 3, 2024, 7:50:09 AM	Info	Formula state before copy at target row 7:
+Dec 3, 2024, 7:50:09 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U720:U721)","=SUM(V720:V721)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=12*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=2*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=8*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
+Dec 3, 2024, 7:50:09 AM	Info	Processing group at row 7, ref column 15
+Dec 3, 2024, 7:50:09 AM	Info	Initial backgrounds:
+Dec 3, 2024, 7:50:09 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"]]
+Dec 3, 2024, 7:50:09 AM	Info	Initial font colors:
+Dec 3, 2024, 7:50:09 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
+Dec 3, 2024, 7:50:09 AM	Info	Skipping copy - target range contains existing values
+Dec 3, 2024, 7:50:09 AM	Info	Chrono values for group at row 7: 24,4,16
+Dec 3, 2024, 7:50:09 AM	Info	Chrono values for group at row 75: 24,4,16
+Dec 3, 2024, 7:50:09 AM	Info	Merging groups at rows 7 and 75
+Dec 3, 2024, 7:50:10 AM	Info	Formula state before copy at target row 7:
+Dec 3, 2024, 7:50:10 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U716:U717)","=SUM(V716:V717)","","","","=SUM(Z716:Z717)","=SUM(AA716:AA717)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=12*2","","","","","=12*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=2*2","","","","","=2*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=8*2","","","","","=8*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
+Dec 3, 2024, 7:50:10 AM	Info	Processing group at row 7, ref column 15
+Dec 3, 2024, 7:50:10 AM	Info	Initial backgrounds:
+Dec 3, 2024, 7:50:10 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"]]
+Dec 3, 2024, 7:50:10 AM	Info	Initial font colors:
+Dec 3, 2024, 7:50:10 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
+Dec 3, 2024, 7:50:11 AM	Info	Skipping copy - target range contains existing values
+Dec 3, 2024, 7:50:11 AM	Info	Chrono values for group at row 7: 24,4,16
+Dec 3, 2024, 7:50:11 AM	Info	Chrono values for group at row 93: 24,4,16
+Dec 3, 2024, 7:50:11 AM	Info	Merging groups at rows 7 and 93
+Dec 3, 2024, 7:50:11 AM	Info	Formula state before copy at target row 7:
+Dec 3, 2024, 7:50:11 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U712:U713)","=SUM(V712:V713)","","","","=SUM(Z712:Z713)","=SUM(AA712:AA713)","","","","=SUM(AE712:AE713)","=SUM(AF712:AF713)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=12*2","","","","","=12*2","","","","","=12*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=2*2","","","","","=2*2","","","","","=2*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=8*2","","","","","=8*2","","","","","=8*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
+Dec 3, 2024, 7:50:11 AM	Info	Processing group at row 7, ref column 15
+Dec 3, 2024, 7:50:11 AM	Info	Initial backgrounds:
+Dec 3, 2024, 7:50:11 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"]]
+Dec 3, 2024, 7:50:11 AM	Info	Initial font colors:
+Dec 3, 2024, 7:50:11 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
+Dec 3, 2024, 7:50:12 AM	Info	Skipping copy - target range contains existing values
+Dec 3, 2024, 7:50:12 AM	Info	Chrono values for group at row 7: 24,4,16
+Dec 3, 2024, 7:50:12 AM	Info	Chrono values for group at row 115: 24,4,16
+Dec 3, 2024, 7:50:12 AM	Info	Merging groups at rows 7 and 115
+Dec 3, 2024, 7:50:13 AM	Info	Formula state before copy at target row 7:
+Dec 3, 2024, 7:50:13 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U708:U709)","=SUM(V708:V709)","","","","=SUM(Z708:Z709)","=SUM(AA708:AA709)","","","","=SUM(AE708:AE709)","=SUM(AF708:AF709)","","","","=SUM(AJ708:AJ709)","=SUM(AK708:AK709)","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=12*2","","","","","=12*2","","","","","=12*2","","","","","=12*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=2*2","","","","","=2*2","","","","","=2*2","","","","","=2*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=8*2","","","","","=8*2","","","","","=8*2","","","","","=8*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
+Dec 3, 2024, 7:50:13 AM	Info	Processing group at row 7, ref column 15
+Dec 3, 2024, 7:50:13 AM	Info	Initial backgrounds:
+Dec 3, 2024, 7:50:14 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"]]
+Dec 3, 2024, 7:50:14 AM	Info	Initial font colors:
+Dec 3, 2024, 7:50:14 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
+Dec 3, 2024, 7:50:14 AM	Info	Skipping copy - target range contains existing values
+Dec 3, 2024, 7:50:14 AM	Info	Chrono values for group at row 7: 24,4,16
+Dec 3, 2024, 7:50:14 AM	Info	Chrono values for group at row 137: 24,4,16
+Dec 3, 2024, 7:50:14 AM	Info	Merging groups at rows 7 and 137
+Dec 3, 2024, 7:50:15 AM	Info	Formula state before copy at target row 7:
+Dec 3, 2024, 7:50:15 AM	Info	[["","","","","","","","","","","","","","","","","","","","","=SUM(U704:U705)","=SUM(V704:V705)","","","","=SUM(Z704:Z705)","=SUM(AA704:AA705)","","","","=SUM(AE704:AE705)","=SUM(AF704:AF705)","","","","=SUM(AJ704:AJ705)","=SUM(AK704:AK705)","","","","=SUM(AO704:AO705)","=SUM(AP704:AP705)","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=12*2","","","","","=12*2","","","","","=12*2","","","","","=12*2","","","","","=12*2","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=2*2","","","","","=2*2","","","","","=2*2","","","","","=2*2","","","","","=2*2","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","=8*2","","","","","=8*2","","","","","=8*2","","","","","=8*2","","","","","=8*2","","","","","","","","","","","","","","","","","","","","","","","",""]]
+Dec 3, 2024, 7:50:15 AM	Info	Processing group at row 7, ref column 15
+Dec 3, 2024, 7:50:15 AM	Info	Initial backgrounds:
+Dec 3, 2024, 7:50:15 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"]]
+Dec 3, 2024, 7:50:15 AM	Info	Initial font colors:
+Dec 3, 2024, 7:50:15 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
+Dec 3, 2024, 7:50:15 AM	Info	Skipping copy - target range contains existing values
+Dec 3, 2024, 7:50:16 AM	Info	Chrono values for group at row 11: 5
+Dec 3, 2024, 7:50:16 AM	Info	Chrono values for group at row 33: 5
+Dec 3, 2024, 7:50:16 AM	Info	Merging groups at rows 11 and 33
+Dec 3, 2024, 7:50:17 AM	Info	Formula state before copy at target row 11:
+Dec 3, 2024, 7:50:17 AM	Info	[["","","","","","","","","","","","","","","","=SUM(P699:P700)","=SUM(Q699:Q700)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","=2,5*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
+Dec 3, 2024, 7:50:17 AM	Info	Processing group at row 11, ref column 15
+Dec 3, 2024, 7:50:17 AM	Info	Initial backgrounds:
+Dec 3, 2024, 7:50:18 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 3, 2024, 7:50:18 AM	Info	Initial font colors:
+Dec 3, 2024, 7:50:18 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
+Dec 3, 2024, 7:50:18 AM	Info	Skipping copy - target range contains existing values
+Dec 3, 2024, 7:50:19 AM	Info	Chrono values for group at row 11: 5
+Dec 3, 2024, 7:50:19 AM	Info	Chrono values for group at row 51: 5
+Dec 3, 2024, 7:50:19 AM	Info	Merging groups at rows 11 and 51
+Dec 3, 2024, 7:50:19 AM	Info	Formula state before copy at target row 11:
+Dec 3, 2024, 7:50:19 AM	Info	[["","","","","","","","","","","","","","","","=SUM(P697:P698)","=SUM(Q697:Q698)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
+Dec 3, 2024, 7:50:19 AM	Info	Processing group at row 11, ref column 15
+Dec 3, 2024, 7:50:19 AM	Info	Initial backgrounds:
+Dec 3, 2024, 7:50:20 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 3, 2024, 7:50:20 AM	Info	Initial font colors:
+Dec 3, 2024, 7:50:20 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
+Dec 3, 2024, 7:50:20 AM	Info	Skipping copy - target range contains existing values
+Dec 3, 2024, 7:50:20 AM	Info	Chrono values for group at row 11: 5
+Dec 3, 2024, 7:50:20 AM	Info	Chrono values for group at row 71: 5
+Dec 3, 2024, 7:50:20 AM	Info	Merging groups at rows 11 and 71
+Dec 3, 2024, 7:50:21 AM	Info	Formula state before copy at target row 11:
+Dec 3, 2024, 7:50:21 AM	Info	[["","","","","","","","","","","","","","","","","","","","","","","","","","=SUM(Z696:Z697)","=SUM(AA696:AA697)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","=2,5*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
+Dec 3, 2024, 7:50:21 AM	Info	Processing group at row 11, ref column 15
+Dec 3, 2024, 7:50:21 AM	Info	Initial backgrounds:
+Dec 3, 2024, 7:50:22 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 3, 2024, 7:50:22 AM	Info	Initial font colors:
+Dec 3, 2024, 7:50:22 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
+Dec 3, 2024, 7:50:22 AM	Info	Skipping copy - target range contains existing values
+Dec 3, 2024, 7:50:22 AM	Info	Chrono values for group at row 11: 5
+Dec 3, 2024, 7:50:22 AM	Info	Chrono values for group at row 87: 5
+Dec 3, 2024, 7:50:22 AM	Info	Merging groups at rows 11 and 87
+Dec 3, 2024, 7:50:23 AM	Info	Formula state before copy at target row 11:
+Dec 3, 2024, 7:50:23 AM	Info	[["","","","","","","","","","","","","","","","","","","","","","","","","","=SUM(Z694:Z695)","=SUM(AA694:AA695)","","","","=SUM(AE694:AE695)","=SUM(AF694:AF695)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","=2,5*2","","","","","=2,5*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
+Dec 3, 2024, 7:50:23 AM	Info	Processing group at row 11, ref column 15
+Dec 3, 2024, 7:50:23 AM	Info	Initial backgrounds:
+Dec 3, 2024, 7:50:23 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 3, 2024, 7:50:23 AM	Info	Initial font colors:
+Dec 3, 2024, 7:50:23 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
+Dec 3, 2024, 7:50:24 AM	Info	Skipping copy - target range contains existing values
+Dec 3, 2024, 7:50:24 AM	Info	Chrono values for group at row 11: 5
+Dec 3, 2024, 7:50:24 AM	Info	Chrono values for group at row 107: 5
+Dec 3, 2024, 7:50:24 AM	Info	Merging groups at rows 11 and 107
+Dec 3, 2024, 7:50:25 AM	Info	Formula state before copy at target row 11:
+Dec 3, 2024, 7:50:25 AM	Info	[["","","","","","","","","","","","","","","","","","","","","","","","","","=SUM(Z692:Z693)","=SUM(AA692:AA693)","","","","=SUM(AE692:AE693)","=SUM(AF692:AF693)","","","","=SUM(AJ692:AJ693)","=SUM(AK692:AK693)","","","","","","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","=2,5*2","","","","","=2,5*2","","","","","=2,5*2","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""]]
+Dec 3, 2024, 7:50:25 AM	Info	Processing group at row 11, ref column 15
+Dec 3, 2024, 7:50:25 AM	Info	Initial backgrounds:
+Dec 3, 2024, 7:50:26 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 3, 2024, 7:50:26 AM	Info	Initial font colors:
+Dec 3, 2024, 7:50:26 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
+Dec 3, 2024, 7:50:26 AM	Info	Skipping copy - target range contains existing values
+Dec 3, 2024, 7:50:26 AM	Info	Chrono values for group at row 11: 5
+Dec 3, 2024, 7:50:26 AM	Info	Chrono values for group at row 127: 5
+Dec 3, 2024, 7:50:26 AM	Info	Merging groups at rows 11 and 127
+Dec 3, 2024, 7:50:27 AM	Info	Formula state before copy at target row 11:
+Dec 3, 2024, 7:50:27 AM	Info	[["","","","","","","","","","","","","","","","","","","","","","","","","","=SUM(Z690:Z691)","=SUM(AA690:AA691)","","","","=SUM(AE690:AE691)","=SUM(AF690:AF691)","","","","=SUM(AJ690:AJ691)","=SUM(AK690:AK691)","","","","=SUM(AO690:AO691)","=SUM(AP690:AP691)","","","","","","","","","","","","","","","","","","","","","",""],["","","","","","","","","","","","","","","","","","","","","","","","","=2,5*2","","","","","=2,5*2","","","","","=2,5*2","","","","","=2,5*2","","","","","","","","","","","","","","","","","","","","","","","",""]]
+Dec 3, 2024, 7:50:27 AM	Info	Processing group at row 11, ref column 15
+Dec 3, 2024, 7:50:27 AM	Info	Initial backgrounds:
+Dec 3, 2024, 7:50:27 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 3, 2024, 7:50:27 AM	Info	Initial font colors:
+Dec 3, 2024, 7:50:27 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
+Dec 3, 2024, 7:50:27 AM	Info	Execution cancelled.
