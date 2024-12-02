@@ -1,0 +1,2523 @@
+Cloud logs
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 4 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 93: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 129: 30
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 30 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 93: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 131: 24,4,16
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 24,4,16 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 93: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 135: 5
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 5 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 93: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 137: 3
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 3 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 93: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 139: 8
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 8 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 93: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 141: 6
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 6 = false
+Dec 2, 2024, 11:33:37 AM	Info	Matching groups by reference: C0119001A
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 93: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 145: 20
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 20 = true
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 93: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 147: 41
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 41 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 93: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 149: 41
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 41 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 93: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 151: 8
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 8 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 93: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 153: 4
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 4 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 93: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 155: 30
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 30 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 93: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 157: 24,4,16
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 24,4,16 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 93: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 161: 5
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 5 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 93: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 163: 3
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 3 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 93: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 165: 8
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 8 = false
+Dec 2, 2024, 11:33:37 AM	Info	Matching groups by reference: C0119001A
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 93: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 169: 20
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 20 = true
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 93: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 171: 41
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 41 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 93: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 173: 41
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 41 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 93: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 175: 8
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 8 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 93: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 177: 2
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 2 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 95: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 97: 41
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 41 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 95: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 99: 41
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 41 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 95: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 101: 8
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 8 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 95: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 103: 2
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 2 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 95: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 105: 24,4,16
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 24,4,16 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 95: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 109: 5
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 5 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 95: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 111: 3
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 3 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 95: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 113: 8
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 8 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 95: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 115: 6
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 6 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 95: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 117: 20
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 20 = true
+Dec 2, 2024, 11:33:37 AM	Info	Matching groups by reference: C0119200A
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 95: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 121: 41
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 41 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 95: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 123: 41
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 41 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 95: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 125: 8
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 8 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 95: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 127: 4
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 4 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 95: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 129: 30
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 30 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 95: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 131: 24,4,16
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 24,4,16 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 95: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 135: 5
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 5 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 95: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 137: 3
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 3 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 95: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 139: 8
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 8 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 95: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 141: 6
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 6 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 95: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 143: 20
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 20 = true
+Dec 2, 2024, 11:33:37 AM	Info	Matching groups by reference: C0119200A
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 95: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 147: 41
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 41 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 95: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 149: 41
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 41 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 95: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 151: 8
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 8 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 95: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 153: 4
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 4 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 95: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 155: 30
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 30 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 95: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 157: 24,4,16
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 24,4,16 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 95: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 161: 5
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 5 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 95: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 163: 3
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 3 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 95: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 165: 8
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 8 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 95: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 167: 20
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 20 = true
+Dec 2, 2024, 11:33:37 AM	Info	Matching groups by reference: C0119200A
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 95: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 171: 41
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 41 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 95: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 173: 41
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 41 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 95: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 175: 8
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 8 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 95: 20
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 177: 2
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 20 vs 2 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 97: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 99: 41
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 41 = true
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 97: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 101: 8
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 8 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 97: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 103: 2
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 2 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 97: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 105: 24,4,16
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 24,4,16 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 97: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 109: 5
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 5 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 97: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 111: 3
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 3 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 97: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 113: 8
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 8 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 97: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 115: 6
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 6 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 97: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 117: 20
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 20 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 97: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 119: 20
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 20 = false
+Dec 2, 2024, 11:33:37 AM	Info	Matching groups by reference: C0119301A
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 97: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 123: 41
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 41 = true
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 97: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 125: 8
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 8 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 97: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 127: 4
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 4 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 97: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 129: 30
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 30 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 97: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 131: 24,4,16
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 24,4,16 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 97: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 135: 5
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 5 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 97: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 137: 3
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 3 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 97: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 139: 8
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 8 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 97: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 141: 6
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 6 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 97: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 143: 20
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 20 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 97: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 145: 20
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 20 = false
+Dec 2, 2024, 11:33:37 AM	Info	Matching groups by reference: C0119301A
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 97: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 149: 41
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 41 = true
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 97: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 151: 8
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 8 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 97: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 153: 4
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 4 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 97: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 155: 30
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 30 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 97: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 157: 24,4,16
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 24,4,16 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 97: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 161: 5
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 5 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 97: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 163: 3
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 3 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 97: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 165: 8
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 8 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 97: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 167: 20
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 20 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 97: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 169: 20
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 20 = false
+Dec 2, 2024, 11:33:37 AM	Info	Matching groups by reference: C0119301A
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 97: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 173: 41
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 41 = true
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 97: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 175: 8
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 8 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 97: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 177: 2
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 2 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 99: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 101: 8
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 8 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 99: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 103: 2
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 2 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 99: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 105: 24,4,16
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 24,4,16 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 99: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 109: 5
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 5 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 99: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 111: 3
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 3 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 99: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 113: 8
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 8 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 99: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 115: 6
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 6 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 99: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 117: 20
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 20 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 99: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 119: 20
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 20 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 99: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 121: 41
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 41 = true
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 99: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 123: 41
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 41 = true
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 99: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 125: 8
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 8 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 99: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 127: 4
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 4 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 99: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 129: 30
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 30 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 99: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 131: 24,4,16
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 24,4,16 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 99: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 135: 5
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 5 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 99: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 137: 3
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 3 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 99: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 139: 8
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 8 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 99: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 141: 6
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 6 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 99: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 143: 20
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 20 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 99: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 145: 20
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 20 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 99: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 147: 41
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 41 = true
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 99: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 149: 41
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 41 = true
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 99: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 151: 8
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 8 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 99: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 153: 4
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 4 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 99: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 155: 30
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 30 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 99: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 157: 24,4,16
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 24,4,16 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 99: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 161: 5
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 5 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 99: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 163: 3
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 3 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 99: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 165: 8
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 8 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 99: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 167: 20
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 20 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 99: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 169: 20
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 20 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 99: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 171: 41
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 41 = true
+Dec 2, 2024, 11:33:37 AM	Info	Matching groups by reference: C0119401A
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 99: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 175: 8
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 8 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 99: 41
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 177: 2
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 41 vs 2 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 101: 8
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 103: 2
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 8 vs 2 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 101: 8
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 105: 24,4,16
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 8 vs 24,4,16 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 101: 8
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 109: 5
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 8 vs 5 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 101: 8
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 111: 3
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 8 vs 3 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 101: 8
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 113: 8
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 8 vs 8 = true
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 101: 8
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 115: 6
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 8 vs 6 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 101: 8
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 117: 20
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 8 vs 20 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 101: 8
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 119: 20
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 8 vs 20 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 101: 8
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 121: 41
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 8 vs 41 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 101: 8
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 123: 41
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 8 vs 41 = false
+Dec 2, 2024, 11:33:37 AM	Info	Matching groups by reference: C0089302A
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 101: 8
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 127: 4
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 8 vs 4 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 101: 8
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 129: 30
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 8 vs 30 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 101: 8
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 131: 24,4,16
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 8 vs 24,4,16 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 101: 8
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 135: 5
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 8 vs 5 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 101: 8
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 137: 3
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 8 vs 3 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 101: 8
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 139: 8
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 8 vs 8 = true
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 101: 8
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 141: 6
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 8 vs 6 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 101: 8
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 143: 20
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 8 vs 20 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 101: 8
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 145: 20
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 8 vs 20 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 101: 8
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 147: 41
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 8 vs 41 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 101: 8
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 149: 41
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 8 vs 41 = false
+Dec 2, 2024, 11:33:37 AM	Info	Matching groups by reference: C0089302A
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 101: 8
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 153: 4
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 8 vs 4 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 101: 8
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 155: 30
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 8 vs 30 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 101: 8
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 157: 24,4,16
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 8 vs 24,4,16 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 101: 8
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 161: 5
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 8 vs 5 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 101: 8
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 163: 3
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 8 vs 3 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 101: 8
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 165: 8
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 8 vs 8 = true
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 101: 8
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 167: 20
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 8 vs 20 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 101: 8
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 169: 20
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 8 vs 20 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 101: 8
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 171: 41
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 8 vs 41 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 101: 8
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 173: 41
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 8 vs 41 = false
+Dec 2, 2024, 11:33:37 AM	Info	Matching groups by reference: C0089302A
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 101: 8
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 177: 2
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 8 vs 2 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 103: 2
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 105: 24,4,16
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 2 vs 24,4,16 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 103: 2
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 109: 5
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 2 vs 5 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 103: 2
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 111: 3
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 2 vs 3 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 103: 2
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 113: 8
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 2 vs 8 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 103: 2
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 115: 6
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 2 vs 6 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 103: 2
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 117: 20
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 2 vs 20 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 103: 2
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 119: 20
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 2 vs 20 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 103: 2
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 121: 41
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 2 vs 41 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 103: 2
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 123: 41
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 2 vs 41 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 103: 2
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 125: 8
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 2 vs 8 = false
+Dec 2, 2024, 11:33:37 AM	Info	Matching groups by reference: C0118900A
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 103: 2
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 129: 30
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 2 vs 30 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 103: 2
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 131: 24,4,16
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 2 vs 24,4,16 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 103: 2
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 135: 5
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 2 vs 5 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 103: 2
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 137: 3
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 2 vs 3 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 103: 2
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 139: 8
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 2 vs 8 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 103: 2
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 141: 6
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 2 vs 6 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 103: 2
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 143: 20
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 2 vs 20 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 103: 2
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 145: 20
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 2 vs 20 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 103: 2
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 147: 41
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 2 vs 41 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 103: 2
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 149: 41
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 2 vs 41 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 103: 2
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 151: 8
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 2 vs 8 = false
+Dec 2, 2024, 11:33:37 AM	Info	Matching groups by reference: C0118900A
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 103: 2
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 155: 30
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 2 vs 30 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 103: 2
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 157: 24,4,16
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 2 vs 24,4,16 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 103: 2
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 161: 5
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 2 vs 5 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 103: 2
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 163: 3
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 2 vs 3 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 103: 2
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 165: 8
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 2 vs 8 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 103: 2
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 167: 20
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 2 vs 20 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 103: 2
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 169: 20
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 2 vs 20 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 103: 2
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 171: 41
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 2 vs 41 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 103: 2
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 173: 41
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 2 vs 41 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 103: 2
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 175: 8
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 2 vs 8 = false
+Dec 2, 2024, 11:33:37 AM	Info	Matching groups by reference: C0118900A
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 105: 24,4,16
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 109: 5
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 24,4,16 vs 5 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 105: 24,4,16
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 111: 3
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 24,4,16 vs 3 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 105: 24,4,16
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 113: 8
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 24,4,16 vs 8 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 105: 24,4,16
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 115: 6
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 24,4,16 vs 6 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 105: 24,4,16
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 117: 20
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 24,4,16 vs 20 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 105: 24,4,16
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 119: 20
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 24,4,16 vs 20 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 105: 24,4,16
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 121: 41
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 24,4,16 vs 41 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 105: 24,4,16
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 123: 41
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 24,4,16 vs 41 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 105: 24,4,16
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 125: 8
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 24,4,16 vs 8 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 105: 24,4,16
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 127: 4
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 24,4,16 vs 4 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 105: 24,4,16
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 129: 30
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 24,4,16 vs 30 = false
+Dec 2, 2024, 11:33:37 AM	Info	Matching groups by reference: C0088401A
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 105: 24,4,16
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 135: 5
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 24,4,16 vs 5 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 105: 24,4,16
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 137: 3
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 24,4,16 vs 3 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 105: 24,4,16
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 139: 8
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 24,4,16 vs 8 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 105: 24,4,16
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 141: 6
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 24,4,16 vs 6 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 105: 24,4,16
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 143: 20
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 24,4,16 vs 20 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 105: 24,4,16
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 145: 20
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 24,4,16 vs 20 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 105: 24,4,16
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 147: 41
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 24,4,16 vs 41 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 105: 24,4,16
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 149: 41
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 24,4,16 vs 41 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 105: 24,4,16
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 151: 8
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 24,4,16 vs 8 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 105: 24,4,16
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 153: 4
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 24,4,16 vs 4 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 105: 24,4,16
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 155: 30
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 24,4,16 vs 30 = false
+Dec 2, 2024, 11:33:37 AM	Info	Matching groups by reference: C0088401A
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 105: 24,4,16
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 161: 5
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 24,4,16 vs 5 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 105: 24,4,16
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 163: 3
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 24,4,16 vs 3 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 105: 24,4,16
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 165: 8
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 24,4,16 vs 8 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 105: 24,4,16
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 167: 20
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 24,4,16 vs 20 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 105: 24,4,16
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 169: 20
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 24,4,16 vs 20 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 105: 24,4,16
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 171: 41
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 24,4,16 vs 41 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 105: 24,4,16
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 173: 41
+Dec 2, 2024, 11:33:37 AM	Info	Comparing chrono sequences: 24,4,16 vs 41 = false
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 105: 24,4,16
+Dec 2, 2024, 11:33:37 AM	Info	Chrono values for group at row 175: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 24,4,16 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 105: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 177: 2
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 24,4,16 vs 2 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 109: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 111: 3
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 3 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 109: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 113: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 109: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 115: 6
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 6 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 109: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 117: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 109: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 119: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 109: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 121: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 109: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 123: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 109: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 125: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 109: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 127: 4
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 4 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 109: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 129: 30
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 30 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 109: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 131: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 24,4,16 = false
+Dec 2, 2024, 11:33:38 AM	Info	Matching groups by reference: C0119501A
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 109: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 137: 3
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 3 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 109: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 139: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 109: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 141: 6
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 6 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 109: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 143: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 109: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 145: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 109: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 147: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 109: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 149: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 109: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 151: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 109: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 153: 4
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 4 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 109: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 155: 30
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 30 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 109: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 157: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 24,4,16 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 109: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 161: 5
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 5 = true
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 109: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 163: 3
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 3 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 109: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 165: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 109: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 167: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 109: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 169: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 109: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 171: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 109: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 173: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 109: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 175: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 109: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 177: 2
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 2 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 111: 3
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 113: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 3 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 111: 3
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 115: 6
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 3 vs 6 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 111: 3
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 117: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 3 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 111: 3
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 119: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 3 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 111: 3
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 121: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 3 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 111: 3
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 123: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 3 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 111: 3
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 125: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 3 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 111: 3
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 127: 4
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 3 vs 4 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 111: 3
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 129: 30
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 3 vs 30 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 111: 3
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 131: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 3 vs 24,4,16 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 111: 3
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 135: 5
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 3 vs 5 = false
+Dec 2, 2024, 11:33:38 AM	Info	Matching groups by reference: C0086001A
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 111: 3
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 139: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 3 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 111: 3
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 141: 6
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 3 vs 6 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 111: 3
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 143: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 3 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 111: 3
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 145: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 3 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 111: 3
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 147: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 3 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 111: 3
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 149: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 3 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 111: 3
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 151: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 3 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 111: 3
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 153: 4
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 3 vs 4 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 111: 3
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 155: 30
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 3 vs 30 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 111: 3
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 157: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 3 vs 24,4,16 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 111: 3
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 161: 5
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 3 vs 5 = false
+Dec 2, 2024, 11:33:38 AM	Info	Matching groups by reference: C0086001A
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 111: 3
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 165: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 3 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 111: 3
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 167: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 3 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 111: 3
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 169: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 3 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 111: 3
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 171: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 3 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 111: 3
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 173: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 3 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 111: 3
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 175: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 3 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 111: 3
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 177: 2
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 3 vs 2 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 113: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 115: 6
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 6 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 113: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 117: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 113: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 119: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 113: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 121: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 113: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 123: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 113: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 125: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 8 = true
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 113: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 127: 4
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 4 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 113: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 129: 30
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 30 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 113: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 131: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 24,4,16 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 113: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 135: 5
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 5 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 113: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 137: 3
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 3 = false
+Dec 2, 2024, 11:33:38 AM	Info	Matching groups by reference: C0086101A
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 113: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 141: 6
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 6 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 113: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 143: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 113: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 145: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 113: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 147: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 113: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 149: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 113: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 151: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 8 = true
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 113: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 153: 4
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 4 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 113: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 155: 30
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 30 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 113: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 157: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 24,4,16 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 113: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 161: 5
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 5 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 113: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 163: 3
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 3 = false
+Dec 2, 2024, 11:33:38 AM	Info	Matching groups by reference: C0086101A
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 113: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 167: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 113: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 169: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 113: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 171: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 113: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 173: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 113: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 175: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 8 = true
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 113: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 177: 2
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 2 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 115: 6
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 117: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 6 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 115: 6
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 119: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 6 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 115: 6
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 121: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 6 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 115: 6
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 123: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 6 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 115: 6
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 125: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 6 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 115: 6
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 127: 4
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 6 vs 4 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 115: 6
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 129: 30
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 6 vs 30 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 115: 6
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 131: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 6 vs 24,4,16 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 115: 6
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 135: 5
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 6 vs 5 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 115: 6
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 137: 3
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 6 vs 3 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 115: 6
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 139: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 6 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Matching groups by reference: C0119600A
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 115: 6
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 143: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 6 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 115: 6
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 145: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 6 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 115: 6
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 147: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 6 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 115: 6
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 149: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 6 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 115: 6
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 151: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 6 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 115: 6
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 153: 4
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 6 vs 4 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 115: 6
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 155: 30
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 6 vs 30 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 115: 6
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 157: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 6 vs 24,4,16 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 115: 6
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 161: 5
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 6 vs 5 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 115: 6
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 163: 3
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 6 vs 3 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 115: 6
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 165: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 6 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 115: 6
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 167: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 6 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 115: 6
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 169: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 6 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 115: 6
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 171: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 6 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 115: 6
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 173: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 6 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 115: 6
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 175: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 6 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 115: 6
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 177: 2
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 6 vs 2 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 117: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 119: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 20 = true
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 117: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 121: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 117: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 123: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 117: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 125: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 117: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 127: 4
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 4 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 117: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 129: 30
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 30 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 117: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 131: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 24,4,16 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 117: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 135: 5
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 5 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 117: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 137: 3
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 3 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 117: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 139: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 117: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 141: 6
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 6 = false
+Dec 2, 2024, 11:33:38 AM	Info	Matching groups by reference: C0119001A
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 117: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 145: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 20 = true
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 117: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 147: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 117: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 149: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 117: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 151: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 117: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 153: 4
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 4 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 117: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 155: 30
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 30 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 117: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 157: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 24,4,16 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 117: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 161: 5
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 5 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 117: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 163: 3
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 3 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 117: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 165: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Matching groups by reference: C0119001A
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 117: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 169: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 20 = true
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 117: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 171: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 117: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 173: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 117: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 175: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 117: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 177: 2
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 2 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 119: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 121: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 119: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 123: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 119: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 125: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 119: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 127: 4
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 4 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 119: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 129: 30
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 30 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 119: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 131: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 24,4,16 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 119: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 135: 5
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 5 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 119: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 137: 3
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 3 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 119: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 139: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 119: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 141: 6
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 6 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 119: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 143: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 20 = true
+Dec 2, 2024, 11:33:38 AM	Info	Matching groups by reference: C0119200A
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 119: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 147: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 119: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 149: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 119: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 151: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 119: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 153: 4
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 4 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 119: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 155: 30
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 30 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 119: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 157: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 24,4,16 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 119: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 161: 5
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 5 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 119: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 163: 3
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 3 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 119: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 165: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 119: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 167: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 20 = true
+Dec 2, 2024, 11:33:38 AM	Info	Matching groups by reference: C0119200A
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 119: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 171: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 119: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 173: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 119: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 175: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 119: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 177: 2
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 2 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 121: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 123: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 41 = true
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 121: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 125: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 121: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 127: 4
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 4 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 121: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 129: 30
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 30 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 121: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 131: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 24,4,16 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 121: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 135: 5
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 5 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 121: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 137: 3
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 3 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 121: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 139: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 121: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 141: 6
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 6 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 121: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 143: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 121: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 145: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Matching groups by reference: C0119301A
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 121: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 149: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 41 = true
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 121: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 151: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 121: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 153: 4
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 4 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 121: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 155: 30
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 30 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 121: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 157: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 24,4,16 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 121: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 161: 5
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 5 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 121: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 163: 3
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 3 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 121: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 165: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 121: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 167: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 121: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 169: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Matching groups by reference: C0119301A
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 121: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 173: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 41 = true
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 121: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 175: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 121: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 177: 2
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 2 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 123: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 125: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 123: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 127: 4
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 4 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 123: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 129: 30
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 30 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 123: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 131: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 24,4,16 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 123: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 135: 5
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 5 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 123: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 137: 3
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 3 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 123: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 139: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 123: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 141: 6
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 6 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 123: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 143: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 123: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 145: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 123: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 147: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 41 = true
+Dec 2, 2024, 11:33:38 AM	Info	Matching groups by reference: C0119404A
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 123: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 151: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 123: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 153: 4
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 4 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 123: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 155: 30
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 30 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 123: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 157: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 24,4,16 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 123: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 161: 5
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 5 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 123: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 163: 3
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 3 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 123: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 165: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 123: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 167: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 123: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 169: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 123: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 171: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 41 = true
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 123: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 173: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 41 = true
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 123: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 175: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 123: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 177: 2
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 2 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 125: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 127: 4
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 4 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 125: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 129: 30
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 30 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 125: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 131: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 24,4,16 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 125: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 135: 5
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 5 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 125: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 137: 3
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 3 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 125: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 139: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 8 = true
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 125: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 141: 6
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 6 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 125: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 143: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 125: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 145: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 125: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 147: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 125: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 149: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Matching groups by reference: C0089302A
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 125: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 153: 4
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 4 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 125: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 155: 30
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 30 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 125: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 157: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 24,4,16 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 125: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 161: 5
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 5 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 125: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 163: 3
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 3 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 125: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 165: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 8 = true
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 125: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 167: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 125: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 169: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 125: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 171: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 125: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 173: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Matching groups by reference: C0089302A
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 125: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 177: 2
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 2 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 127: 4
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 129: 30
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 4 vs 30 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 127: 4
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 131: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 4 vs 24,4,16 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 127: 4
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 135: 5
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 4 vs 5 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 127: 4
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 137: 3
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 4 vs 3 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 127: 4
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 139: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 4 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 127: 4
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 141: 6
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 4 vs 6 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 127: 4
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 143: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 4 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 127: 4
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 145: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 4 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 127: 4
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 147: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 4 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 127: 4
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 149: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 4 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 127: 4
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 151: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 4 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Matching groups by reference: C0118900A
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 127: 4
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 155: 30
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 4 vs 30 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 127: 4
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 157: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 4 vs 24,4,16 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 127: 4
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 161: 5
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 4 vs 5 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 127: 4
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 163: 3
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 4 vs 3 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 127: 4
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 165: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 4 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 127: 4
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 167: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 4 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 127: 4
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 169: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 4 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 127: 4
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 171: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 4 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 127: 4
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 173: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 4 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 127: 4
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 175: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 4 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Matching groups by reference: C0118900A
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 129: 30
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 131: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 30 vs 24,4,16 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 129: 30
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 135: 5
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 30 vs 5 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 129: 30
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 137: 3
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 30 vs 3 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 129: 30
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 139: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 30 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 129: 30
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 141: 6
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 30 vs 6 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 129: 30
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 143: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 30 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 129: 30
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 145: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 30 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 129: 30
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 147: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 30 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 129: 30
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 149: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 30 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 129: 30
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 151: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 30 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 129: 30
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 153: 4
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 30 vs 4 = false
+Dec 2, 2024, 11:33:38 AM	Info	Matching groups by reference: C0119103A
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 129: 30
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 157: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 30 vs 24,4,16 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 129: 30
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 161: 5
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 30 vs 5 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 129: 30
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 163: 3
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 30 vs 3 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 129: 30
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 165: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 30 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 129: 30
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 167: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 30 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 129: 30
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 169: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 30 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 129: 30
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 171: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 30 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 129: 30
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 173: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 30 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 129: 30
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 175: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 30 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 129: 30
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 177: 2
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 30 vs 2 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 131: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 135: 5
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 24,4,16 vs 5 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 131: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 137: 3
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 24,4,16 vs 3 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 131: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 139: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 24,4,16 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 131: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 141: 6
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 24,4,16 vs 6 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 131: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 143: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 24,4,16 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 131: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 145: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 24,4,16 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 131: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 147: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 24,4,16 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 131: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 149: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 24,4,16 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 131: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 151: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 24,4,16 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 131: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 153: 4
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 24,4,16 vs 4 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 131: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 155: 30
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 24,4,16 vs 30 = false
+Dec 2, 2024, 11:33:38 AM	Info	Matching groups by reference: C0088401A
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 131: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 161: 5
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 24,4,16 vs 5 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 131: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 163: 3
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 24,4,16 vs 3 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 131: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 165: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 24,4,16 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 131: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 167: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 24,4,16 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 131: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 169: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 24,4,16 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 131: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 171: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 24,4,16 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 131: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 173: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 24,4,16 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 131: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 175: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 24,4,16 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 131: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 177: 2
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 24,4,16 vs 2 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 135: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 137: 3
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 3 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 135: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 139: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 135: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 141: 6
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 6 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 135: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 143: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 135: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 145: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 135: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 147: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 135: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 149: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 135: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 151: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 135: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 153: 4
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 4 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 135: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 155: 30
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 30 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 135: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 157: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 24,4,16 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 135: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 161: 5
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 5 = true
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 135: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 163: 3
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 3 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 135: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 165: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 135: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 167: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 135: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 169: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 135: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 171: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 135: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 173: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 135: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 175: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 135: 5
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 177: 2
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 5 vs 2 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 137: 3
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 139: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 3 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 137: 3
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 141: 6
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 3 vs 6 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 137: 3
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 143: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 3 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 137: 3
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 145: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 3 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 137: 3
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 147: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 3 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 137: 3
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 149: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 3 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 137: 3
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 151: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 3 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 137: 3
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 153: 4
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 3 vs 4 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 137: 3
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 155: 30
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 3 vs 30 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 137: 3
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 157: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 3 vs 24,4,16 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 137: 3
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 161: 5
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 3 vs 5 = false
+Dec 2, 2024, 11:33:38 AM	Info	Matching groups by reference: C0086001A
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 137: 3
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 165: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 3 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 137: 3
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 167: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 3 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 137: 3
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 169: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 3 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 137: 3
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 171: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 3 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 137: 3
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 173: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 3 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 137: 3
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 175: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 3 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 137: 3
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 177: 2
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 3 vs 2 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 139: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 141: 6
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 6 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 139: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 143: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 139: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 145: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 139: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 147: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 139: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 149: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 139: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 151: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 8 = true
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 139: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 153: 4
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 4 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 139: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 155: 30
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 30 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 139: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 157: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 24,4,16 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 139: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 161: 5
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 5 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 139: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 163: 3
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 3 = false
+Dec 2, 2024, 11:33:38 AM	Info	Matching groups by reference: C0086101A
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 139: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 167: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 139: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 169: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 139: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 171: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 139: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 173: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 139: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 175: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 8 = true
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 139: 8
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 177: 2
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 8 vs 2 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 141: 6
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 143: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 6 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 141: 6
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 145: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 6 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 141: 6
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 147: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 6 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 141: 6
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 149: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 6 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 141: 6
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 151: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 6 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 141: 6
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 153: 4
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 6 vs 4 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 141: 6
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 155: 30
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 6 vs 30 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 141: 6
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 157: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 6 vs 24,4,16 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 141: 6
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 161: 5
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 6 vs 5 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 141: 6
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 163: 3
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 6 vs 3 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 141: 6
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 165: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 6 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 141: 6
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 167: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 6 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 141: 6
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 169: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 6 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 141: 6
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 171: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 6 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 141: 6
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 173: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 6 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 141: 6
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 175: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 6 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 141: 6
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 177: 2
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 6 vs 2 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 143: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 145: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 20 = true
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 143: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 147: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 143: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 149: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 143: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 151: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 143: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 153: 4
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 4 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 143: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 155: 30
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 30 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 143: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 157: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 24,4,16 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 143: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 161: 5
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 5 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 143: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 163: 3
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 3 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 143: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 165: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Matching groups by reference: C0119001A
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 143: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 169: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 20 = true
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 143: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 171: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 143: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 173: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 143: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 175: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 143: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 177: 2
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 2 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 145: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 147: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 145: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 149: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 145: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 151: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 145: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 153: 4
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 4 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 145: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 155: 30
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 30 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 145: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 157: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 24,4,16 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 145: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 161: 5
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 5 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 145: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 163: 3
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 3 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 145: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 165: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 145: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 167: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 20 = true
+Dec 2, 2024, 11:33:38 AM	Info	Matching groups by reference: C0119200A
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 145: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 171: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 145: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 173: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 41 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 145: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 175: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 145: 20
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 177: 2
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 20 vs 2 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 147: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 149: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 41 = true
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 147: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 151: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 147: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 153: 4
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 4 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 147: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 155: 30
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 30 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 147: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 157: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 24,4,16 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 147: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 161: 5
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 5 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 147: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 163: 3
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 3 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 147: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 165: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 147: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 167: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 147: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 169: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Matching groups by reference: C0119301A
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 147: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 173: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 41 = true
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 147: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 175: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 147: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 177: 2
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 2 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 149: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 151: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 149: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 153: 4
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 4 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 149: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 155: 30
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 30 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 149: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 157: 24,4,16
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 24,4,16 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 149: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 161: 5
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 5 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 149: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 163: 3
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 3 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 149: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 165: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 149: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 167: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 149: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 169: 20
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 20 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 149: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 171: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 41 = true
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 149: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 173: 41
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 41 = true
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 149: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 175: 8
+Dec 2, 2024, 11:33:38 AM	Info	Comparing chrono sequences: 41 vs 8 = false
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 149: 41
+Dec 2, 2024, 11:33:38 AM	Info	Chrono values for group at row 177: 2
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 41 vs 2 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 151: 8
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 153: 4
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 8 vs 4 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 151: 8
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 155: 30
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 8 vs 30 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 151: 8
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 157: 24,4,16
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 8 vs 24,4,16 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 151: 8
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 161: 5
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 8 vs 5 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 151: 8
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 163: 3
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 8 vs 3 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 151: 8
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 165: 8
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 8 vs 8 = true
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 151: 8
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 167: 20
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 8 vs 20 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 151: 8
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 169: 20
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 8 vs 20 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 151: 8
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 171: 41
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 8 vs 41 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 151: 8
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 173: 41
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 8 vs 41 = false
+Dec 2, 2024, 11:33:39 AM	Info	Matching groups by reference: C0089302A
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 151: 8
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 177: 2
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 8 vs 2 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 153: 4
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 155: 30
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 4 vs 30 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 153: 4
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 157: 24,4,16
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 4 vs 24,4,16 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 153: 4
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 161: 5
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 4 vs 5 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 153: 4
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 163: 3
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 4 vs 3 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 153: 4
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 165: 8
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 4 vs 8 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 153: 4
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 167: 20
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 4 vs 20 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 153: 4
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 169: 20
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 4 vs 20 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 153: 4
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 171: 41
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 4 vs 41 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 153: 4
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 173: 41
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 4 vs 41 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 153: 4
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 175: 8
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 4 vs 8 = false
+Dec 2, 2024, 11:33:39 AM	Info	Matching groups by reference: C0118900A
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 155: 30
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 157: 24,4,16
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 30 vs 24,4,16 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 155: 30
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 161: 5
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 30 vs 5 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 155: 30
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 163: 3
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 30 vs 3 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 155: 30
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 165: 8
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 30 vs 8 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 155: 30
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 167: 20
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 30 vs 20 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 155: 30
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 169: 20
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 30 vs 20 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 155: 30
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 171: 41
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 30 vs 41 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 155: 30
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 173: 41
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 30 vs 41 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 155: 30
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 175: 8
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 30 vs 8 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 155: 30
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 177: 2
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 30 vs 2 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 157: 24,4,16
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 161: 5
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 24,4,16 vs 5 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 157: 24,4,16
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 163: 3
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 24,4,16 vs 3 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 157: 24,4,16
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 165: 8
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 24,4,16 vs 8 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 157: 24,4,16
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 167: 20
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 24,4,16 vs 20 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 157: 24,4,16
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 169: 20
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 24,4,16 vs 20 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 157: 24,4,16
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 171: 41
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 24,4,16 vs 41 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 157: 24,4,16
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 173: 41
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 24,4,16 vs 41 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 157: 24,4,16
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 175: 8
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 24,4,16 vs 8 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 157: 24,4,16
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 177: 2
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 24,4,16 vs 2 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 161: 5
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 163: 3
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 5 vs 3 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 161: 5
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 165: 8
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 5 vs 8 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 161: 5
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 167: 20
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 5 vs 20 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 161: 5
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 169: 20
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 5 vs 20 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 161: 5
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 171: 41
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 5 vs 41 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 161: 5
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 173: 41
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 5 vs 41 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 161: 5
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 175: 8
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 5 vs 8 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 161: 5
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 177: 2
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 5 vs 2 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 163: 3
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 165: 8
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 3 vs 8 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 163: 3
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 167: 20
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 3 vs 20 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 163: 3
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 169: 20
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 3 vs 20 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 163: 3
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 171: 41
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 3 vs 41 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 163: 3
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 173: 41
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 3 vs 41 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 163: 3
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 175: 8
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 3 vs 8 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 163: 3
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 177: 2
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 3 vs 2 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 165: 8
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 167: 20
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 8 vs 20 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 165: 8
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 169: 20
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 8 vs 20 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 165: 8
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 171: 41
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 8 vs 41 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 165: 8
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 173: 41
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 8 vs 41 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 165: 8
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 175: 8
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 8 vs 8 = true
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 165: 8
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 177: 2
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 8 vs 2 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 167: 20
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 169: 20
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 20 vs 20 = true
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 167: 20
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 171: 41
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 20 vs 41 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 167: 20
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 173: 41
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 20 vs 41 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 167: 20
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 175: 8
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 20 vs 8 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 167: 20
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 177: 2
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 20 vs 2 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 169: 20
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 171: 41
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 20 vs 41 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 169: 20
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 173: 41
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 20 vs 41 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 169: 20
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 175: 8
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 20 vs 8 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 169: 20
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 177: 2
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 20 vs 2 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 171: 41
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 173: 41
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 41 vs 41 = true
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 171: 41
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 175: 8
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 41 vs 8 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 171: 41
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 177: 2
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 41 vs 2 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 173: 41
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 175: 8
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 41 vs 8 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 173: 41
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 177: 2
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 41 vs 2 = false
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 175: 8
+Dec 2, 2024, 11:33:39 AM	Info	Chrono values for group at row 177: 2
+Dec 2, 2024, 11:33:39 AM	Info	Comparing chrono sequences: 8 vs 2 = false
+Dec 2, 2024, 11:33:39 AM	Info	Merging data from rows 33-36 into 7-10
+Dec 2, 2024, 11:33:39 AM	Info	Processing group at row 7, ref column 15
+Dec 2, 2024, 11:33:39 AM	Info	Initial backgrounds:
+Dec 2, 2024, 11:33:39 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:39 AM	Info	Initial font colors:
+Dec 2, 2024, 11:33:39 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
+Dec 2, 2024, 11:33:39 AM	Info	Keeping original range: R7C15:R10C17
+Dec 2, 2024, 11:33:39 AM	Info	Copying from: R33C20:R36C22
+Dec 2, 2024, 11:33:39 AM	Info	Copying to: R7C20:R10C22
+Dec 2, 2024, 11:33:39 AM	Info	Final backgrounds for original range:
+Dec 2, 2024, 11:33:39 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:39 AM	Info	Final backgrounds for target range:
+Dec 2, 2024, 11:33:39 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:39 AM	Info	Merging data from rows 57-60 into 7-10
+Dec 2, 2024, 11:33:40 AM	Info	Processing group at row 7, ref column 15
+Dec 2, 2024, 11:33:40 AM	Info	Initial backgrounds:
+Dec 2, 2024, 11:33:40 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:40 AM	Info	Initial font colors:
+Dec 2, 2024, 11:33:40 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
+Dec 2, 2024, 11:33:40 AM	Info	Keeping original range: R7C15:R10C17
+Dec 2, 2024, 11:33:40 AM	Info	Copying from: R57C25:R60C27
+Dec 2, 2024, 11:33:40 AM	Info	Copying to: R7C25:R10C27
+Dec 2, 2024, 11:33:40 AM	Info	Final backgrounds for original range:
+Dec 2, 2024, 11:33:40 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:40 AM	Info	Final backgrounds for target range:
+Dec 2, 2024, 11:33:40 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:40 AM	Info	Merging data from rows 83-86 into 7-10
+Dec 2, 2024, 11:33:41 AM	Info	Processing group at row 7, ref column 15
+Dec 2, 2024, 11:33:41 AM	Info	Initial backgrounds:
+Dec 2, 2024, 11:33:41 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:41 AM	Info	Initial font colors:
+Dec 2, 2024, 11:33:41 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
+Dec 2, 2024, 11:33:41 AM	Info	Keeping original range: R7C15:R10C17
+Dec 2, 2024, 11:33:41 AM	Info	Copying from: R83C30:R86C32
+Dec 2, 2024, 11:33:41 AM	Info	Copying to: R7C30:R10C32
+Dec 2, 2024, 11:33:41 AM	Info	Final backgrounds for original range:
+Dec 2, 2024, 11:33:42 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:42 AM	Info	Final backgrounds for target range:
+Dec 2, 2024, 11:33:42 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:42 AM	Info	Merging data from rows 105-108 into 7-10
+Dec 2, 2024, 11:33:43 AM	Info	Processing group at row 7, ref column 15
+Dec 2, 2024, 11:33:43 AM	Info	Initial backgrounds:
+Dec 2, 2024, 11:33:43 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:43 AM	Info	Initial font colors:
+Dec 2, 2024, 11:33:43 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
+Dec 2, 2024, 11:33:43 AM	Info	Keeping original range: R7C15:R10C17
+Dec 2, 2024, 11:33:43 AM	Info	Copying from: R105C35:R108C37
+Dec 2, 2024, 11:33:43 AM	Info	Copying to: R7C35:R10C37
+Dec 2, 2024, 11:33:43 AM	Info	Final backgrounds for original range:
+Dec 2, 2024, 11:33:43 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:43 AM	Info	Final backgrounds for target range:
+Dec 2, 2024, 11:33:43 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:43 AM	Info	Merging data from rows 131-134 into 7-10
+Dec 2, 2024, 11:33:44 AM	Info	Processing group at row 7, ref column 15
+Dec 2, 2024, 11:33:44 AM	Info	Initial backgrounds:
+Dec 2, 2024, 11:33:45 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:45 AM	Info	Initial font colors:
+Dec 2, 2024, 11:33:45 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
+Dec 2, 2024, 11:33:45 AM	Info	Keeping original range: R7C15:R10C17
+Dec 2, 2024, 11:33:45 AM	Info	Copying from: R131C40:R134C42
+Dec 2, 2024, 11:33:45 AM	Info	Copying to: R7C40:R10C42
+Dec 2, 2024, 11:33:45 AM	Info	Final backgrounds for original range:
+Dec 2, 2024, 11:33:45 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:45 AM	Info	Final backgrounds for target range:
+Dec 2, 2024, 11:33:45 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:45 AM	Info	Merging data from rows 157-160 into 7-10
+Dec 2, 2024, 11:33:46 AM	Info	Processing group at row 7, ref column 15
+Dec 2, 2024, 11:33:46 AM	Info	Initial backgrounds:
+Dec 2, 2024, 11:33:46 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:46 AM	Info	Initial font colors:
+Dec 2, 2024, 11:33:46 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
+Dec 2, 2024, 11:33:46 AM	Info	Keeping original range: R7C15:R10C17
+Dec 2, 2024, 11:33:46 AM	Info	Copying from: R157C45:R160C47
+Dec 2, 2024, 11:33:46 AM	Info	Copying to: R7C45:R10C47
+Dec 2, 2024, 11:33:46 AM	Info	Final backgrounds for original range:
+Dec 2, 2024, 11:33:46 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:46 AM	Info	Final backgrounds for target range:
+Dec 2, 2024, 11:33:46 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:46 AM	Info	Merging data from rows 37-38 into 11-12
+Dec 2, 2024, 11:33:47 AM	Info	Processing group at row 11, ref column 15
+Dec 2, 2024, 11:33:47 AM	Info	Initial backgrounds:
+Dec 2, 2024, 11:33:47 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:47 AM	Info	Initial font colors:
+Dec 2, 2024, 11:33:47 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
+Dec 2, 2024, 11:33:47 AM	Info	Keeping original range: R11C15:R12C17
+Dec 2, 2024, 11:33:47 AM	Info	Copying from: R37C20:R38C22
+Dec 2, 2024, 11:33:47 AM	Info	Copying to: R11C20:R12C22
+Dec 2, 2024, 11:33:47 AM	Info	Final backgrounds for original range:
+Dec 2, 2024, 11:33:48 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:48 AM	Info	Final backgrounds for target range:
+Dec 2, 2024, 11:33:48 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:48 AM	Info	Merging data from rows 61-62 into 11-12
+Dec 2, 2024, 11:33:48 AM	Info	Processing group at row 11, ref column 15
+Dec 2, 2024, 11:33:48 AM	Info	Initial backgrounds:
+Dec 2, 2024, 11:33:48 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:48 AM	Info	Initial font colors:
+Dec 2, 2024, 11:33:48 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
+Dec 2, 2024, 11:33:48 AM	Info	Keeping original range: R11C15:R12C17
+Dec 2, 2024, 11:33:48 AM	Info	Copying from: R61C25:R62C27
+Dec 2, 2024, 11:33:48 AM	Info	Copying to: R11C25:R12C27
+Dec 2, 2024, 11:33:48 AM	Info	Final backgrounds for original range:
+Dec 2, 2024, 11:33:49 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:49 AM	Info	Final backgrounds for target range:
+Dec 2, 2024, 11:33:49 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:49 AM	Info	Merging data from rows 87-88 into 11-12
+Dec 2, 2024, 11:33:49 AM	Info	Processing group at row 11, ref column 15
+Dec 2, 2024, 11:33:49 AM	Info	Initial backgrounds:
+Dec 2, 2024, 11:33:50 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:50 AM	Info	Initial font colors:
+Dec 2, 2024, 11:33:50 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
+Dec 2, 2024, 11:33:50 AM	Info	Keeping original range: R11C15:R12C17
+Dec 2, 2024, 11:33:50 AM	Info	Copying from: R87C30:R88C32
+Dec 2, 2024, 11:33:50 AM	Info	Copying to: R11C30:R12C32
+Dec 2, 2024, 11:33:50 AM	Info	Final backgrounds for original range:
+Dec 2, 2024, 11:33:50 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:50 AM	Info	Final backgrounds for target range:
+Dec 2, 2024, 11:33:50 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:50 AM	Info	Merging data from rows 109-110 into 11-12
+Dec 2, 2024, 11:33:51 AM	Info	Processing group at row 11, ref column 15
+Dec 2, 2024, 11:33:51 AM	Info	Initial backgrounds:
+Dec 2, 2024, 11:33:51 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:51 AM	Info	Initial font colors:
+Dec 2, 2024, 11:33:51 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
+Dec 2, 2024, 11:33:51 AM	Info	Keeping original range: R11C15:R12C17
+Dec 2, 2024, 11:33:51 AM	Info	Copying from: R109C35:R110C37
+Dec 2, 2024, 11:33:51 AM	Info	Copying to: R11C35:R12C37
+Dec 2, 2024, 11:33:51 AM	Info	Final backgrounds for original range:
+Dec 2, 2024, 11:33:51 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:51 AM	Info	Final backgrounds for target range:
+Dec 2, 2024, 11:33:51 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:51 AM	Info	Merging data from rows 135-136 into 11-12
+Dec 2, 2024, 11:33:52 AM	Info	Processing group at row 11, ref column 15
+Dec 2, 2024, 11:33:52 AM	Info	Initial backgrounds:
+Dec 2, 2024, 11:33:52 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:52 AM	Info	Initial font colors:
+Dec 2, 2024, 11:33:52 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
+Dec 2, 2024, 11:33:52 AM	Info	Keeping original range: R11C15:R12C17
+Dec 2, 2024, 11:33:52 AM	Info	Copying from: R135C40:R136C42
+Dec 2, 2024, 11:33:52 AM	Info	Copying to: R11C40:R12C42
+Dec 2, 2024, 11:33:52 AM	Info	Final backgrounds for original range:
+Dec 2, 2024, 11:33:53 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:53 AM	Info	Final backgrounds for target range:
+Dec 2, 2024, 11:33:53 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:53 AM	Info	Merging data from rows 161-162 into 11-12
+Dec 2, 2024, 11:33:54 AM	Info	Processing group at row 11, ref column 15
+Dec 2, 2024, 11:33:54 AM	Info	Initial backgrounds:
+Dec 2, 2024, 11:33:54 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:54 AM	Info	Initial font colors:
+Dec 2, 2024, 11:33:54 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
+Dec 2, 2024, 11:33:54 AM	Info	Keeping original range: R11C15:R12C17
+Dec 2, 2024, 11:33:54 AM	Info	Copying from: R161C45:R162C47
+Dec 2, 2024, 11:33:54 AM	Info	Copying to: R11C45:R12C47
+Dec 2, 2024, 11:33:54 AM	Info	Final backgrounds for original range:
+Dec 2, 2024, 11:33:54 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:54 AM	Info	Final backgrounds for target range:
+Dec 2, 2024, 11:33:54 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:54 AM	Info	Merging data from rows 39-40 into 13-14
+Dec 2, 2024, 11:33:55 AM	Info	Processing group at row 13, ref column 15
+Dec 2, 2024, 11:33:55 AM	Info	Initial backgrounds:
+Dec 2, 2024, 11:33:55 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:55 AM	Info	Initial font colors:
+Dec 2, 2024, 11:33:55 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
+Dec 2, 2024, 11:33:55 AM	Info	Keeping original range: R13C15:R14C17
+Dec 2, 2024, 11:33:55 AM	Info	Copying from: R39C20:R40C22
+Dec 2, 2024, 11:33:55 AM	Info	Copying to: R13C20:R14C22
+Dec 2, 2024, 11:33:55 AM	Info	Final backgrounds for original range:
+Dec 2, 2024, 11:33:55 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:55 AM	Info	Final backgrounds for target range:
+Dec 2, 2024, 11:33:55 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:55 AM	Info	Merging data from rows 63-64 into 13-14
+Dec 2, 2024, 11:33:56 AM	Info	Processing group at row 13, ref column 15
+Dec 2, 2024, 11:33:56 AM	Info	Initial backgrounds:
+Dec 2, 2024, 11:33:56 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:56 AM	Info	Initial font colors:
+Dec 2, 2024, 11:33:56 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
+Dec 2, 2024, 11:33:56 AM	Info	Keeping original range: R13C15:R14C17
+Dec 2, 2024, 11:33:56 AM	Info	Copying from: R63C25:R64C27
+Dec 2, 2024, 11:33:56 AM	Info	Copying to: R13C25:R14C27
+Dec 2, 2024, 11:33:56 AM	Info	Final backgrounds for original range:
+Dec 2, 2024, 11:33:56 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:56 AM	Info	Final backgrounds for target range:
+Dec 2, 2024, 11:33:56 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:56 AM	Info	Merging data from rows 89-90 into 13-14
+Dec 2, 2024, 11:33:56 AM	Info	Processing group at row 13, ref column 15
+Dec 2, 2024, 11:33:56 AM	Info	Initial backgrounds:
+Dec 2, 2024, 11:33:57 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:57 AM	Info	Initial font colors:
+Dec 2, 2024, 11:33:57 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
+Dec 2, 2024, 11:33:57 AM	Info	Keeping original range: R13C15:R14C17
+Dec 2, 2024, 11:33:57 AM	Info	Copying from: R89C30:R90C32
+Dec 2, 2024, 11:33:57 AM	Info	Copying to: R13C30:R14C32
+Dec 2, 2024, 11:33:57 AM	Info	Final backgrounds for original range:
+Dec 2, 2024, 11:33:58 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:58 AM	Info	Final backgrounds for target range:
+Dec 2, 2024, 11:33:58 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:58 AM	Info	Merging data from rows 111-112 into 13-14
+Dec 2, 2024, 11:33:58 AM	Info	Processing group at row 13, ref column 15
+Dec 2, 2024, 11:33:58 AM	Info	Initial backgrounds:
+Dec 2, 2024, 11:33:58 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:58 AM	Info	Initial font colors:
+Dec 2, 2024, 11:33:58 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
+Dec 2, 2024, 11:33:58 AM	Info	Keeping original range: R13C15:R14C17
+Dec 2, 2024, 11:33:58 AM	Info	Copying from: R111C35:R112C37
+Dec 2, 2024, 11:33:58 AM	Info	Copying to: R13C35:R14C37
+Dec 2, 2024, 11:33:58 AM	Info	Final backgrounds for original range:
+Dec 2, 2024, 11:33:59 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:59 AM	Info	Final backgrounds for target range:
+Dec 2, 2024, 11:33:59 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:33:59 AM	Info	Merging data from rows 137-138 into 13-14
+Dec 2, 2024, 11:33:59 AM	Info	Processing group at row 13, ref column 15
+Dec 2, 2024, 11:33:59 AM	Info	Initial backgrounds:
+Dec 2, 2024, 11:34:00 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:34:00 AM	Info	Initial font colors:
+Dec 2, 2024, 11:34:00 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
+Dec 2, 2024, 11:34:00 AM	Info	Keeping original range: R13C15:R14C17
+Dec 2, 2024, 11:34:00 AM	Info	Copying from: R137C40:R138C42
+Dec 2, 2024, 11:34:00 AM	Info	Copying to: R13C40:R14C42
+Dec 2, 2024, 11:34:00 AM	Info	Final backgrounds for original range:
+Dec 2, 2024, 11:34:00 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:34:00 AM	Info	Final backgrounds for target range:
+Dec 2, 2024, 11:34:00 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:34:00 AM	Info	Merging data from rows 163-164 into 13-14
+Dec 2, 2024, 11:34:01 AM	Info	Processing group at row 13, ref column 15
+Dec 2, 2024, 11:34:01 AM	Info	Initial backgrounds:
+Dec 2, 2024, 11:34:01 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:34:01 AM	Info	Initial font colors:
+Dec 2, 2024, 11:34:01 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
+Dec 2, 2024, 11:34:01 AM	Info	Keeping original range: R13C15:R14C17
+Dec 2, 2024, 11:34:01 AM	Info	Copying from: R163C45:R164C47
+Dec 2, 2024, 11:34:01 AM	Info	Copying to: R13C45:R14C47
+Dec 2, 2024, 11:34:01 AM	Info	Final backgrounds for original range:
+Dec 2, 2024, 11:34:01 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:34:01 AM	Info	Final backgrounds for target range:
+Dec 2, 2024, 11:34:01 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:34:01 AM	Info	Merging data from rows 27-28 into 15-16
+Dec 2, 2024, 11:34:01 AM	Info	Processing group at row 15, ref column 15
+Dec 2, 2024, 11:34:01 AM	Info	Initial backgrounds:
+Dec 2, 2024, 11:34:02 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:34:02 AM	Info	Initial font colors:
+Dec 2, 2024, 11:34:02 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
+Dec 2, 2024, 11:34:02 AM	Info	Merging data from rows 41-42 into 15-16
+Dec 2, 2024, 11:34:02 AM	Info	Processing group at row 15, ref column 15
+Dec 2, 2024, 11:34:02 AM	Info	Initial backgrounds:
+Dec 2, 2024, 11:34:02 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:34:02 AM	Info	Initial font colors:
+Dec 2, 2024, 11:34:02 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
+Dec 2, 2024, 11:34:02 AM	Info	Keeping original range: R15C15:R16C17
+Dec 2, 2024, 11:34:02 AM	Info	Copying from: R41C20:R42C22
+Dec 2, 2024, 11:34:02 AM	Info	Copying to: R15C20:R16C22
+Dec 2, 2024, 11:34:02 AM	Info	Final backgrounds for original range:
+Dec 2, 2024, 11:34:03 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:34:03 AM	Info	Final backgrounds for target range:
+Dec 2, 2024, 11:34:03 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:34:03 AM	Info	Merging data from rows 51-52 into 15-16
+Dec 2, 2024, 11:34:03 AM	Info	Processing group at row 15, ref column 15
+Dec 2, 2024, 11:34:03 AM	Info	Initial backgrounds:
+Dec 2, 2024, 11:34:03 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:34:03 AM	Info	Initial font colors:
+Dec 2, 2024, 11:34:03 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
+Dec 2, 2024, 11:34:03 AM	Info	Keeping original range: R15C15:R16C17
+Dec 2, 2024, 11:34:03 AM	Info	Copying from: R51C20:R52C22
+Dec 2, 2024, 11:34:03 AM	Info	Copying to: R15C20:R16C22
+Dec 2, 2024, 11:34:03 AM	Info	Final backgrounds for original range:
+Dec 2, 2024, 11:34:04 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:34:04 AM	Info	Final backgrounds for target range:
+Dec 2, 2024, 11:34:04 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:34:04 AM	Info	Merging data from rows 65-66 into 15-16
+Dec 2, 2024, 11:34:05 AM	Info	Processing group at row 15, ref column 15
+Dec 2, 2024, 11:34:05 AM	Info	Initial backgrounds:
+Dec 2, 2024, 11:34:05 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:34:05 AM	Info	Initial font colors:
+Dec 2, 2024, 11:34:05 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
+Dec 2, 2024, 11:34:05 AM	Info	Keeping original range: R15C15:R16C17
+Dec 2, 2024, 11:34:05 AM	Info	Copying from: R65C25:R66C27
+Dec 2, 2024, 11:34:05 AM	Info	Copying to: R15C25:R16C27
+Dec 2, 2024, 11:34:05 AM	Info	Final backgrounds for original range:
+Dec 2, 2024, 11:34:05 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:34:05 AM	Info	Final backgrounds for target range:
+Dec 2, 2024, 11:34:05 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:34:05 AM	Info	Merging data from rows 77-78 into 15-16
+Dec 2, 2024, 11:34:05 AM	Info	Processing group at row 15, ref column 15
+Dec 2, 2024, 11:34:05 AM	Info	Initial backgrounds:
+Dec 2, 2024, 11:34:06 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:34:06 AM	Info	Initial font colors:
+Dec 2, 2024, 11:34:06 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
+Dec 2, 2024, 11:34:06 AM	Info	Keeping original range: R15C15:R16C17
+Dec 2, 2024, 11:34:06 AM	Info	Copying from: R77C25:R78C27
+Dec 2, 2024, 11:34:06 AM	Info	Copying to: R15C25:R16C27
+Dec 2, 2024, 11:34:06 AM	Info	Final backgrounds for original range:
+Dec 2, 2024, 11:34:06 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:34:06 AM	Info	Final backgrounds for target range:
+Dec 2, 2024, 11:34:06 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:34:06 AM	Info	Merging data from rows 91-92 into 15-16
+Dec 2, 2024, 11:34:07 AM	Info	Processing group at row 15, ref column 15
+Dec 2, 2024, 11:34:07 AM	Info	Initial backgrounds:
+Dec 2, 2024, 11:34:07 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:34:07 AM	Info	Initial font colors:
+Dec 2, 2024, 11:34:07 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
+Dec 2, 2024, 11:34:07 AM	Info	Keeping original range: R15C15:R16C17
+Dec 2, 2024, 11:34:07 AM	Info	Copying from: R91C30:R92C32
+Dec 2, 2024, 11:34:07 AM	Info	Copying to: R15C30:R16C32
+Dec 2, 2024, 11:34:07 AM	Info	Final backgrounds for original range:
+Dec 2, 2024, 11:34:07 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:34:07 AM	Info	Final backgrounds for target range:
+Dec 2, 2024, 11:34:07 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:34:07 AM	Info	Merging data from rows 101-102 into 15-16
+Dec 2, 2024, 11:34:08 AM	Info	Processing group at row 15, ref column 15
+Dec 2, 2024, 11:34:08 AM	Info	Initial backgrounds:
+Dec 2, 2024, 11:34:08 AM	Info	[["#92d050","#92d050","#92d050"],["#ffffff","#666666","#666666"]]
+Dec 2, 2024, 11:34:08 AM	Info	Initial font colors:
+Dec 2, 2024, 11:34:08 AM	Info	[["#000000","#000000","#000000"],["#000000","#000000","#000000"]]
+Dec 2, 2024, 11:34:08 AM	Info	Keeping original range: R15C15:R16C17
+Dec 2, 2024, 11:34:08 AM	Info	Copying from: R101C30:R102C32
+Dec 2, 2024, 11:34:08 AM	Info	Copying to: R15C30:R16C32
+Dec 2, 2024, 11:34:08 AM	Info	Execution cancelled.
